@@ -1,0 +1,47 @@
+# Group Weekly Progress Report
+
+**Master's in Business Analytics – Culminating Project**  
+**Group Name:** Group 4 
+**Week of:** Week 3  
+
+## 1. Group Lead for the Week
+📌 **Lead Member Name:** Syed Ahmed 
+
+---
+
+## 2. Individual Contributions
+| **Student Name**  | **Time Spent (hrs)** | **Tasks Completed** | **Challenges Faced** |
+|-------------------|-------------------|------------------|-----------------|
+|Syed Ahmed  | 4  | Worked on queries and fustration report  | Reviewing tasks and week 2 to figure out how to apply it to the fustration report |
+|Wenjia Duan  | 3 | Worked on queries | what type of queries are needed. |
+| Lekhana Chndra | 6 | Worked on creating table and queries.  | How to use SQL lite 3 to create and import tables. |
+| Namrata Eli | 6 | Created ERD and tables via SQL queries. | Deciding on the structure of the table and how to use SQL lite 3  |
+
+---
+
+## 3. Key Achievements for the Week
+📌 Created ERD for our tables  
+📌 Created fustration report for week 2  
+📌 Using MySQL workbench for creating out database
+
+---
+
+## 4. Pending Tasks for Next Week
+📌 Handling missing values  
+📌 Standardizing data 
+📌 Reviewing what SQL queries should be used for the project  
+
+---
+
+## 5. GitHub Submission Details
+🔗 **GitHub Repository Link:** (https://github.com/CSUN-MS-BANA/culminating-project-group-4-1.git)  
+📁 **Files Updated/Added:**  
+- All files in Week_3 folder  
+ 
+
+---
+
+### Submission Instructions
+1. Complete this progress report weekly.
+2. Upload it to your **GitHub repository** along with your project files.
+3. Keep track of contributions to maintain transparency.
