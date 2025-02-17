@@ -1,0 +1,51 @@
+Country Name,Country Code,Series Name,Series Code,2021 [YR2021],2022 [YR2022],2023 [YR2023]
+China,CHN,Broad money (% of GDP),FM.LBL.BMNY.GD.ZS,203.8378734,217.1287767,227.9445732
+China,CHN,Broad money (current LCU),FM.LBL.BMNY.CN,2.34258E+14,2.6158E+14,2.87343E+14
+China,CHN,Broad money growth (annual %),FM.LBL.BMNY.ZG,9.075745734,11.66330022,9.848834535
+China,CHN,Broad money to total reserves ratio,FM.LBL.BMNY.IR.ZS,10.59672482,11.74127048,11.75872445
+China,CHN,Claims on central government (annual growth as % of broad money),FM.AST.CGOV.ZG.M3,2.094292056,2.761421195,2.792120091
+China,CHN,Claims on other sectors of the domestic economy (annual growth as % of broad money),FM.AST.DOMO.ZG.M3,..,..,..
+China,CHN,Claims on private sector (annual growth as % of broad money),FM.AST.PRVT.ZG.M3,8.554996445,8.796261892,8.056557638
+China,CHN,"Official exchange rate (LCU per US$, period average)",PA.NUS.FCRF,6.44897518,6.737158112,7.083998423
+China,CHN,Real effective exchange rate index (2010 = 100),PX.REX.REER,127.328418,125.966431,116.0394435
+Germany,DEU,Broad money (% of GDP),FM.LBL.BMNY.GD.ZS,..,..,..
+Germany,DEU,Broad money (current LCU),FM.LBL.BMNY.CN,..,..,..
+Germany,DEU,Broad money growth (annual %),FM.LBL.BMNY.ZG,..,..,..
+Germany,DEU,Broad money to total reserves ratio,FM.LBL.BMNY.IR.ZS,..,..,..
+Germany,DEU,Claims on central government (annual growth as % of broad money),FM.AST.CGOV.ZG.M3,..,..,..
+Germany,DEU,Claims on other sectors of the domestic economy (annual growth as % of broad money),FM.AST.DOMO.ZG.M3,..,..,..
+Germany,DEU,Claims on private sector (annual growth as % of broad money),FM.AST.PRVT.ZG.M3,..,..,..
+Germany,DEU,"Official exchange rate (LCU per US$, period average)",PA.NUS.FCRF,0.845494139,0.949623753,0.924839558
+Germany,DEU,Real effective exchange rate index (2010 = 100),PX.REX.REER,97.13995968,93.7213134,97.1443097
+Japan,JPN,Broad money (% of GDP),FM.LBL.BMNY.GD.ZS,281.9455368,284.665258,275.5569422
+Japan,JPN,Broad money (current LCU),FM.LBL.BMNY.CN,1.55795E+15,1.5933E+15,1.6277E+15
+Japan,JPN,Broad money growth (annual %),FM.LBL.BMNY.ZG,2.945157822,2.268993929,2.158940293
+Japan,JPN,Broad money to total reserves ratio,FM.LBL.BMNY.IR.ZS,10.09774055,9.870305126,8.949061357
+Japan,JPN,Claims on central government (annual growth as % of broad money),FM.AST.CGOV.ZG.M3,0.095290076,-0.063487259,2.210412074
+Japan,JPN,Claims on other sectors of the domestic economy (annual growth as % of broad money),FM.AST.DOMO.ZG.M3,2.750976457,-0.073063943,2.889304853
+Japan,JPN,Claims on private sector (annual growth as % of broad money),FM.AST.PRVT.ZG.M3,0.988086923,1.572578947,1.86513502
+Japan,JPN,"Official exchange rate (LCU per US$, period average)",PA.NUS.FCRF,109.7543238,131.4981404,140.4911001
+Japan,JPN,Real effective exchange rate index (2010 = 100),PX.REX.REER,70.69116244,61.01097912,58.11491152
+India,IND,Broad money (% of GDP),FM.LBL.BMNY.GD.ZS,82.10203483,..,..
+India,IND,Broad money (current LCU),FM.LBL.BMNY.CN,1.93739E+14,..,..
+India,IND,Broad money growth (annual %),FM.LBL.BMNY.ZG,11.29710567,..,..
+India,IND,Broad money to total reserves ratio,FM.LBL.BMNY.IR.ZS,4.072757428,..,..
+India,IND,Claims on central government (annual growth as % of broad money),FM.AST.CGOV.ZG.M3,2.594670506,..,..
+India,IND,Claims on other sectors of the domestic economy (annual growth as % of broad money),FM.AST.DOMO.ZG.M3,..,..,..
+India,IND,Claims on private sector (annual growth as % of broad money),FM.AST.PRVT.ZG.M3,5.806218088,..,..
+India,IND,"Official exchange rate (LCU per US$, period average)",PA.NUS.FCRF,73.91801282,78.60449058,82.59927645
+India,IND,Real effective exchange rate index (2010 = 100),PX.REX.REER,..,..,..
+United States,USA,Broad money (% of GDP),FM.LBL.BMNY.GD.ZS,114.9809344,103.8161168,99.12791711
+United States,USA,Broad money (current LCU),FM.LBL.BMNY.CN,2.72288E+13,2.69993E+13,2.7479E+13
+United States,USA,Broad money growth (annual %),FM.LBL.BMNY.ZG,16.85668337,-0.84280258,1.776394992
+United States,USA,Broad money to total reserves ratio,FM.LBL.BMNY.IR.ZS,38.0210092,38.20783613,35.52887385
+United States,USA,Claims on central government (annual growth as % of broad money),FM.AST.CGOV.ZG.M3,12.67334133,-3.916926706,-0.393185277
+United States,USA,Claims on other sectors of the domestic economy (annual growth as % of broad money),FM.AST.DOMO.ZG.M3,6.037187781,3.197856047,2.014442875
+United States,USA,Claims on private sector (annual growth as % of broad money),FM.AST.PRVT.ZG.M3,1.761209024,5.169487554,1.206869309
+United States,USA,"Official exchange rate (LCU per US$, period average)",PA.NUS.FCRF,1,1,1
+United States,USA,Real effective exchange rate index (2010 = 100),PX.REX.REER,115.6271055,126.625654,127.5404195
+,,,,,,
+,,,,,,
+,,,,,,
+Data from database: World Development Indicators,,,,,,
+Last Updated: 01/28/2025,,,,,,

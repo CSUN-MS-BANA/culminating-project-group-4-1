@@ -1,0 +1,142 @@
+Country Name,Country Code,Series Name,Series Code,2021Q1 [YR2021Q1],2021Q2 [YR2021Q2],2021Q3 [YR2021Q3],2021Q4 [YR2021Q4],2022Q1 [YR2022Q1],2022Q2 [YR2022Q2],2022Q3 [YR2022Q3],2022Q4 [YR2022Q4],2023Q1 [YR2023Q1],2023Q2 [YR2023Q2],2023Q3 [YR2023Q3],2023Q4 [YR2023Q4]
+China,CHN,"Gross PSD, General Gov.-D1, All maturities, Debt securities + loans, Nominal Value, US$",DP.DOD.DLD1.CR.GG.CD,..,..,..,..,..,..,..,..,..,..,..,..
+China,CHN,"Gross PSD, General Gov.-D2, All maturities, D1+ SDRs + currency and deposits, Nominal Value, US$",DP.DOD.DLD2.CR.GG.CD,..,..,..,..,..,..,..,..,..,..,..,..
+China,CHN,"Gross PSD, General Gov.-D2A, All maturities, D1+ currency and deposits, Maastricht debt, US$",DP.DOD.DLD2A.CR.GG.CD,..,..,..,..,..,..,..,..,..,..,..,..
+China,CHN,"Gross PSD, General Gov.-D3, All maturities, D2+other accounts payable, Nominal Value, US$",DP.DOD.DLD3.CR.GG.CD,..,..,..,..,..,..,..,..,..,..,..,..
+China,CHN,"Gross PSD, General Gov.-D4, All maturities, D3+insurance, pensions, and standardized guarantees, Nominal Value, US$",DP.DOD.DLD4.CR.GG.CD,..,..,..,..,..,..,..,..,..,..,..,..
+China,CHN,"Gross PSD, Central Gov.-D1, All maturities, Debt securities + loans, Nominal Value, US$",DP.DOD.DLD1.CR.CG.CD,3.20022E+12,3.31714E+12,3.4304E+12,3.65278E+12,3.66355E+12,3.5713E+12,3.52493E+12,..,3.80878E+12,3.66138E+12,3.87097E+12,4.20411E+12
+China,CHN,"Gross PSD, Central Gov.-D2, All maturities, D1+ SDRs + currency and deposits, Nominal Value, US$",DP.DOD.DLD2.CR.CG.CD,..,..,..,..,..,..,..,..,..,..,..,..
+China,CHN,"Gross PSD, Central Gov.-D2A, All maturities, D1+ currency and deposits, Maastricht debt, US$",DP.DOD.DLD2A.CR.CG.CD,..,..,..,..,..,..,..,..,..,..,..,..
+China,CHN,"Gross PSD, Central Gov.-D3, All maturities, D2+other accounts payable, Nominal Value, US$",DP.DOD.DLD3.CR.CG.CD,..,..,..,..,..,..,..,..,..,..,..,..
+China,CHN,"Gross PSD, Central Gov.-D4, All maturities, D3+insurance, pensions, and standardized guarantees, Nominal Value, US$",DP.DOD.DLD4.CR.CG.CD,..,..,..,..,..,..,..,..,..,..,..,..
+China,CHN,"Gross PSD, Central Gov., All maturities, Debt securities, Nominal Value, US$",DP.DOD.DLDS.CR.CG.CD,3.19769E+12,3.3146E+12,3.42788E+12,3.65021E+12,3.66096E+12,3.56879E+12,3.52245E+12,..,3.80628E+12,3.65899E+12,3.86866E+12,4.20178E+12
+China,CHN,"Gross PSD, Central Gov., All maturities, Debt Securities, Market value, US$",DP.DOD.DLDS.CR.MV.CG.CD,..,..,..,..,..,..,..,..,..,..,..,..
+China,CHN,"Gross PSD, Budgetary Central Gov., All maturities, Debt securities, Nominal Value, US$",DP.DOD.DLDS.CR.BC.CD,..,..,..,..,..,..,..,..,..,..,..,..
+China,CHN,"Gross PSD, Budgetary Central Gov., All maturities, Debt Securities, Market value, US$",DP.DOD.DLDS.CR.MV.BC.CD,..,..,..,..,..,..,..,..,..,..,..,..
+China,CHN,"Gross PSD, General Gov., All maturities, Debt Securities, Market value, National Currency",DP.DOD.DLDS.CR.MV.GG,..,..,..,..,..,..,..,..,..,..,..,..
+China,CHN,"Gross PSD, General Gov., All maturities, Debt securities, Nominal Value, National Currency",DP.DOD.DLDS.CR.GG,..,..,..,..,..,..,..,..,..,..,..,..
+China,CHN,"Gross PSD, General Gov., All maturities, Debt Securities, Market value, US$",DP.DOD.DLDS.CR.MV.GG.CD,..,..,..,..,..,..,..,..,..,..,..,..
+China,CHN,"Gross PSD, General Gov., All maturities, Debt securities, Nominal Value, US$",DP.DOD.DLDS.CR.GG.CD,..,..,..,..,..,..,..,..,..,..,..,..
+China,CHN,"Gross PSD, General Gov., All maturities, Debt securities, Nominal Value, % of GDP",DP.DOD.DLDS.CR.GG.Z1,..,..,..,..,..,..,..,..,..,..,..,..
+China,CHN,"Gross PSD, General Gov., All maturities, Debt Securities, Market value, % of GDP",DP.DOD.DLDS.CR.MV.GG.Z1,..,..,..,..,..,..,..,..,..,..,..,..
+China,CHN,"Gross PSD, Nonfinancial Public Corp., All maturities, Debt Securities, Market value, US$",DP.DOD.DLDS.CR.MV.NF.CD,..,..,..,..,..,..,..,..,..,..,..,..
+China,CHN,"Gross PSD, Nonfinancial Public Corp., All maturities, Debt securities, Nominal Value, US$",DP.DOD.DLDS.CR.NF.CD,..,..,..,..,..,..,..,..,..,..,..,..
+China,CHN,"Gross PSD, Nonfinancial Public Corp., All maturities, Debt securities, Nominal Value, National Currency",DP.DOD.DLDS.CR.NF,..,..,..,..,..,..,..,..,..,..,..,..
+China,CHN,"Gross PSD, Nonfinancial Public Corp., All maturities, Debt Securities, Market value, National Currency",DP.DOD.DLDS.CR.MV.NF,..,..,..,..,..,..,..,..,..,..,..,..
+China,CHN,"Gross PSD, Nonfinancial Public Corp., All maturities, Debt Securities, Market value, % of GDP",DP.DOD.DLDS.CR.MV.NF.Z1,..,..,..,..,..,..,..,..,..,..,..,..
+China,CHN,"Gross PSD, Nonfinancial Public Corp., All maturities, Debt securities, Nominal Value, % of GDP",DP.DOD.DLDS.CR.NF.Z1,..,..,..,..,..,..,..,..,..,..,..,..
+China,CHN,"Gross PSD, Financial Public Corp., All maturities, Debt Securities, Market value, % of GDP",DP.DOD.DLDS.CR.MV.FC.Z1,..,..,..,..,..,..,..,..,..,..,..,..
+China,CHN,"Gross PSD, Financial Public Corp., All maturities, Debt Securities, Market value, National Currency",DP.DOD.DLDS.CR.MV.FC,..,..,..,..,..,..,..,..,..,..,..,..
+China,CHN,"Gross PSD, Financial Public Corp., All maturities, Debt Securities, Market value, US$",DP.DOD.DLDS.CR.MV.FC.CD,..,..,..,..,..,..,..,..,..,..,..,..
+China,CHN,"Gross PSD, Financial Public Corp., All maturities, Debt securities, Nominal Value, % of GDP",DP.DOD.DLDS.CR.FC.Z1,..,..,..,..,..,..,..,..,..,..,..,..
+China,CHN,"Gross PSD, Financial Public Corp., All maturities, Debt securities, Nominal Value, National Currency",DP.DOD.DLDS.CR.FC,..,..,..,..,..,..,..,..,..,..,..,..
+China,CHN,"Gross PSD, Financial Public Corp., All maturities, Debt securities, Nominal Value, US$",DP.DOD.DLDS.CR.FC.CD,..,..,..,..,..,..,..,..,..,..,..,..
+China,CHN,"Gross PSD, Public Sector, All maturities, Debt Securities, Market value, National Currency",DP.DOD.DLDS.CR.MV.PS,..,..,..,..,..,..,..,..,..,..,..,..
+China,CHN,"Gross PSD, Public Sector, All maturities, Debt securities, Nominal Value, National Currency",DP.DOD.DLDS.CR.PS,..,..,..,..,..,..,..,..,..,..,..,..
+Germany,DEU,"Gross PSD, General Gov.-D1, All maturities, Debt securities + loans, Nominal Value, US$",DP.DOD.DLD1.CR.GG.CD,2.77144E+12,2.86772E+12,2.83298E+12,2.81426E+12,2.76291E+12,2.62243E+12,2.46958E+12,2.72258E+12,2.80794E+12,2.80366E+12,2.77521E+12,2.88945E+12
+Germany,DEU,"Gross PSD, General Gov.-D2, All maturities, D1+ SDRs + currency and deposits, Nominal Value, US$",DP.DOD.DLD2.CR.GG.CD,2.78617E+12,2.88358E+12,2.84903E+12,2.83469E+12,2.78065E+12,2.64123E+12,2.49195E+12,2.74105E+12,2.82462E+12,2.82033E+12,2.7944E+12,2.90811E+12
+Germany,DEU,"Gross PSD, General Gov.-D2A, All maturities, D1+ currency and deposits, Maastricht debt, US$",DP.DOD.DLD2A.CR.GG.CD,2.78617E+12,2.88358E+12,2.84903E+12,2.83469E+12,2.78065E+12,2.64123E+12,2.49195E+12,2.74105E+12,2.82462E+12,2.82033E+12,2.7944E+12,2.90811E+12
+Germany,DEU,"Gross PSD, General Gov.-D3, All maturities, D2+other accounts payable, Nominal Value, US$",DP.DOD.DLD3.CR.GG.CD,..,..,..,..,..,..,..,..,..,..,..,..
+Germany,DEU,"Gross PSD, General Gov.-D4, All maturities, D3+insurance, pensions, and standardized guarantees, Nominal Value, US$",DP.DOD.DLD4.CR.GG.CD,..,..,..,..,..,..,..,..,..,..,..,..
+Germany,DEU,"Gross PSD, Central Gov.-D1, All maturities, Debt securities + loans, Nominal Value, US$",DP.DOD.DLD1.CR.CG.CD,1.80966E+12,1.89285E+12,1.87608E+12,1.8862E+12,1.85648E+12,1.77562E+12,1.69451E+12,1.88033E+12,1.94495E+12,1.95184E+12,1.94595E+12,2.03285E+12
+Germany,DEU,"Gross PSD, Central Gov.-D2, All maturities, D1+ SDRs + currency and deposits, Nominal Value, US$",DP.DOD.DLD2.CR.CG.CD,1.82439E+12,1.90871E+12,1.89212E+12,1.90663E+12,1.87422E+12,1.79443E+12,1.71689E+12,1.8988E+12,1.96163E+12,1.96851E+12,1.96515E+12,2.05151E+12
+Germany,DEU,"Gross PSD, Central Gov.-D2A, All maturities, D1+ currency and deposits, Maastricht debt, US$",DP.DOD.DLD2A.CR.CG.CD,1.82439E+12,1.90871E+12,1.89212E+12,1.90663E+12,1.87422E+12,1.79443E+12,1.71689E+12,1.8988E+12,1.96163E+12,1.96851E+12,1.96515E+12,2.05151E+12
+Germany,DEU,"Gross PSD, Central Gov.-D3, All maturities, D2+other accounts payable, Nominal Value, US$",DP.DOD.DLD3.CR.CG.CD,..,..,..,..,..,..,..,..,..,..,..,..
+Germany,DEU,"Gross PSD, Central Gov.-D4, All maturities, D3+insurance, pensions, and standardized guarantees, Nominal Value, US$",DP.DOD.DLD4.CR.CG.CD,..,..,..,..,..,..,..,..,..,..,..,..
+Germany,DEU,"Gross PSD, Central Gov., All maturities, Debt securities, Nominal Value, US$",DP.DOD.DLDS.CR.CG.CD,1.61825E+12,1.6932E+12,1.68097E+12,1.67289E+12,1.66032E+12,1.58037E+12,1.47664E+12,1.6413E+12,1.73648E+12,1.76226E+12,1.76345E+12,1.82922E+12
+Germany,DEU,"Gross PSD, Central Gov., All maturities, Debt Securities, Market value, US$",DP.DOD.DLDS.CR.MV.CG.CD,1.90827E+12,1.97157E+12,1.94965E+12,1.93532E+12,1.8113E+12,1.59681E+12,1.42644E+12,1.51522E+12,1.6312E+12,1.62837E+12,1.58501E+12,1.73981E+12
+Germany,DEU,"Gross PSD, Budgetary Central Gov., All maturities, Debt securities, Nominal Value, US$",DP.DOD.DLDS.CR.BC.CD,..,..,..,..,..,..,..,..,..,..,..,..
+Germany,DEU,"Gross PSD, Budgetary Central Gov., All maturities, Debt Securities, Market value, US$",DP.DOD.DLDS.CR.MV.BC.CD,..,..,..,..,..,..,..,..,..,..,..,..
+Germany,DEU,"Gross PSD, General Gov., All maturities, Debt Securities, Market value, National Currency",DP.DOD.DLDS.CR.MV.GG,2.09456E+12,2.12472E+12,2.15371E+12,2.17074E+12,2.07197E+12,1.95025E+12,1.84333E+12,1.79392E+12,1.87298E+12,1.8647E+12,1.85658E+12,1.95001E+12
+Germany,DEU,"Gross PSD, General Gov., All maturities, Debt securities, Nominal Value, National Currency",DP.DOD.DLDS.CR.GG,1.82803E+12,1.87307E+12,1.90471E+12,1.92579E+12,1.94778E+12,1.97291E+12,1.94693E+12,1.96904E+12,2.02674E+12,2.04477E+12,2.08815E+12,2.0746E+12
+Germany,DEU,"Gross PSD, General Gov., All maturities, Debt Securities, Market value, US$",DP.DOD.DLDS.CR.MV.GG.CD,2.45587E+12,2.52502E+12,2.49378E+12,2.45858E+12,2.30009E+12,2.02572E+12,1.79688E+12,1.9134E+12,2.03687E+12,2.02618E+12,1.96686E+12,2.15477E+12
+Germany,DEU,"Gross PSD, General Gov., All maturities, Debt securities, Nominal Value, US$",DP.DOD.DLDS.CR.GG.CD,2.14336E+12,2.22596E+12,2.20546E+12,2.18115E+12,2.16223E+12,2.04926E+12,1.89787E+12,2.10018E+12,2.20408E+12,2.22185E+12,2.21219E+12,2.29243E+12
+Germany,DEU,"Gross PSD, General Gov., All maturities, Debt securities, Nominal Value, % of GDP",DP.DOD.DLDS.CR.GG.Z1,52.92929812,52.69799784,52.7266338,52.38154373,51.8730767,51.55952922,50.04347927,49.80069205,50.36345747,50.1019527,50.50423699,49.56575426
+Germany,DEU,"Gross PSD, General Gov., All maturities, Debt Securities, Market value, % of GDP",DP.DOD.DLDS.CR.MV.GG.Z1,60.64654923,59.77799035,59.61945178,59.04421645,55.18037764,50.96720999,47.38060599,45.37152396,46.54256839,45.68972023,44.9034129,46.58919377
+Germany,DEU,"Gross PSD, Nonfinancial Public Corp., All maturities, Debt Securities, Market value, US$",DP.DOD.DLDS.CR.MV.NF.CD,..,..,..,..,..,..,..,..,..,..,..,..
+Germany,DEU,"Gross PSD, Nonfinancial Public Corp., All maturities, Debt securities, Nominal Value, US$",DP.DOD.DLDS.CR.NF.CD,..,..,..,..,..,..,..,..,..,..,..,..
+Germany,DEU,"Gross PSD, Nonfinancial Public Corp., All maturities, Debt securities, Nominal Value, National Currency",DP.DOD.DLDS.CR.NF,..,..,..,..,..,..,..,..,..,..,..,..
+Germany,DEU,"Gross PSD, Nonfinancial Public Corp., All maturities, Debt Securities, Market value, National Currency",DP.DOD.DLDS.CR.MV.NF,..,..,..,..,..,..,..,..,..,..,..,..
+Germany,DEU,"Gross PSD, Nonfinancial Public Corp., All maturities, Debt Securities, Market value, % of GDP",DP.DOD.DLDS.CR.MV.NF.Z1,..,..,..,..,..,..,..,..,..,..,..,..
+Germany,DEU,"Gross PSD, Nonfinancial Public Corp., All maturities, Debt securities, Nominal Value, % of GDP",DP.DOD.DLDS.CR.NF.Z1,..,..,..,..,..,..,..,..,..,..,..,..
+Germany,DEU,"Gross PSD, Financial Public Corp., All maturities, Debt Securities, Market value, % of GDP",DP.DOD.DLDS.CR.MV.FC.Z1,..,..,..,..,..,..,..,..,..,..,..,..
+Germany,DEU,"Gross PSD, Financial Public Corp., All maturities, Debt Securities, Market value, National Currency",DP.DOD.DLDS.CR.MV.FC,..,..,..,..,..,..,..,..,..,..,..,..
+Germany,DEU,"Gross PSD, Financial Public Corp., All maturities, Debt Securities, Market value, US$",DP.DOD.DLDS.CR.MV.FC.CD,..,..,..,..,..,..,..,..,..,..,..,..
+Germany,DEU,"Gross PSD, Financial Public Corp., All maturities, Debt securities, Nominal Value, % of GDP",DP.DOD.DLDS.CR.FC.Z1,..,..,..,..,..,..,..,..,..,..,..,..
+Germany,DEU,"Gross PSD, Financial Public Corp., All maturities, Debt securities, Nominal Value, National Currency",DP.DOD.DLDS.CR.FC,..,..,..,..,..,..,..,..,..,..,..,..
+Germany,DEU,"Gross PSD, Financial Public Corp., All maturities, Debt securities, Nominal Value, US$",DP.DOD.DLDS.CR.FC.CD,..,..,..,..,..,..,..,..,..,..,..,..
+Germany,DEU,"Gross PSD, Public Sector, All maturities, Debt Securities, Market value, National Currency",DP.DOD.DLDS.CR.MV.PS,..,..,..,..,..,..,..,..,..,..,..,..
+Germany,DEU,"Gross PSD, Public Sector, All maturities, Debt securities, Nominal Value, National Currency",DP.DOD.DLDS.CR.PS,..,..,..,..,..,..,..,..,..,..,..,..
+Japan,JPN,"Gross PSD, General Gov.-D1, All maturities, Debt securities + loans, Nominal Value, US$",DP.DOD.DLD1.CR.GG.CD,1.09979E+13,1.10986E+13,1.09256E+13,1.07293E+13,1.02706E+13,9.32526E+12,8.77755E+12,9.61915E+12,9.66194E+12,8.95442E+12,8.65416E+12,9.17649E+12
+Japan,JPN,"Gross PSD, General Gov.-D2, All maturities, D1+ SDRs + currency and deposits, Nominal Value, US$",DP.DOD.DLD2.CR.GG.CD,..,..,..,..,..,..,..,..,..,..,..,..
+Japan,JPN,"Gross PSD, General Gov.-D2A, All maturities, D1+ currency and deposits, Maastricht debt, US$",DP.DOD.DLD2A.CR.GG.CD,..,..,..,..,..,..,..,..,..,..,..,..
+Japan,JPN,"Gross PSD, General Gov.-D3, All maturities, D2+other accounts payable, Nominal Value, US$",DP.DOD.DLD3.CR.GG.CD,..,..,..,..,..,..,..,..,..,..,..,..
+Japan,JPN,"Gross PSD, General Gov.-D4, All maturities, D3+insurance, pensions, and standardized guarantees, Nominal Value, US$",DP.DOD.DLD4.CR.GG.CD,..,..,..,..,..,..,..,..,..,..,..,..
+Japan,JPN,"Gross PSD, Central Gov.-D1, All maturities, Debt securities + loans, Nominal Value, US$",DP.DOD.DLD1.CR.CG.CD,1.03454E+13,1.04358E+13,1.03038E+13,1.00844E+13,9.56295E+12,8.57522E+12,8.0573E+12,8.68266E+12,8.88582E+12,8.25124E+12,7.81679E+12,8.35962E+12
+Japan,JPN,"Gross PSD, Central Gov.-D2, All maturities, D1+ SDRs + currency and deposits, Nominal Value, US$",DP.DOD.DLD2.CR.CG.CD,..,..,..,..,..,..,..,..,..,..,..,..
+Japan,JPN,"Gross PSD, Central Gov.-D2A, All maturities, D1+ currency and deposits, Maastricht debt, US$",DP.DOD.DLD2A.CR.CG.CD,..,..,..,..,..,..,..,..,..,..,..,..
+Japan,JPN,"Gross PSD, Central Gov.-D3, All maturities, D2+other accounts payable, Nominal Value, US$",DP.DOD.DLD3.CR.CG.CD,..,..,..,..,..,..,..,..,..,..,..,..
+Japan,JPN,"Gross PSD, Central Gov.-D4, All maturities, D3+insurance, pensions, and standardized guarantees, Nominal Value, US$",DP.DOD.DLD4.CR.CG.CD,..,..,..,..,..,..,..,..,..,..,..,..
+Japan,JPN,"Gross PSD, Central Gov., All maturities, Debt securities, Nominal Value, US$",DP.DOD.DLDS.CR.CG.CD,9.87175E+12,9.97352E+12,9.8627E+12,9.64906E+12,9.11532E+12,8.19021E+12,7.7059E+12,8.26943E+12,8.44513E+12,7.86597E+12,7.45378E+12,7.95602E+12
+Japan,JPN,"Gross PSD, Central Gov., All maturities, Debt Securities, Market value, US$",DP.DOD.DLDS.CR.MV.CG.CD,9.87175E+12,9.97352E+12,9.8627E+12,9.64906E+12,9.11532E+12,8.19021E+12,7.7059E+12,8.26943E+12,8.44513E+12,7.86597E+12,7.45378E+12,7.95602E+12
+Japan,JPN,"Gross PSD, Budgetary Central Gov., All maturities, Debt securities, Nominal Value, US$",DP.DOD.DLDS.CR.BC.CD,..,..,..,..,..,..,..,..,..,..,..,..
+Japan,JPN,"Gross PSD, Budgetary Central Gov., All maturities, Debt Securities, Market value, US$",DP.DOD.DLDS.CR.MV.BC.CD,..,..,..,..,..,..,..,..,..,..,..,..
+Japan,JPN,"Gross PSD, General Gov., All maturities, Debt Securities, Market value, National Currency",DP.DOD.DLDS.CR.MV.GG,1.12193E+15,1.12968E+15,1.1302E+15,1.12972E+15,1.14113E+15,1.14379E+15,1.13837E+15,1.12068E+15,1.14886E+15,1.1591E+15,1.12992E+15,1.14227E+15
+Japan,JPN,"Gross PSD, General Gov., All maturities, Debt securities, Nominal Value, National Currency",DP.DOD.DLDS.CR.GG,1.06594E+15,1.07271E+15,1.07431E+15,1.07622E+15,1.10312E+15,1.11953E+15,1.12183E+15,1.12313E+15,1.13328E+15,1.14163E+15,1.14254E+15,1.14877E+15
+Japan,JPN,"Gross PSD, General Gov., All maturities, Debt Securities, Market value, US$",DP.DOD.DLDS.CR.MV.GG.CD,1.01348E+13,1.02234E+13,1.00992E+13,9.89156E+12,9.32294E+12,8.37146E+12,7.86495E+12,8.44841E+12,8.607E+12,8.00041E+12,7.56101E+12,8.04926E+12
+Japan,JPN,"Gross PSD, General Gov., All maturities, Debt securities, Nominal Value, US$",DP.DOD.DLDS.CR.GG.CD,9.62912E+12,9.70774E+12,9.59973E+12,9.42316E+12,9.01241E+12,8.1939E+12,7.75068E+12,8.46687E+12,8.49026E+12,7.87981E+12,7.64547E+12,8.09508E+12
+Japan,JPN,"Gross PSD, General Gov., All maturities, Debt securities, Nominal Value, % of GDP",DP.DOD.DLDS.CR.GG.Z1,197.8410614,195.6223646,194.9023588,194.59065,198.9097562,201.2851131,201.1372033,200.3779442,199.7782533,198.4344283,195.4845029,194.0780953
+Japan,JPN,"Gross PSD, General Gov., All maturities, Debt Securities, Market value, % of GDP",DP.DOD.DLDS.CR.MV.GG.Z1,208.2314209,206.0127246,205.0436501,204.2632709,205.7635259,205.6470577,204.1024804,199.9410354,202.5251517,201.4714497,193.3249553,192.9794703
+Japan,JPN,"Gross PSD, Nonfinancial Public Corp., All maturities, Debt Securities, Market value, US$",DP.DOD.DLDS.CR.MV.NF.CD,1.12822E+11,1.11476E+11,1.12734E+11,1.1168E+11,1.02645E+11,90124423626,85046289899,92897851489,90684746779,84030231916,79979925054,83468395462
+Japan,JPN,"Gross PSD, Nonfinancial Public Corp., All maturities, Debt securities, Nominal Value, US$",DP.DOD.DLDS.CR.NF.CD,1.09281E+11,1.0775E+11,1.09069E+11,1.0816E+11,1.00607E+11,89268096319,84882548017,94431963815,90970182799,84070265047,81917826552,85001057008
+Japan,JPN,"Gross PSD, Nonfinancial Public Corp., All maturities, Debt securities, Nominal Value, National Currency",DP.DOD.DLDS.CR.NF,1.20974E+13,1.19064E+13,1.22059E+13,1.2353E+13,1.23143E+13,1.21967E+13,1.22859E+13,1.25264E+13,1.21427E+13,1.21801E+13,1.22418E+13,1.20625E+13
+Japan,JPN,"Gross PSD, Nonfinancial Public Corp., All maturities, Debt Securities, Market value, National Currency",DP.DOD.DLDS.CR.MV.NF,1.24894E+13,1.23181E+13,1.26161E+13,1.2755E+13,1.25637E+13,1.23137E+13,1.23096E+13,1.23229E+13,1.21046E+13,1.21743E+13,1.19522E+13,1.1845E+13
+Japan,JPN,"Gross PSD, Nonfinancial Public Corp., All maturities, Debt Securities, Market value, % of GDP",DP.DOD.DLDS.CR.MV.NF.Z1,2.318055027,2.246371605,2.28883422,2.306225108,2.265434316,2.213928528,2.207028116,2.198531327,2.133838115,2.116102948,2.044981308,2.001140033
+Japan,JPN,"Gross PSD, Nonfinancial Public Corp., All maturities, Debt securities, Nominal Value, % of GDP",DP.DOD.DLDS.CR.NF.Z1,2.245299124,2.17129256,2.214415042,2.233539691,2.220463542,2.192892638,2.202778866,2.234837807,2.140554506,2.117111088,2.094530896,2.037885323
+Japan,JPN,"Gross PSD, Financial Public Corp., All maturities, Debt Securities, Market value, % of GDP",DP.DOD.DLDS.CR.MV.FC.Z1,38.5474878,37.3490076,35.84700346,36.06467773,34.26096825,33.543021,32.06163026,31.70039215,31.78402694,31.10575561,29.12360877,28.46322244
+Japan,JPN,"Gross PSD, Financial Public Corp., All maturities, Debt Securities, Market value, National Currency",DP.DOD.DLDS.CR.MV.FC,2.07689E+14,2.04805E+14,1.97589E+14,1.99462E+14,1.90005E+14,1.86564E+14,1.78822E+14,1.77683E+14,1.80301E+14,1.78957E+14,1.70217E+14,1.68477E+14
+Japan,JPN,"Gross PSD, Financial Public Corp., All maturities, Debt Securities, Market value, US$",DP.DOD.DLDS.CR.MV.FC.CD,1.87614E+12,1.85344E+12,1.76561E+12,1.74645E+12,1.55233E+12,1.36547E+12,1.23547E+12,1.33948E+12,1.35077E+12,1.23521E+12,1.13903E+12,1.18721E+12
+Japan,JPN,"Gross PSD, Financial Public Corp., All maturities, Debt securities, Nominal Value, % of GDP",DP.DOD.DLDS.CR.FC.Z1,36.76439282,35.61002591,34.15548202,34.42334337,33.14645398,32.86911739,31.6556745,31.84611762,31.42893961,30.70760989,29.54792845,28.72278779
+Japan,JPN,"Gross PSD, Financial Public Corp., All maturities, Debt securities, Nominal Value, National Currency",DP.DOD.DLDS.CR.FC,1.98082E+14,1.9527E+14,1.88266E+14,1.90385E+14,1.83824E+14,1.82816E+14,1.76558E+14,1.78499E+14,1.78287E+14,1.76666E+14,1.72697E+14,1.70014E+14
+Japan,JPN,"Gross PSD, Financial Public Corp., All maturities, Debt securities, Nominal Value, US$",DP.DOD.DLDS.CR.FC.CD,1.78936E+12,1.76714E+12,1.6823E+12,1.66697E+12,1.50183E+12,1.33803E+12,1.21983E+12,1.34564E+12,1.33568E+12,1.2194E+12,1.15563E+12,1.19804E+12
+Japan,JPN,"Gross PSD, Public Sector, All maturities, Debt Securities, Market value, National Currency",DP.DOD.DLDS.CR.MV.PS,..,..,..,..,..,..,..,..,..,..,..,..
+Japan,JPN,"Gross PSD, Public Sector, All maturities, Debt securities, Nominal Value, National Currency",DP.DOD.DLDS.CR.PS,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Gross PSD, General Gov.-D1, All maturities, Debt securities + loans, Nominal Value, US$",DP.DOD.DLD1.CR.GG.CD,2.61546E+13,2.622E+13,2.63213E+13,2.71498E+13,2.78755E+13,2.78737E+13,2.82797E+13,2.85932E+13,2.89173E+13,2.94202E+13,3.03187E+13,3.10454E+13
+United States,USA,"Gross PSD, General Gov.-D2, All maturities, D1+ SDRs + currency and deposits, Nominal Value, US$",DP.DOD.DLD2.CR.GG.CD,2.62552E+13,2.6321E+13,2.65338E+13,2.73614E+13,2.80851E+13,2.80772E+13,2.84779E+13,2.87975E+13,2.91234E+13,2.96247E+13,3.05222E+13,3.12521E+13
+United States,USA,"Gross PSD, General Gov.-D2A, All maturities, D1+ currency and deposits, Maastricht debt, US$",DP.DOD.DLD2A.CR.GG.CD,2.62051E+13,2.62706E+13,2.6372E+13,2.72006E+13,2.79263E+13,2.79247E+13,2.83309E+13,2.86446E+13,2.89689E+13,2.9472E+13,3.03711E+13,3.1098E+13
+United States,USA,"Gross PSD, General Gov.-D3, All maturities, D2+other accounts payable, Nominal Value, US$",DP.DOD.DLD3.CR.GG.CD,2.8222E+13,2.82596E+13,2.83997E+13,2.91495E+13,2.98416E+13,2.98173E+13,3.02082E+13,3.05444E+13,3.08892E+13,3.14115E+13,3.2335E+13,3.30777E+13
+United States,USA,"Gross PSD, General Gov.-D4, All maturities, D3+insurance, pensions, and standardized guarantees, Nominal Value, US$",DP.DOD.DLD4.CR.GG.CD,3.41587E+13,3.40347E+13,3.43191E+13,3.46576E+13,3.5314E+13,3.5459E+13,3.58464E+13,3.56721E+13,3.6038E+13,3.65182E+13,3.75855E+13,3.79147E+13
+United States,USA,"Gross PSD, Central Gov.-D1, All maturities, Debt securities + loans, Nominal Value, US$",DP.DOD.DLD1.CR.CG.CD,2.39628E+13,2.43214E+13,2.445E+13,2.53045E+13,2.60359E+13,2.60704E+13,2.64881E+13,2.68514E+13,2.72482E+13,2.7766E+13,2.86687E+13,2.94718E+13
+United States,USA,"Gross PSD, Central Gov.-D2, All maturities, D1+ SDRs + currency and deposits, Nominal Value, US$",DP.DOD.DLD2.CR.CG.CD,2.40634E+13,2.44223E+13,2.46625E+13,2.55161E+13,2.62455E+13,2.62739E+13,2.66863E+13,2.70556E+13,2.74543E+13,2.79705E+13,2.88721E+13,2.96785E+13
+United States,USA,"Gross PSD, Central Gov.-D2A, All maturities, D1+ currency and deposits, Maastricht debt, US$",DP.DOD.DLD2A.CR.CG.CD,2.40133E+13,2.43719E+13,2.45006E+13,2.53553E+13,2.60867E+13,2.61214E+13,2.65393E+13,2.69027E+13,2.72998E+13,2.78177E+13,2.87211E+13,2.95244E+13
+United States,USA,"Gross PSD, Central Gov.-D3, All maturities, D2+other accounts payable, Nominal Value, US$",DP.DOD.DLD3.CR.CG.CD,2.49109E+13,2.52273E+13,2.53801E+13,2.61408E+13,2.68229E+13,2.68184E+13,2.72044E+13,2.75735E+13,2.79742E+13,2.84946E+13,2.94051E+13,3.02068E+13
+United States,USA,"Gross PSD, Central Gov.-D4, All maturities, D3+insurance, pensions, and standardized guarantees, Nominal Value, US$",DP.DOD.DLD4.CR.CG.CD,2.69409E+13,2.72669E+13,2.74543E+13,2.80776E+13,2.87754E+13,2.87728E+13,2.91305E+13,2.93819E+13,2.98434E+13,3.03427E+13,3.12258E+13,3.18535E+13
+United States,USA,"Gross PSD, Central Gov., All maturities, Debt securities, Nominal Value, US$",DP.DOD.DLDS.CR.CG.CD,2.13672E+13,2.17189E+13,2.18656E+13,2.25773E+13,2.32655E+13,2.32731E+13,2.36361E+13,2.38648E+13,2.43018E+13,2.47904E+13,2.56497E+13,2.62467E+13
+United States,USA,"Gross PSD, Central Gov., All maturities, Debt Securities, Market value, US$",DP.DOD.DLDS.CR.MV.CG.CD,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Gross PSD, Budgetary Central Gov., All maturities, Debt securities, Nominal Value, US$",DP.DOD.DLDS.CR.BC.CD,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Gross PSD, Budgetary Central Gov., All maturities, Debt Securities, Market value, US$",DP.DOD.DLDS.CR.MV.BC.CD,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Gross PSD, General Gov., All maturities, Debt Securities, Market value, National Currency",DP.DOD.DLDS.CR.MV.GG,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Gross PSD, General Gov., All maturities, Debt securities, Nominal Value, National Currency",DP.DOD.DLDS.CR.GG,2.36807E+13,2.37403E+13,2.3864E+13,2.45323E+13,2.52234E+13,2.51846E+13,2.55369E+13,2.57065E+13,2.6069E+13,2.65351E+13,2.73939E+13,2.79119E+13
+United States,USA,"Gross PSD, General Gov., All maturities, Debt Securities, Market value, US$",DP.DOD.DLDS.CR.MV.GG.CD,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Gross PSD, General Gov., All maturities, Debt securities, Nominal Value, US$",DP.DOD.DLDS.CR.GG.CD,2.36807E+13,2.37403E+13,2.3864E+13,2.45323E+13,2.52234E+13,2.51846E+13,2.55369E+13,2.57065E+13,2.6069E+13,2.65351E+13,2.73939E+13,2.79119E+13
+United States,USA,"Gross PSD, General Gov., All maturities, Debt securities, Nominal Value, % of GDP",DP.DOD.DLDS.CR.GG.Z1,109.7762152,105.8438981,103.7206805,103.5940487,103.7891253,101.1196512,100.0492275,98.77609509,98.27639797,98.47072618,100.1185718,100.6705197
+United States,USA,"Gross PSD, General Gov., All maturities, Debt Securities, Market value, % of GDP",DP.DOD.DLDS.CR.MV.GG.Z1,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Gross PSD, Nonfinancial Public Corp., All maturities, Debt Securities, Market value, US$",DP.DOD.DLDS.CR.MV.NF.CD,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Gross PSD, Nonfinancial Public Corp., All maturities, Debt securities, Nominal Value, US$",DP.DOD.DLDS.CR.NF.CD,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Gross PSD, Nonfinancial Public Corp., All maturities, Debt securities, Nominal Value, National Currency",DP.DOD.DLDS.CR.NF,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Gross PSD, Nonfinancial Public Corp., All maturities, Debt Securities, Market value, National Currency",DP.DOD.DLDS.CR.MV.NF,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Gross PSD, Nonfinancial Public Corp., All maturities, Debt Securities, Market value, % of GDP",DP.DOD.DLDS.CR.MV.NF.Z1,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Gross PSD, Nonfinancial Public Corp., All maturities, Debt securities, Nominal Value, % of GDP",DP.DOD.DLDS.CR.NF.Z1,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Gross PSD, Financial Public Corp., All maturities, Debt Securities, Market value, % of GDP",DP.DOD.DLDS.CR.MV.FC.Z1,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Gross PSD, Financial Public Corp., All maturities, Debt Securities, Market value, National Currency",DP.DOD.DLDS.CR.MV.FC,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Gross PSD, Financial Public Corp., All maturities, Debt Securities, Market value, US$",DP.DOD.DLDS.CR.MV.FC.CD,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Gross PSD, Financial Public Corp., All maturities, Debt securities, Nominal Value, % of GDP",DP.DOD.DLDS.CR.FC.Z1,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Gross PSD, Financial Public Corp., All maturities, Debt securities, Nominal Value, National Currency",DP.DOD.DLDS.CR.FC,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Gross PSD, Financial Public Corp., All maturities, Debt securities, Nominal Value, US$",DP.DOD.DLDS.CR.FC.CD,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Gross PSD, Public Sector, All maturities, Debt Securities, Market value, National Currency",DP.DOD.DLDS.CR.MV.PS,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Gross PSD, Public Sector, All maturities, Debt securities, Nominal Value, National Currency",DP.DOD.DLDS.CR.PS,..,..,..,..,..,..,..,..,..,..,..,..
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+Data from database: Quarterly Public Sector Debt,,,,,,,,,,,,,,,
+Last Updated: 02/06/2025,,,,,,,,,,,,,,,

@@ -1,0 +1,331 @@
+Country Name,Country Code,Series Name,Series Code,2021 [YR2021],2022 [YR2022],2023 [YR2023]
+China,CHN,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,8.936542171,8.870590614,9.399266327
+China,CHN,Carbon dioxide (CO2) emissions (total) excluding LULUCF (% change from 1990),EN.GHG.CO2.ZG.AR5,422.7900552,418.8638989,449.217162
+China,CHN,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CO2.MT.CE.AR5,12621.6147,12526.8263,13259.639
+China,CHN,Carbon dioxide (CO2) emissions from Agriculture (Mt CO2e),EN.GHG.CO2.AG.MT.CE.AR5,15.9153,15.4808,15.0616
+China,CHN,Carbon dioxide (CO2) emissions from Building (Energy) (Mt CO2e),EN.GHG.CO2.BU.MT.CE.AR5,597.5237,609.6716,655.4274
+China,CHN,Carbon dioxide (CO2) emissions from Fugitive Emissions (Energy) (Mt CO2e),EN.GHG.CO2.FE.MT.CE.AR5,697.8658,678.1146,706.7156
+China,CHN,Carbon dioxide (CO2) emissions from Industrial Combustion (Energy) (Mt CO2e),EN.GHG.CO2.IC.MT.CE.AR5,2832.323,2725.5225,2874.023
+China,CHN,Carbon dioxide (CO2) emissions from Industrial Processes (Mt CO2e),EN.GHG.CO2.IP.MT.CE.AR5,1561.9761,1472.2666,1454.067
+China,CHN,Carbon dioxide (CO2) emissions from Transport (Energy) (Mt CO2e),EN.GHG.CO2.TR.MT.CE.AR5,969.4479,929.0863,1077.7615
+China,CHN,Carbon dioxide (CO2) emissions from Power Industry (Energy) (Mt CO2e),EN.GHG.CO2.PI.MT.CE.AR5,5943.0808,6093.1257,6472.9471
+China,CHN,Carbon dioxide (CO2) emissions from Waste (Mt CO2e),EN.GHG.CO2.WA.MT.CE.AR5,3.4822,3.5582,3.6358
+China,CHN,Carbon dioxide (CO2) net fluxes from LULUCF - Forest Land (Mt CO2e),EN.GHG.CO2.LU.FL.MT.CE.AR5,..,..,..
+China,CHN,Carbon dioxide (CO2) net fluxes from LULUCF - Deforestation (Mt CO2e),EN.GHG.CO2.LU.DF.MT.CE.AR5,..,..,..
+China,CHN,Carbon dioxide (CO2) net fluxes from LULUCF - Organic Soil (Mt CO2e),EN.GHG.CO2.LU.OS.MT.CE.AR5,..,..,..
+China,CHN,Carbon dioxide (CO2) net fluxes from LULUCF - Other Land (Mt CO2e),EN.GHG.CO2.LU.OL.MT.CE.AR5,..,..,..
+China,CHN,Carbon dioxide (CO2) net fluxes from LULUCF - Total excluding non-tropical fires (Mt CO2e),EN.GHG.CO2.LU.MT.CE.AR5,..,..,..
+China,CHN,Carbon intensity of GDP (kg CO2e per 2021 PPP $ of GDP),EN.GHG.CO2.RT.GDP.PP.KD,0.437921329,0.422175531,0.424583803
+China,CHN,Carbon intensity of GDP (kg CO2e per constant 2015 US$ of GDP),EN.GHG.CO2.RT.GDP.KD,0.796252236,0.767622375,0.772001226
+China,CHN,Total greenhouse gas emissions excluding LULUCF (Mt CO2e),EN.GHG.ALL.MT.CE.AR5,15175.6191,15159.642,15943.9866
+China,CHN,Total greenhouse gas emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.ALL.PC.CE.AR5,10.74486611,10.7349599,11.30210079
+China,CHN,Total greenhouse gas emissions including LULUCF (Mt CO2e),EN.GHG.ALL.LU.MT.CE.AR5,..,..,..
+China,CHN,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,15.2,..,..
+China,CHN,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,..,..,..
+China,CHN,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,2812.9,..,..
+China,CHN,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,1991.631029,..,..
+China,CHN,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,..,..,..
+China,CHN,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,..,..,..
+China,CHN,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,..
+China,CHN,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100,100,..
+China,CHN,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100,100,..
+China,CHN,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,..,..,..
+China,CHN,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,..,..,..
+China,CHN,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,..,..,..
+China,CHN,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,..,..,..
+China,CHN,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,..,..,..
+China,CHN,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,..,..,..
+China,CHN,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,..,..,..
+China,CHN,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,..,..,..
+China,CHN,"Access to clean fuels and technologies for cooking, urban (% of urban population)",EG.CFT.ACCS.UR.ZS,94.5,95.2,..
+China,CHN,"Access to clean fuels and technologies for cooking, rural (% of rural population)",EG.CFT.ACCS.RU.ZS,72.4,75.8,..
+China,CHN,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,85.9,87.8,..
+China,CHN,Forest area (% of land area),AG.LND.FRST.ZS,23.63152827,23.83173363,..
+China,CHN,Forest area (sq. km),AG.LND.FRST.K2,2218577.5,2237373.2,..
+China,CHN,Forest rents (% of GDP),NY.GDP.FRST.RT.ZS,0.070843382,..,..
+China,CHN,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,15.61604595,15.616046,..
+China,CHN,Permanent cropland (% of land area),AG.LND.CROP.ZS,2.063585391,2.099234998,..
+China,CHN,Agricultural land (sq. km),AG.LND.AGRI.K2,5206950,..,..
+China,CHN,Agricultural land (% of land area),AG.LND.AGRI.ZS,55.44262431,55.43261175,..
+China,CHN,Agricultural irrigated land (% of total agricultural land),AG.LND.IRIG.AG.ZS,..,..,..
+China,CHN,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,0.339094401,0.381522057,0.36151663
+China,CHN,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,2.651291541,2.688769587,2.622876219
+China,CHN,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,7.241017469,7.321762465,7.12013561
+China,CHN,"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,7.073796365,4.203498818,4.052145404
+China,CHN,"Agriculture, forestry, and fishing, value added (constant 2015 US$)",NV.AGR.TOTL.KD,1.17329E+12,1.22261E+12,1.27215E+12
+China,CHN,"Agriculture, forestry, and fishing, value added (constant LCU)",NV.AGR.TOTL.KN,8.35506E+12,8.70627E+12,9.05906E+12
+China,CHN,"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,8.32165E+12,8.8207E+12,8.97552E+12
+China,CHN,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,1.29038E+12,1.30926E+12,1.26701E+12
+China,CHN,"Agriculture, forestry, and fishing, value added per worker (constant 2015 US$)",NV.AGR.EMPL.KD,6727.528076,7341.601216,7713.734059
+China,CHN,Rural land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.RU.K2,..,..,..
+China,CHN,Rural land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.RU.ZS,..,..,..
+China,CHN,Rural land area (sq. km),AG.LND.TOTL.RU.K2,..,..,..
+China,CHN,Urban land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.UR.ZS,..,..,..
+China,CHN,Urban land area (sq. km),AG.LND.TOTL.UR.K2,..,..,..
+China,CHN,Urban land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.UR.K2,..,..,..
+China,CHN,Land area (sq. km),AG.LND.TOTL.K2,9388210,9388210,..
+Germany,DEU,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,8.147065538,7.870139121,6.999887128
+Germany,DEU,Carbon dioxide (CO2) emissions (total) excluding LULUCF (% change from 1990),EN.GHG.CO2.ZG.AR5,-33.09153436,-34.89820061,-42.45484544
+Germany,DEU,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CO2.MT.CE.AR5,677.8039,659.5018,582.9506
+Germany,DEU,Carbon dioxide (CO2) emissions from Agriculture (Mt CO2e),EN.GHG.CO2.AG.MT.CE.AR5,0.6946,0.6193,0.566
+Germany,DEU,Carbon dioxide (CO2) emissions from Building (Energy) (Mt CO2e),EN.GHG.CO2.BU.MT.CE.AR5,129.4108,128.6194,123.6489
+Germany,DEU,Carbon dioxide (CO2) emissions from Fugitive Emissions (Energy) (Mt CO2e),EN.GHG.CO2.FE.MT.CE.AR5,28.7903,27.5219,24.0193
+Germany,DEU,Carbon dioxide (CO2) emissions from Industrial Combustion (Energy) (Mt CO2e),EN.GHG.CO2.IC.MT.CE.AR5,92.6406,85.6557,78.2833
+Germany,DEU,Carbon dioxide (CO2) emissions from Industrial Processes (Mt CO2e),EN.GHG.CO2.IP.MT.CE.AR5,45.3731,39.6942,39.1171
+Germany,DEU,Carbon dioxide (CO2) emissions from Transport (Energy) (Mt CO2e),EN.GHG.CO2.TR.MT.CE.AR5,147.2432,147.7071,139.7212
+Germany,DEU,Carbon dioxide (CO2) emissions from Power Industry (Energy) (Mt CO2e),EN.GHG.CO2.PI.MT.CE.AR5,233.5864,229.6395,177.5638
+Germany,DEU,Carbon dioxide (CO2) emissions from Waste (Mt CO2e),EN.GHG.CO2.WA.MT.CE.AR5,0.0649,0.0448,0.0309
+Germany,DEU,Carbon dioxide (CO2) net fluxes from LULUCF - Forest Land (Mt CO2e),EN.GHG.CO2.LU.FL.MT.CE.AR5,..,..,..
+Germany,DEU,Carbon dioxide (CO2) net fluxes from LULUCF - Deforestation (Mt CO2e),EN.GHG.CO2.LU.DF.MT.CE.AR5,..,..,..
+Germany,DEU,Carbon dioxide (CO2) net fluxes from LULUCF - Organic Soil (Mt CO2e),EN.GHG.CO2.LU.OS.MT.CE.AR5,..,..,..
+Germany,DEU,Carbon dioxide (CO2) net fluxes from LULUCF - Other Land (Mt CO2e),EN.GHG.CO2.LU.OL.MT.CE.AR5,..,..,..
+Germany,DEU,Carbon dioxide (CO2) net fluxes from LULUCF - Total excluding non-tropical fires (Mt CO2e),EN.GHG.CO2.LU.MT.CE.AR5,..,..,..
+Germany,DEU,Carbon intensity of GDP (kg CO2e per 2021 PPP $ of GDP),EN.GHG.CO2.RT.GDP.PP.KD,0.130406538,0.12517079,0.11093726
+Germany,DEU,Carbon intensity of GDP (kg CO2e per constant 2015 US$ of GDP),EN.GHG.CO2.RT.GDP.KD,0.185587553,0.178136318,0.157879925
+Germany,DEU,Total greenhouse gas emissions excluding LULUCF (Mt CO2e),EN.GHG.ALL.MT.CE.AR5,783.4886,761.9835,681.8103
+Germany,DEU,Total greenhouse gas emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.ALL.PC.CE.AR5,9.417374218,9.093100508,8.186963256
+Germany,DEU,Total greenhouse gas emissions including LULUCF (Mt CO2e),EN.GHG.ALL.LU.MT.CE.AR5,..,..,..
+Germany,DEU,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,17.6,..,..
+Germany,DEU,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,..,..,..
+Germany,DEU,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,107,..,..
+Germany,DEU,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,1286.118319,..,..
+Germany,DEU,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,..,..,..
+Germany,DEU,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,..,..,..
+Germany,DEU,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,..
+Germany,DEU,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100,100,..
+Germany,DEU,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100,100,..
+Germany,DEU,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,..,..,..
+Germany,DEU,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,..,..,..
+Germany,DEU,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,..,..,..
+Germany,DEU,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,..,..,..
+Germany,DEU,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,..,..,..
+Germany,DEU,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,..,..,..
+Germany,DEU,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,..,..,..
+Germany,DEU,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,..,..,..
+Germany,DEU,"Access to clean fuels and technologies for cooking, urban (% of urban population)",EG.CFT.ACCS.UR.ZS,100,100,..
+Germany,DEU,"Access to clean fuels and technologies for cooking, rural (% of rural population)",EG.CFT.ACCS.RU.ZS,100,100,..
+Germany,DEU,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,100,100,..
+Germany,DEU,Forest area (% of land area),AG.LND.FRST.ZS,32.68267552,32.68548202,..
+Germany,DEU,Forest area (sq. km),AG.LND.FRST.K2,114190,114190,..
+Germany,DEU,Forest rents (% of GDP),NY.GDP.FRST.RT.ZS,0.030869694,..,..
+Germany,DEU,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,37.45127487,37.5871277,..
+Germany,DEU,Permanent cropland (% of land area),AG.LND.CROP.ZS,0.578150491,0.581062514,..
+Germany,DEU,Agricultural land (sq. km),AG.LND.AGRI.K2,165910,..,..
+Germany,DEU,Agricultural land (% of land area),AG.LND.AGRI.ZS,47.48561779,47.50114495,..
+Germany,DEU,Agricultural irrigated land (% of total agricultural land),AG.LND.IRIG.AG.ZS,..,..,..
+Germany,DEU,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,0.88240256,0.88709611,0.723593261
+Germany,DEU,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,1.274992141,1.158877042,1.00865102
+Germany,DEU,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,0.742181337,1.003958167,0.841992092
+Germany,DEU,"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,13.88000944,2.643117826,0.641628122
+Germany,DEU,"Agriculture, forestry, and fishing, value added (constant 2015 US$)",NV.AGR.TOTL.KD,28277464926,29024871642,29211103381
+Germany,DEU,"Agriculture, forestry, and fishing, value added (constant LCU)",NV.AGR.TOTL.KN,25486378000,26160013000,26327863000
+Germany,DEU,"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,27286000000,39695000000,35242000000
+Germany,DEU,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,32272252101,41800765691,38106068969
+Germany,DEU,"Agriculture, forestry, and fishing, value added per worker (constant 2015 US$)",NV.AGR.EMPL.KD,54380.93844,54958.6171,57378.26094
+Germany,DEU,Rural land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.RU.K2,..,..,..
+Germany,DEU,Rural land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.RU.ZS,..,..,..
+Germany,DEU,Rural land area (sq. km),AG.LND.TOTL.RU.K2,..,..,..
+Germany,DEU,Urban land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.UR.ZS,..,..,..
+Germany,DEU,Urban land area (sq. km),AG.LND.TOTL.UR.K2,..,..,..
+Germany,DEU,Urban land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.UR.K2,..,..,..
+Germany,DEU,Land area (sq. km),AG.LND.TOTL.K2,349390,349360,..
+India,IND,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,1.802062141,1.92281182,2.054964313
+India,IND,Carbon dioxide (CO2) emissions (total) excluding LULUCF (% change from 1990),EN.GHG.CO2.ZG.AR5,324.2612254,356.2807637,391.9667354
+India,IND,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CO2.MT.CE.AR5,2548.4833,2740.8206,2955.1817
+India,IND,Carbon dioxide (CO2) emissions from Agriculture (Mt CO2e),EN.GHG.CO2.AG.MT.CE.AR5,29.2446,29.9048,30.5827
+India,IND,Carbon dioxide (CO2) emissions from Building (Energy) (Mt CO2e),EN.GHG.CO2.BU.MT.CE.AR5,201.1516,208.8407,221.7591
+India,IND,Carbon dioxide (CO2) emissions from Fugitive Emissions (Energy) (Mt CO2e),EN.GHG.CO2.FE.MT.CE.AR5,91.5567,121.3264,129.1678
+India,IND,Carbon dioxide (CO2) emissions from Industrial Combustion (Energy) (Mt CO2e),EN.GHG.CO2.IC.MT.CE.AR5,559.3889,568.7255,619.0166
+India,IND,Carbon dioxide (CO2) emissions from Industrial Processes (Mt CO2e),EN.GHG.CO2.IP.MT.CE.AR5,206.3263,222.7196,237.9015
+India,IND,Carbon dioxide (CO2) emissions from Transport (Energy) (Mt CO2e),EN.GHG.CO2.TR.MT.CE.AR5,295.0934,323.609,339.7606
+India,IND,Carbon dioxide (CO2) emissions from Power Industry (Energy) (Mt CO2e),EN.GHG.CO2.PI.MT.CE.AR5,1165.7218,1265.6946,1376.9935
+India,IND,Carbon dioxide (CO2) emissions from Waste (Mt CO2e),EN.GHG.CO2.WA.MT.CE.AR5,..,..,..
+India,IND,Carbon dioxide (CO2) net fluxes from LULUCF - Forest Land (Mt CO2e),EN.GHG.CO2.LU.FL.MT.CE.AR5,..,..,..
+India,IND,Carbon dioxide (CO2) net fluxes from LULUCF - Deforestation (Mt CO2e),EN.GHG.CO2.LU.DF.MT.CE.AR5,..,..,..
+India,IND,Carbon dioxide (CO2) net fluxes from LULUCF - Organic Soil (Mt CO2e),EN.GHG.CO2.LU.OS.MT.CE.AR5,..,..,..
+India,IND,Carbon dioxide (CO2) net fluxes from LULUCF - Other Land (Mt CO2e),EN.GHG.CO2.LU.OL.MT.CE.AR5,..,..,..
+India,IND,Carbon dioxide (CO2) net fluxes from LULUCF - Total excluding non-tropical fires (Mt CO2e),EN.GHG.CO2.LU.MT.CE.AR5,..,..,..
+India,IND,Carbon intensity of GDP (kg CO2e per 2021 PPP $ of GDP),EN.GHG.CO2.RT.GDP.PP.KD,0.223858134,0.225030056,0.224339523
+India,IND,Carbon intensity of GDP (kg CO2e per constant 2015 US$ of GDP),EN.GHG.CO2.RT.GDP.KD,0.916935577,0.921735835,0.918907373
+India,IND,Total greenhouse gas emissions excluding LULUCF (Mt CO2e),EN.GHG.ALL.MT.CE.AR5,3679.8618,3897.209,4133.5544
+India,IND,Total greenhouse gas emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.ALL.PC.CE.AR5,2.602073018,2.734071514,2.874377159
+India,IND,Total greenhouse gas emissions including LULUCF (Mt CO2e),EN.GHG.ALL.LU.MT.CE.AR5,..,..,..
+India,IND,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,34.9,..,..
+India,IND,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,..,..,..
+India,IND,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,1446,..,..
+India,IND,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,1022.483394,..,..
+India,IND,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,..,..,..
+India,IND,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,..,..,..
+India,IND,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.6,99.2,..
+India,IND,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,99.3,99.3,..
+India,IND,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100,100,..
+India,IND,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,..,..,..
+India,IND,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,..,..,..
+India,IND,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,..,..,..
+India,IND,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,..,..,..
+India,IND,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,..,..,..
+India,IND,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,..,..,..
+India,IND,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,..,..,..
+India,IND,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,..,..,..
+India,IND,"Access to clean fuels and technologies for cooking, urban (% of urban population)",EG.CFT.ACCS.UR.ZS,93.8,94.8,..
+India,IND,"Access to clean fuels and technologies for cooking, rural (% of rural population)",EG.CFT.ACCS.RU.ZS,57.1,62.5,..
+India,IND,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,70.5,74.5,..
+India,IND,Forest area (% of land area),AG.LND.FRST.ZS,24.35982901,24.44942974,..
+India,IND,Forest area (sq. km),AG.LND.FRST.K2,724264,726928,..
+India,IND,Forest rents (% of GDP),NY.GDP.FRST.RT.ZS,0.160725947,..,..
+India,IND,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,7.518889427,7.5188894,..
+India,IND,Permanent cropland (% of land area),AG.LND.CROP.ZS,4.574211537,4.574211537,..
+India,IND,Agricultural land (sq. km),AG.LND.AGRI.K2,1785279.48,..,..
+India,IND,Agricultural land (% of land area),AG.LND.AGRI.ZS,60.04592643,60.04592643,..
+India,IND,Agricultural irrigated land (% of total agricultural land),AG.LND.IRIG.AG.ZS,42.26577835,..,..
+India,IND,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,1.469019953,0.942789379,0.822662154
+India,IND,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,1.645537185,1.653797856,1.474559517
+India,IND,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,17.37256153,16.63943104,15.99836213
+India,IND,"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,4.623155625,4.706865982,1.440475012
+India,IND,"Agriculture, forestry, and fishing, value added (constant 2015 US$)",NV.AGR.TOTL.KD,4.5687E+11,4.78374E+11,4.85265E+11
+India,IND,"Agriculture, forestry, and fishing, value added (constant LCU)",NV.AGR.TOTL.KN,2.17011E+13,2.27225E+13,2.30498E+13
+India,IND,"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,4.09947E+13,4.48427E+13,4.72522E+13
+India,IND,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,5.50236E+11,5.57998E+11,5.7075E+11
+India,IND,"Agriculture, forestry, and fishing, value added per worker (constant 2015 US$)",NV.AGR.EMPL.KD,2011.637165,2061.223438,1975.918379
+India,IND,Rural land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.RU.K2,..,..,..
+India,IND,Rural land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.RU.ZS,..,..,..
+India,IND,Rural land area (sq. km),AG.LND.TOTL.RU.K2,..,..,..
+India,IND,Urban land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.UR.ZS,..,..,..
+India,IND,Urban land area (sq. km),AG.LND.TOTL.UR.K2,..,..,..
+India,IND,Urban land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.UR.K2,..,..,..
+India,IND,Land area (sq. km),AG.LND.TOTL.K2,2973190,2973190,..
+Japan,JPN,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,8.632303061,8.071758552,7.587407788
+Japan,JPN,Carbon dioxide (CO2) emissions (total) excluding LULUCF (% change from 1990),EN.GHG.CO2.ZG.AR5,-7.019235211,-13.44204784,-19.03158978
+Japan,JPN,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CO2.MT.CE.AR5,1084.9216,1009.9787,944.7586
+Japan,JPN,Carbon dioxide (CO2) emissions from Agriculture (Mt CO2e),EN.GHG.CO2.AG.MT.CE.AR5,0.6106,0.5789,0.5735
+Japan,JPN,Carbon dioxide (CO2) emissions from Building (Energy) (Mt CO2e),EN.GHG.CO2.BU.MT.CE.AR5,117.2812,115.1589,109.0518
+Japan,JPN,Carbon dioxide (CO2) emissions from Fugitive Emissions (Energy) (Mt CO2e),EN.GHG.CO2.FE.MT.CE.AR5,46.1495,36.4151,32.2261
+Japan,JPN,Carbon dioxide (CO2) emissions from Industrial Combustion (Energy) (Mt CO2e),EN.GHG.CO2.IC.MT.CE.AR5,181.6138,165.4265,155.2297
+Japan,JPN,Carbon dioxide (CO2) emissions from Industrial Processes (Mt CO2e),EN.GHG.CO2.IP.MT.CE.AR5,70.8153,69.6834,66.9196
+Japan,JPN,Carbon dioxide (CO2) emissions from Transport (Energy) (Mt CO2e),EN.GHG.CO2.TR.MT.CE.AR5,183.2351,186.5865,179.633
+Japan,JPN,Carbon dioxide (CO2) emissions from Power Industry (Energy) (Mt CO2e),EN.GHG.CO2.PI.MT.CE.AR5,481.8858,432.8552,397.904
+Japan,JPN,Carbon dioxide (CO2) emissions from Waste (Mt CO2e),EN.GHG.CO2.WA.MT.CE.AR5,3.3304,3.2744,3.221
+Japan,JPN,Carbon dioxide (CO2) net fluxes from LULUCF - Forest Land (Mt CO2e),EN.GHG.CO2.LU.FL.MT.CE.AR5,..,..,..
+Japan,JPN,Carbon dioxide (CO2) net fluxes from LULUCF - Deforestation (Mt CO2e),EN.GHG.CO2.LU.DF.MT.CE.AR5,..,..,..
+Japan,JPN,Carbon dioxide (CO2) net fluxes from LULUCF - Organic Soil (Mt CO2e),EN.GHG.CO2.LU.OS.MT.CE.AR5,..,..,..
+Japan,JPN,Carbon dioxide (CO2) net fluxes from LULUCF - Other Land (Mt CO2e),EN.GHG.CO2.LU.OL.MT.CE.AR5,..,..,..
+Japan,JPN,Carbon dioxide (CO2) net fluxes from LULUCF - Total excluding non-tropical fires (Mt CO2e),EN.GHG.CO2.LU.MT.CE.AR5,..,..,..
+Japan,JPN,Carbon intensity of GDP (kg CO2e per 2021 PPP $ of GDP),EN.GHG.CO2.RT.GDP.PP.KD,0.194650703,0.179491189,0.165127887
+Japan,JPN,Carbon intensity of GDP (kg CO2e per constant 2015 US$ of GDP),EN.GHG.CO2.RT.GDP.KD,0.241791357,0.2229605,0.205118683
+Japan,JPN,Total greenhouse gas emissions excluding LULUCF (Mt CO2e),EN.GHG.ALL.MT.CE.AR5,1181.7696,1107.5758,1041.0128
+Japan,JPN,Total greenhouse gas emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.ALL.PC.CE.AR5,9.402885274,8.851755424,8.360430513
+Japan,JPN,Total greenhouse gas emissions including LULUCF (Mt CO2e),EN.GHG.ALL.LU.MT.CE.AR5,..,..,..
+Japan,JPN,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,8.8,..,..
+Japan,JPN,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,..,..,..
+Japan,JPN,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,430,..,..
+Japan,JPN,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,3421.344285,..,..
+Japan,JPN,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,..,..,..
+Japan,JPN,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,..,..,..
+Japan,JPN,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,..
+Japan,JPN,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100,100,..
+Japan,JPN,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100,100,..
+Japan,JPN,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,..,..,..
+Japan,JPN,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,..,..,..
+Japan,JPN,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,..,..,..
+Japan,JPN,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,..,..,..
+Japan,JPN,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,..,..,..
+Japan,JPN,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,..,..,..
+Japan,JPN,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,..,..,..
+Japan,JPN,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,..,..,..
+Japan,JPN,"Access to clean fuels and technologies for cooking, urban (% of urban population)",EG.CFT.ACCS.UR.ZS,100,100,..
+Japan,JPN,"Access to clean fuels and technologies for cooking, rural (% of rural population)",EG.CFT.ACCS.RU.ZS,100,100,..
+Japan,JPN,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,100,100,..
+Japan,JPN,Forest area (% of land area),AG.LND.FRST.ZS,68.40877915,68.40877915,..
+Japan,JPN,Forest area (sq. km),AG.LND.FRST.K2,249350,249350,..
+Japan,JPN,Forest rents (% of GDP),NY.GDP.FRST.RT.ZS,0.028703107,..,..
+Japan,JPN,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,29.74921799,29.749218,..
+Japan,JPN,Permanent cropland (% of land area),AG.LND.CROP.ZS,0.721536351,0.710562414,..
+Japan,JPN,Agricultural land (sq. km),AG.LND.AGRI.K2,46590,..,..
+Japan,JPN,Agricultural land (% of land area),AG.LND.AGRI.ZS,12.781893,12.71604938,..
+Japan,JPN,Agricultural irrigated land (% of total agricultural land),AG.LND.IRIG.AG.ZS,..,..,..
+Japan,JPN,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,0.629600267,0.598268644,0.54469766
+Japan,JPN,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,1.56655189,1.564168922,1.54130141
+Japan,JPN,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,1.013280818,1.017598217,..
+Japan,JPN,"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,6.246508452,10.88802337,..
+Japan,JPN,"Agriculture, forestry, and fishing, value added (constant 2015 US$)",NV.AGR.TOTL.KD,42422581131,47041561678,..
+Japan,JPN,"Agriculture, forestry, and fishing, value added (constant LCU)",NV.AGR.TOTL.KN,5.135E+12,5.6941E+12,..
+Japan,JPN,"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,5.5991E+12,5.6956E+12,..
+Japan,JPN,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,51014846651,43313160025,..
+Japan,JPN,"Agriculture, forestry, and fishing, value added per worker (constant 2015 US$)",NV.AGR.EMPL.KD,20782.90176,22596.11545,..
+Japan,JPN,Rural land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.RU.K2,..,..,..
+Japan,JPN,Rural land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.RU.ZS,..,..,..
+Japan,JPN,Rural land area (sq. km),AG.LND.TOTL.RU.K2,..,..,..
+Japan,JPN,Urban land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.UR.ZS,..,..,..
+Japan,JPN,Urban land area (sq. km),AG.LND.TOTL.UR.K2,..,..,..
+Japan,JPN,Urban land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.UR.K2,..,..,..
+Japan,JPN,Land area (sq. km),AG.LND.TOTL.K2,364500,364500,..
+United States,USA,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,14.32073016,14.36255989,13.97978851
+United States,USA,Carbon dioxide (CO2) emissions (total) excluding LULUCF (% change from 1990),EN.GHG.CO2.ZG.AR5,-4.587387502,-3.956408455,-6.055027574
+United States,USA,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CO2.MT.CE.AR5,4755.1838,4786.6306,4682.0394
+United States,USA,Carbon dioxide (CO2) emissions from Agriculture (Mt CO2e),EN.GHG.CO2.AG.MT.CE.AR5,6.3594,6.3487,6.3151
+United States,USA,Carbon dioxide (CO2) emissions from Building (Energy) (Mt CO2e),EN.GHG.CO2.BU.MT.CE.AR5,563.2469,591.1872,594.953
+United States,USA,Carbon dioxide (CO2) emissions from Fugitive Emissions (Energy) (Mt CO2e),EN.GHG.CO2.FE.MT.CE.AR5,290.2534,294.5233,299.4196
+United States,USA,Carbon dioxide (CO2) emissions from Industrial Combustion (Energy) (Mt CO2e),EN.GHG.CO2.IC.MT.CE.AR5,445.7564,451.4372,444.5117
+United States,USA,Carbon dioxide (CO2) emissions from Industrial Processes (Mt CO2e),EN.GHG.CO2.IP.MT.CE.AR5,158.6825,163.5135,162.9106
+United States,USA,Carbon dioxide (CO2) emissions from Transport (Energy) (Mt CO2e),EN.GHG.CO2.TR.MT.CE.AR5,1663.6783,1699.428,1710.6454
+United States,USA,Carbon dioxide (CO2) emissions from Power Industry (Energy) (Mt CO2e),EN.GHG.CO2.PI.MT.CE.AR5,1627.2035,1580.1893,1463.2807
+United States,USA,Carbon dioxide (CO2) emissions from Waste (Mt CO2e),EN.GHG.CO2.WA.MT.CE.AR5,0.0034,0.0034,0.0034
+United States,USA,Carbon dioxide (CO2) net fluxes from LULUCF - Forest Land (Mt CO2e),EN.GHG.CO2.LU.FL.MT.CE.AR5,..,..,..
+United States,USA,Carbon dioxide (CO2) net fluxes from LULUCF - Deforestation (Mt CO2e),EN.GHG.CO2.LU.DF.MT.CE.AR5,..,..,..
+United States,USA,Carbon dioxide (CO2) net fluxes from LULUCF - Organic Soil (Mt CO2e),EN.GHG.CO2.LU.OS.MT.CE.AR5,..,..,..
+United States,USA,Carbon dioxide (CO2) net fluxes from LULUCF - Other Land (Mt CO2e),EN.GHG.CO2.LU.OL.MT.CE.AR5,..,..,..
+United States,USA,Carbon dioxide (CO2) net fluxes from LULUCF - Total excluding non-tropical fires (Mt CO2e),EN.GHG.CO2.LU.MT.CE.AR5,..,..,..
+United States,USA,Carbon intensity of GDP (kg CO2e per 2021 PPP $ of GDP),EN.GHG.CO2.RT.GDP.PP.KD,0.200800197,0.197174361,0.18745315
+United States,USA,Carbon intensity of GDP (kg CO2e per constant 2015 US$ of GDP),EN.GHG.CO2.RT.GDP.KD,0.227326566,0.223221746,0.21221633
+United States,USA,Total greenhouse gas emissions excluding LULUCF (Mt CO2e),EN.GHG.ALL.MT.CE.AR5,5997.6507,6046.2157,5960.8044
+United States,USA,Total greenhouse gas emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.ALL.PC.CE.AR5,18.06254835,18.14201729,17.79796745
+United States,USA,Total greenhouse gas emissions including LULUCF (Mt CO2e),EN.GHG.ALL.LU.MT.CE.AR5,..,..,..
+United States,USA,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,10.9,..,..
+United States,USA,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,..,..,..
+United States,USA,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,2818,..,..
+United States,USA,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,8486.69984,..,..
+United States,USA,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,..,..,..
+United States,USA,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,..,..,..
+United States,USA,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,..
+United States,USA,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100,100,..
+United States,USA,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100,100,..
+United States,USA,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,..,..,..
+United States,USA,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,..,..,..
+United States,USA,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,..,..,..
+United States,USA,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,..,..,..
+United States,USA,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,..,..,..
+United States,USA,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,..,..,..
+United States,USA,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,..,..,..
+United States,USA,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,..,..,..
+United States,USA,"Access to clean fuels and technologies for cooking, urban (% of urban population)",EG.CFT.ACCS.UR.ZS,100,100,..
+United States,USA,"Access to clean fuels and technologies for cooking, rural (% of rural population)",EG.CFT.ACCS.RU.ZS,100,100,..
+United States,USA,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,100,100,..
+United States,USA,Forest area (% of land area),AG.LND.FRST.ZS,33.86692641,33.86692641,..
+United States,USA,Forest area (sq. km),AG.LND.FRST.K2,3097950,3097950,..
+United States,USA,Forest rents (% of GDP),NY.GDP.FRST.RT.ZS,0.037712514,..,..
+United States,USA,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,13.01813793,13.0182571,..
+United States,USA,Permanent cropland (% of land area),AG.LND.CROP.ZS,0.343308386,0.344111564,..
+United States,USA,Agricultural land (sq. km),AG.LND.AGRI.K2,4058103.538,..,..
+United States,USA,Agricultural land (% of land area),AG.LND.AGRI.ZS,45.20971508,45.08515131,..
+United States,USA,Agricultural irrigated land (% of total agricultural land),AG.LND.IRIG.AG.ZS,..,..,..
+United States,USA,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,2.043668024,2.049078157,1.728241601
+United States,USA,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,1.157299141,1.067377202,0.835369769
+United States,USA,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,0.944732585,..,..
+United States,USA,"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,..,..,..
+United States,USA,"Agriculture, forestry, and fishing, value added (constant 2015 US$)",NV.AGR.TOTL.KD,..,..,..
+United States,USA,"Agriculture, forestry, and fishing, value added (constant LCU)",NV.AGR.TOTL.KN,..,..,..
+United States,USA,"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,2.23724E+11,..,..
+United States,USA,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,2.23724E+11,..,..
+United States,USA,"Agriculture, forestry, and fishing, value added per worker (constant 2015 US$)",NV.AGR.EMPL.KD,..,..,..
+United States,USA,Rural land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.RU.K2,..,..,..
+United States,USA,Rural land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.RU.ZS,..,..,..
+United States,USA,Rural land area (sq. km),AG.LND.TOTL.RU.K2,..,..,..
+United States,USA,Urban land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.UR.ZS,..,..,..
+United States,USA,Urban land area (sq. km),AG.LND.TOTL.UR.K2,..,..,..
+United States,USA,Urban land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.UR.K2,..,..,..
+United States,USA,Land area (sq. km),AG.LND.TOTL.K2,9147420,9147420,..
+,,,,,,
+,,,,,,
+,,,,,,
+Data from database: World Development Indicators,,,,,,
+Last Updated: 01/28/2025,,,,,,
