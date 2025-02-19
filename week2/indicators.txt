@@ -1,0 +1,14 @@
+Step 1: Selected Indicators from World Development Indicators
+
+1.GDP per Capita growth (annual %)
+
+The GDP per capita growth is widely used to perform any research related to world economy. It measures the percentage change in the GDP per person every year in terms of economic development, standard of living. 
+
+2.Foreign Direct Investment, net Inflows (% of GDP)
+
+This indicator represents the net inflows of foreign investments into a country's economy, as a percentage of its GDP. High FDI net inflows implies great international business engagement. In our research we use this indicator to examine the relationship between FDI and economic growth.
+               
+3.Inflation, Consumer Prices (Annual %)
+
+The annual percentage change in consumer price index is calculated using this indicator. In our research Inflation, Consumer Prices (Annual %) is chosen to measure the average change in the prices of commodities and estimate the purchasing power of households. High inflation indicates economic instability, while low or moderate inflation usually means steady economic growth and price stability.
+
