@@ -1,261 +1,256 @@
-Country Name,Country Code,Series Name,Series Code,2021 [YR2021],2022 [YR2022],2023 [YR2023]
-United States,USA,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,79.3,80.2,..
-United States,USA,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,73.5,74.8,..
-United States,USA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,76.32926829,77.43414634,..
-United States,USA,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,..,..,..
-United States,USA,Lifetime risk of maternal death (1 in: rate varies by country),SH.MMR.RISK,..,..,..
-United States,USA,"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,..,..,..
-United States,USA,"Literacy rate, youth (ages 15-24), gender parity index (GPI)",SE.ADT.1524.LT.FM.ZS,..,..,..
-United States,USA,"Literacy rate, youth female (% of females ages 15-24)",SE.ADT.1524.LT.FE.ZS,..,..,..
-United States,USA,"Literacy rate, youth male (% of males ages 15-24)",SE.ADT.1524.LT.MA.ZS,..,..,..
-United States,USA,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,..,..,..
-United States,USA,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,..,..,..
-United States,USA,Learning poverty: Share of Children at the End-of-Primary age below minimum reading proficiency adjusted by Out-of-School Children (%),SE.LPV.PRIM,9.691570282,..,..
-United States,USA,Learning poverty: Share of Female Children at the End-of-Primary age below minimum reading proficiency adjusted by Out-of-School Children (%),SE.LPV.PRIM.FE,8.994832993,..,..
-United States,USA,Learning poverty: Share of Male Children at the End-of-Primary age below minimum reading proficiency adjusted by Out-of-School Children (%),SE.LPV.PRIM.MA,10.38175869,..,..
-United States,USA,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,0.2,1,..
-United States,USA,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,0.2,1.2,..
-United States,USA,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,0.5,1.4,..
-United States,USA,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,0.3,1.1,..
-United States,USA,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,1,2,..
-United States,USA,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,0.5,1.5,..
-United States,USA,Poverty headcount ratio at societal poverty line (% of population),SI.POV.SOPO,16.7,19.2,..
-United States,USA,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,..,..,..
-United States,USA,"Unemployment, youth female (% of female labor force ages 15-24) (national estimate)",SL.UEM.1524.FE.NE.ZS,8.9,7.467,7.095
-United States,USA,"Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.MA.ZS,10.474,8.719,8.757
-United States,USA,"Unemployment, youth male (% of male labor force ages 15-24) (national estimate)",SL.UEM.1524.MA.NE.ZS,10.524,8.763,8.758
-United States,USA,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.ZS,9.704,8.105,7.953
-United States,USA,"Unemployment, youth total (% of total labor force ages 15-24) (national estimate)",SL.UEM.1524.NE.ZS,9.73,8.129,7.938
-United States,USA,"Unemployment, youth female (% of female labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.FE.ZS,8.85,7.428,7.086
-United States,USA,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,5.349,3.65,3.638
-United States,USA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,5.349,3.65,3.638
-United States,USA,"Unemployment, male (% of male labor force) (national estimate)",SL.UEM.TOTL.MA.NE.ZS,5.468,3.681,3.8
-United States,USA,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,5.463,3.68,3.795
-United States,USA,"Unemployment, female (% of female labor force) (national estimate)",SL.UEM.TOTL.FE.NE.ZS,5.215,3.614,3.454
-United States,USA,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,5.21,3.613,3.45
-United States,USA,"Unemployment with intermediate education, female (% of female labor force with intermediate education)",SL.UEM.INTM.FE.ZS,7.053,5.122,4.737
-United States,USA,"Unemployment with intermediate education, male (% of male labor force with intermediate education)",SL.UEM.INTM.MA.ZS,7.094,4.836,5.003
-United States,USA,Unemployment with basic education (% of total labor force with basic education),SL.UEM.BASC.ZS,8.056,5.507,5.591
-United States,USA,"Unemployment with basic education, female (% of female labor force with basic education)",SL.UEM.BASC.FE.ZS,9.765,6.417,6.838
-United States,USA,"Unemployment with basic education, male (% of male labor force with basic education)",SL.UEM.BASC.MA.ZS,7.15,5.047,4.942
-United States,USA,Unemployment with intermediate education (% of total labor force with intermediate education),SL.UEM.INTM.ZS,7.076,4.96,4.888
-United States,USA,"Unemployment with advanced education, male (% of male labor force with advanced education)",SL.UEM.ADVN.MA.ZS,3.573,2.325,2.425
-United States,USA,"Unemployment with advanced education, female (% of female labor force with advanced education)",SL.UEM.ADVN.FE.ZS,3.579,2.317,2.323
-United States,USA,Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS,3.576,2.321,2.373
-United States,USA,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,39.65878143,..,..
-United States,USA,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,13.14231696,..,..
-United States,USA,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,47.19890162,..,..
-United States,USA,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,15.7699117,..,..
-United States,USA,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,444.3961118,..,..
-United States,USA,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,100,100,..
-United States,USA,"Access to clean fuels and technologies for cooking, rural (% of rural population)",EG.CFT.ACCS.RU.ZS,100,100,..
-United States,USA,"Access to clean fuels and technologies for cooking, urban (% of urban population)",EG.CFT.ACCS.UR.ZS,100,100,..
-India,IND,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,68.886,69.384,..
-India,IND,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,65.756,66.257,..
-India,IND,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,67.24,67.744,..
-India,IND,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,..,..,..
-India,IND,Lifetime risk of maternal death (1 in: rate varies by country),SH.MMR.RISK,..,..,..
-India,IND,"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,..,76,77
-India,IND,"Literacy rate, youth (ages 15-24), gender parity index (GPI)",SE.ADT.1524.LT.FM.ZS,..,1,1
-India,IND,"Literacy rate, youth female (% of females ages 15-24)",SE.ADT.1524.LT.FE.ZS,..,96,96
-India,IND,"Literacy rate, youth male (% of males ages 15-24)",SE.ADT.1524.LT.MA.ZS,..,97,98
-India,IND,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,..,83,85
-India,IND,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,..,69,70
-India,IND,Learning poverty: Share of Children at the End-of-Primary age below minimum reading proficiency adjusted by Out-of-School Children (%),SE.LPV.PRIM,..,..,..
-India,IND,Learning poverty: Share of Female Children at the End-of-Primary age below minimum reading proficiency adjusted by Out-of-School Children (%),SE.LPV.PRIM.FE,..,..,..
-India,IND,Learning poverty: Share of Male Children at the End-of-Primary age below minimum reading proficiency adjusted by Out-of-School Children (%),SE.LPV.PRIM.MA,..,..,..
-India,IND,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,2.7,..,..
-India,IND,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,12.9,..,..
-India,IND,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,38.2,..,..
-India,IND,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,13.3,..,..
-India,IND,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,81.8,..,..
-India,IND,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,44,..,..
-India,IND,Poverty headcount ratio at societal poverty line (% of population),SI.POV.SOPO,33.1,..,..
-India,IND,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,..,..,..
-India,IND,"Unemployment, youth female (% of female labor force ages 15-24) (national estimate)",SL.UEM.1524.FE.NE.ZS,20.08,19.262,15.583
-India,IND,"Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.MA.ZS,21.158,17.497,15.716
-India,IND,"Unemployment, youth male (% of male labor force ages 15-24) (national estimate)",SL.UEM.1524.MA.NE.ZS,20.842,17.471,15.429
-India,IND,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.ZS,20.824,17.769,15.661
-India,IND,"Unemployment, youth total (% of total labor force ages 15-24) (national estimate)",SL.UEM.1524.NE.ZS,20.684,17.856,15.469
-India,IND,"Unemployment, youth female (% of female labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.FE.ZS,19.621,18.689,15.484
-India,IND,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,6.38,4.822,4.172
-India,IND,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,6.38,4.822,4.172
-India,IND,"Unemployment, male (% of male labor force) (national estimate)",SL.UEM.TOTL.MA.NE.ZS,6.73,4.908,4.222
-India,IND,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,6.72,4.908,4.216
-India,IND,"Unemployment, female (% of female labor force) (national estimate)",SL.UEM.TOTL.FE.NE.ZS,5.402,4.588,4.063
-India,IND,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,5.394,4.588,4.057
-India,IND,"Unemployment with intermediate education, female (% of female labor force with intermediate education)",SL.UEM.INTM.FE.ZS,8.773,8.874,6.798
-India,IND,"Unemployment with intermediate education, male (% of male labor force with intermediate education)",SL.UEM.INTM.MA.ZS,9.734,7.888,5.791
-India,IND,Unemployment with basic education (% of total labor force with basic education),SL.UEM.BASC.ZS,4.877,3.095,2.473
-India,IND,"Unemployment with basic education, female (% of female labor force with basic education)",SL.UEM.BASC.FE.ZS,2.856,1.799,1.697
-India,IND,"Unemployment with basic education, male (% of male labor force with basic education)",SL.UEM.BASC.MA.ZS,5.382,3.449,2.748
-India,IND,Unemployment with intermediate education (% of total labor force with intermediate education),SL.UEM.INTM.ZS,9.571,8.06,5.991
-India,IND,"Unemployment with advanced education, male (% of male labor force with advanced education)",SL.UEM.ADVN.MA.ZS,13.5,12.052,10.839
-India,IND,"Unemployment with advanced education, female (% of female labor force with advanced education)",SL.UEM.ADVN.FE.ZS,23.395,21.424,20.594
-India,IND,Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS,15.781,14.3,13.316
-India,IND,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,90.40735874,..,..
-India,IND,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,7.358738502,..,..
-India,IND,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,2.23390276,..,..
-India,IND,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,44.77869986,..,..
-India,IND,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,647.5,..,..
-India,IND,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,70.5,74.5,..
-India,IND,"Access to clean fuels and technologies for cooking, rural (% of rural population)",EG.CFT.ACCS.RU.ZS,57.1,62.5,..
-India,IND,"Access to clean fuels and technologies for cooking, urban (% of urban population)",EG.CFT.ACCS.UR.ZS,93.8,94.8,..
-Germany,DEU,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,83.3,83.2,..
-Germany,DEU,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,78.4,78.33,..
-Germany,DEU,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,80.7902439,80.70560976,..
-Germany,DEU,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,..,..,..
-Germany,DEU,Lifetime risk of maternal death (1 in: rate varies by country),SH.MMR.RISK,..,..,..
-Germany,DEU,"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,..,..,..
-Germany,DEU,"Literacy rate, youth (ages 15-24), gender parity index (GPI)",SE.ADT.1524.LT.FM.ZS,..,..,..
-Germany,DEU,"Literacy rate, youth female (% of females ages 15-24)",SE.ADT.1524.LT.FE.ZS,..,..,..
-Germany,DEU,"Literacy rate, youth male (% of males ages 15-24)",SE.ADT.1524.LT.MA.ZS,..,..,..
-Germany,DEU,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,..,..,..
-Germany,DEU,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,..,..,..
-Germany,DEU,Learning poverty: Share of Children at the End-of-Primary age below minimum reading proficiency adjusted by Out-of-School Children (%),SE.LPV.PRIM,15.43990231,..,..
-Germany,DEU,Learning poverty: Share of Female Children at the End-of-Primary age below minimum reading proficiency adjusted by Out-of-School Children (%),SE.LPV.PRIM.FE,..,..,..
-Germany,DEU,Learning poverty: Share of Male Children at the End-of-Primary age below minimum reading proficiency adjusted by Out-of-School Children (%),SE.LPV.PRIM.MA,..,..,..
-Germany,DEU,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,..,..,..
-Germany,DEU,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,..,..,..
-Germany,DEU,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,..,..,..
-Germany,DEU,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,..,..,..
-Germany,DEU,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,..,..,..
-Germany,DEU,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,..,..,..
-Germany,DEU,Poverty headcount ratio at societal poverty line (% of population),SI.POV.SOPO,..,..,..
-Germany,DEU,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,14.8,..,..
-Germany,DEU,"Unemployment, youth female (% of female labor force ages 15-24) (national estimate)",SL.UEM.1524.FE.NE.ZS,6.297,4.853,5.219
-Germany,DEU,"Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.MA.ZS,6.966,7.039,6.555
-Germany,DEU,"Unemployment, youth male (% of male labor force ages 15-24) (national estimate)",SL.UEM.1524.MA.NE.ZS,6.972,7.019,6.529
-Germany,DEU,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.ZS,6.665,6.04,5.949
-Germany,DEU,"Unemployment, youth total (% of total labor force ages 15-24) (national estimate)",SL.UEM.1524.NE.ZS,6.662,6.028,5.927
-Germany,DEU,"Unemployment, youth female (% of female labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.FE.ZS,6.303,4.858,5.234
-Germany,DEU,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,3.594,3.12,3.068
-Germany,DEU,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,3.594,3.12,3.068
-Germany,DEU,"Unemployment, male (% of male labor force) (national estimate)",SL.UEM.TOTL.MA.NE.ZS,3.987,3.402,3.271
-Germany,DEU,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,3.987,3.401,3.27
-Germany,DEU,"Unemployment, female (% of female labor force) (national estimate)",SL.UEM.TOTL.FE.NE.ZS,3.14,2.798,2.837
-Germany,DEU,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,3.14,2.797,2.836
-Germany,DEU,"Unemployment with intermediate education, female (% of female labor force with intermediate education)",SL.UEM.INTM.FE.ZS,2.661,2.311,2.316
-Germany,DEU,"Unemployment with intermediate education, male (% of male labor force with intermediate education)",SL.UEM.INTM.MA.ZS,3.519,3.092,2.821
-Germany,DEU,Unemployment with basic education (% of total labor force with basic education),SL.UEM.BASC.ZS,7.686,6.788,6.322
-Germany,DEU,"Unemployment with basic education, female (% of female labor force with basic education)",SL.UEM.BASC.FE.ZS,6.578,6.05,5.61
-Germany,DEU,"Unemployment with basic education, male (% of male labor force with basic education)",SL.UEM.BASC.MA.ZS,8.497,7.332,6.842
-Germany,DEU,Unemployment with intermediate education (% of total labor force with intermediate education),SL.UEM.INTM.ZS,3.097,2.704,2.571
-Germany,DEU,"Unemployment with advanced education, male (% of male labor force with advanced education)",SL.UEM.ADVN.MA.ZS,2.425,1.741,1.977
-Germany,DEU,"Unemployment with advanced education, female (% of female labor force with advanced education)",SL.UEM.ADVN.FE.ZS,2.377,2.049,2.361
-Germany,DEU,Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS,2.404,1.877,2.149
-Germany,DEU,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,4.166591548,..,..
-Germany,DEU,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,41.53374175,..,..
-Germany,DEU,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,54.2996667,..,..
-Germany,DEU,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,24.10520467,..,..
-Germany,DEU,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,25.792569,..,..
-Germany,DEU,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,100,100,..
-Germany,DEU,"Access to clean fuels and technologies for cooking, rural (% of rural population)",EG.CFT.ACCS.RU.ZS,100,100,..
-Germany,DEU,"Access to clean fuels and technologies for cooking, urban (% of urban population)",EG.CFT.ACCS.UR.ZS,100,100,..
-Japan,JPN,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,87.57,87.09,..
-Japan,JPN,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,81.47,81.05,..
-Japan,JPN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,84.44560976,83.99634146,..
-Japan,JPN,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,..,..,..
-Japan,JPN,Lifetime risk of maternal death (1 in: rate varies by country),SH.MMR.RISK,..,..,..
-Japan,JPN,"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,..,..,..
-Japan,JPN,"Literacy rate, youth (ages 15-24), gender parity index (GPI)",SE.ADT.1524.LT.FM.ZS,..,..,..
-Japan,JPN,"Literacy rate, youth female (% of females ages 15-24)",SE.ADT.1524.LT.FE.ZS,..,..,..
-Japan,JPN,"Literacy rate, youth male (% of males ages 15-24)",SE.ADT.1524.LT.MA.ZS,..,..,..
-Japan,JPN,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,..,..,..
-Japan,JPN,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,..,..,..
-Japan,JPN,Learning poverty: Share of Children at the End-of-Primary age below minimum reading proficiency adjusted by Out-of-School Children (%),SE.LPV.PRIM,..,..,..
-Japan,JPN,Learning poverty: Share of Female Children at the End-of-Primary age below minimum reading proficiency adjusted by Out-of-School Children (%),SE.LPV.PRIM.FE,..,..,..
-Japan,JPN,Learning poverty: Share of Male Children at the End-of-Primary age below minimum reading proficiency adjusted by Out-of-School Children (%),SE.LPV.PRIM.MA,..,..,..
-Japan,JPN,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,..,..,..
-Japan,JPN,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,..,..,..
-Japan,JPN,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,..,..,..
-Japan,JPN,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,..,..,..
-Japan,JPN,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,..,..,..
-Japan,JPN,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,..,..,..
-Japan,JPN,Poverty headcount ratio at societal poverty line (% of population),SI.POV.SOPO,..,..,..
-Japan,JPN,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,..,..,..
-Japan,JPN,"Unemployment, youth female (% of female labor force ages 15-24) (national estimate)",SL.UEM.1524.FE.NE.ZS,4.092,3.757,3.8
-Japan,JPN,"Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.MA.ZS,5.089,5.079,4.481
-Japan,JPN,"Unemployment, youth male (% of male labor force ages 15-24) (national estimate)",SL.UEM.1524.MA.NE.ZS,5.321,5.125,4.4
-Japan,JPN,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.ZS,4.625,4.406,4.116
-Japan,JPN,"Unemployment, youth total (% of total labor force ages 15-24) (national estimate)",SL.UEM.1524.NE.ZS,4.707,4.438,4.1
-Japan,JPN,"Unemployment, youth female (% of female labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.FE.ZS,4.153,3.726,3.75
-Japan,JPN,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,2.809,2.615,2.6
-Japan,JPN,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2.828,2.6,2.6
-Japan,JPN,"Unemployment, male (% of male labor force) (national estimate)",SL.UEM.TOTL.MA.NE.ZS,3.035,2.828,2.8
-Japan,JPN,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,3.049,2.777,2.827
-Japan,JPN,"Unemployment, female (% of female labor force) (national estimate)",SL.UEM.TOTL.FE.NE.ZS,2.527,2.353,2.3
-Japan,JPN,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,2.55,2.38,2.322
-Japan,JPN,"Unemployment with intermediate education, female (% of female labor force with intermediate education)",SL.UEM.INTM.FE.ZS,..,..,..
-Japan,JPN,"Unemployment with intermediate education, male (% of male labor force with intermediate education)",SL.UEM.INTM.MA.ZS,..,..,..
-Japan,JPN,Unemployment with basic education (% of total labor force with basic education),SL.UEM.BASC.ZS,..,..,..
-Japan,JPN,"Unemployment with basic education, female (% of female labor force with basic education)",SL.UEM.BASC.FE.ZS,..,..,..
-Japan,JPN,"Unemployment with basic education, male (% of male labor force with basic education)",SL.UEM.BASC.MA.ZS,..,..,..
-Japan,JPN,Unemployment with intermediate education (% of total labor force with intermediate education),SL.UEM.INTM.ZS,..,..,..
-Japan,JPN,"Unemployment with advanced education, male (% of male labor force with advanced education)",SL.UEM.ADVN.MA.ZS,..,..,..
-Japan,JPN,"Unemployment with advanced education, female (% of female labor force with advanced education)",SL.UEM.ADVN.FE.ZS,..,..,..
-Japan,JPN,Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS,..,..,..
-Japan,JPN,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,67.94380587,..,..
-Japan,JPN,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,18.90166028,..,..
-Japan,JPN,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,13.15453384,..,..
-Japan,JPN,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,18.23255814,..,..
-Japan,JPN,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,78.4,..,..
-Japan,JPN,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,100,100,..
-Japan,JPN,"Access to clean fuels and technologies for cooking, rural (% of rural population)",EG.CFT.ACCS.RU.ZS,100,100,..
-Japan,JPN,"Access to clean fuels and technologies for cooking, urban (% of urban population)",EG.CFT.ACCS.UR.ZS,100,100,..
-China,CHN,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,81.155,81.343,..
-China,CHN,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,75.463,75.963,..
-China,CHN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,78.211,78.587,..
-China,CHN,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,..,..,..
-China,CHN,Lifetime risk of maternal death (1 in: rate varies by country),SH.MMR.RISK,..,..,..
-China,CHN,"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,..,..,..
-China,CHN,"Literacy rate, youth (ages 15-24), gender parity index (GPI)",SE.ADT.1524.LT.FM.ZS,..,..,..
-China,CHN,"Literacy rate, youth female (% of females ages 15-24)",SE.ADT.1524.LT.FE.ZS,..,..,..
-China,CHN,"Literacy rate, youth male (% of males ages 15-24)",SE.ADT.1524.LT.MA.ZS,..,..,..
-China,CHN,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,..,..,..
-China,CHN,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,..,..,..
-China,CHN,Learning poverty: Share of Children at the End-of-Primary age below minimum reading proficiency adjusted by Out-of-School Children (%),SE.LPV.PRIM,..,..,..
-China,CHN,Learning poverty: Share of Female Children at the End-of-Primary age below minimum reading proficiency adjusted by Out-of-School Children (%),SE.LPV.PRIM.FE,..,..,..
-China,CHN,Learning poverty: Share of Male Children at the End-of-Primary age below minimum reading proficiency adjusted by Out-of-School Children (%),SE.LPV.PRIM.MA,..,..,..
-China,CHN,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,0,..,..
-China,CHN,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,0,..,..
-China,CHN,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,3.5,..,..
-China,CHN,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,0,..,..
-China,CHN,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,17,..,..
-China,CHN,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,0,..,..
-China,CHN,Poverty headcount ratio at societal poverty line (% of population),SI.POV.SOPO,19,..,..
-China,CHN,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,..,..,..
-China,CHN,"Unemployment, youth female (% of female labor force ages 15-24) (national estimate)",SL.UEM.1524.FE.NE.ZS,..,..,..
-China,CHN,"Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.MA.ZS,13.374,15.934,16.919
-China,CHN,"Unemployment, youth male (% of male labor force ages 15-24) (national estimate)",SL.UEM.1524.MA.NE.ZS,..,..,..
-China,CHN,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.ZS,12.422,14.811,15.745
-China,CHN,"Unemployment, youth total (% of total labor force ages 15-24) (national estimate)",SL.UEM.1524.NE.ZS,14.25,..,..
-China,CHN,"Unemployment, youth female (% of female labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.FE.ZS,11.163,13.318,14.178
-China,CHN,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,5.11,..,..
-China,CHN,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,4.55,4.98,4.67
-China,CHN,"Unemployment, male (% of male labor force) (national estimate)",SL.UEM.TOTL.MA.NE.ZS,..,..,..
-China,CHN,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,5.04,5.516,5.173
-China,CHN,"Unemployment, female (% of female labor force) (national estimate)",SL.UEM.TOTL.FE.NE.ZS,..,..,..
-China,CHN,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,3.953,4.326,4.057
-China,CHN,"Unemployment with intermediate education, female (% of female labor force with intermediate education)",SL.UEM.INTM.FE.ZS,..,..,..
-China,CHN,"Unemployment with intermediate education, male (% of male labor force with intermediate education)",SL.UEM.INTM.MA.ZS,..,..,..
-China,CHN,Unemployment with basic education (% of total labor force with basic education),SL.UEM.BASC.ZS,..,..,..
-China,CHN,"Unemployment with basic education, female (% of female labor force with basic education)",SL.UEM.BASC.FE.ZS,..,..,..
-China,CHN,"Unemployment with basic education, male (% of male labor force with basic education)",SL.UEM.BASC.MA.ZS,..,..,..
-China,CHN,Unemployment with intermediate education (% of total labor force with intermediate education),SL.UEM.INTM.ZS,..,..,..
-China,CHN,"Unemployment with advanced education, male (% of male labor force with advanced education)",SL.UEM.ADVN.MA.ZS,..,..,..
-China,CHN,"Unemployment with advanced education, female (% of female labor force with advanced education)",SL.UEM.ADVN.FE.ZS,..,..,..
-China,CHN,Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS,..,..,..
-China,CHN,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,62.14454059,..,..
-China,CHN,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,20.12936744,..,..
-China,CHN,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,17.72609197,..,..
-China,CHN,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,20.20974795,..,..
-China,CHN,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,568.48,..,..
-China,CHN,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,85.9,87.8,..
-China,CHN,"Access to clean fuels and technologies for cooking, rural (% of rural population)",EG.CFT.ACCS.RU.ZS,72.4,75.8,..
-China,CHN,"Access to clean fuels and technologies for cooking, urban (% of urban population)",EG.CFT.ACCS.UR.ZS,94.5,95.2,..
-,,,,,,
-,,,,,,
-,,,,,,
-Data from database: World Development Indicators,,,,,,
-Last Updated: 01/28/2025,,,,,,
+Country Name,Country Code,Series Name,Series Code,series_type,2021 [YR2021],2022 [YR2022],2023 [YR2023]
+United States,USA,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,Life expectancy at birth,79.3,80.2,..
+United States,USA,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,Life expectancy at birth,73.5,74.8,..
+United States,USA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,Life expectancy at birth,76.32926829,77.43414634,..
+United States,USA,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,Lifetime risk of maternal death,..,..,..
+United States,USA,Lifetime risk of maternal death (1 in: rate varies by country),SH.MMR.RISK,Lifetime risk of maternal death,..,..,..
+United States,USA,"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Literacy rate,..,..,..
+United States,USA,"Literacy rate, youth (ages 15-24), gender parity index (GPI)",SE.ADT.1524.LT.FM.ZS,Literacy rate,..,..,..
+United States,USA,"Literacy rate, youth female (% of females ages 15-24)",SE.ADT.1524.LT.FE.ZS,Literacy rate,..,..,..
+United States,USA,"Literacy rate, youth male (% of males ages 15-24)",SE.ADT.1524.LT.MA.ZS,Literacy rate,..,..,..
+United States,USA,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,Literacy rate,..,..,..
+United States,USA,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,Literacy rate,..,..,..
+United States,USA,Learning poverty: Share of Children at the End-of-Primary age below minimum reading proficiency adjusted by Out-of-School Children (%),SE.LPV.PRIM,Poverty indicators,9.691570282,..,..
+United States,USA,Learning poverty: Share of Female Children at the End-of-Primary age below minimum reading proficiency adjusted by Out-of-School Children (%),SE.LPV.PRIM.FE,Poverty indicators,8.994832993,..,..
+United States,USA,Learning poverty: Share of Male Children at the End-of-Primary age below minimum reading proficiency adjusted by Out-of-School Children (%),SE.LPV.PRIM.MA,Poverty indicators,10.38175869,..,..
+United States,USA,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,Poverty indicators,0.2,1,..
+United States,USA,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,Poverty indicators,0.2,1.2,..
+United States,USA,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,Poverty indicators,0.5,1.4,..
+United States,USA,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,Poverty indicators,0.3,1.1,..
+United States,USA,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,Poverty indicators,1,2,..
+United States,USA,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,Poverty indicators,0.5,1.5,..
+United States,USA,Poverty headcount ratio at societal poverty line (% of population),SI.POV.SOPO,Poverty indicators,16.7,19.2,..
+United States,USA,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,Poverty indicators,..,..,..
+United States,USA,"Unemployment, youth female (% of female labor force ages 15-24) (national estimate)",SL.UEM.1524.FE.NE.ZS,Unemployment,8.9,7.467,7.095
+United States,USA,"Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.MA.ZS,Unemployment,10.474,8.719,8.757
+United States,USA,"Unemployment, youth male (% of male labor force ages 15-24) (national estimate)",SL.UEM.1524.MA.NE.ZS,Unemployment,10.524,8.763,8.758
+United States,USA,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.ZS,Unemployment,9.704,8.105,7.953
+United States,USA,"Unemployment, youth total (% of total labor force ages 15-24) (national estimate)",SL.UEM.1524.NE.ZS,Unemployment,9.73,8.129,7.938
+United States,USA,"Unemployment, youth female (% of female labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.FE.ZS,Unemployment,8.85,7.428,7.086
+United States,USA,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,Unemployment,5.349,3.65,3.638
+United States,USA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,Unemployment,5.349,3.65,3.638
+United States,USA,"Unemployment, male (% of male labor force) (national estimate)",SL.UEM.TOTL.MA.NE.ZS,Unemployment,5.468,3.681,3.8
+United States,USA,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,Unemployment,5.463,3.68,3.795
+United States,USA,"Unemployment, female (% of female labor force) (national estimate)",SL.UEM.TOTL.FE.NE.ZS,Unemployment,5.215,3.614,3.454
+United States,USA,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,Unemployment,5.21,3.613,3.45
+United States,USA,"Unemployment with intermediate education, female (% of female labor force with intermediate education)",SL.UEM.INTM.FE.ZS,Unemployment,7.053,5.122,4.737
+United States,USA,"Unemployment with intermediate education, male (% of male labor force with intermediate education)",SL.UEM.INTM.MA.ZS,Unemployment,7.094,4.836,5.003
+United States,USA,Unemployment with basic education (% of total labor force with basic education),SL.UEM.BASC.ZS,Unemployment,8.056,5.507,5.591
+United States,USA,"Unemployment with basic education, female (% of female labor force with basic education)",SL.UEM.BASC.FE.ZS,Unemployment,9.765,6.417,6.838
+United States,USA,"Unemployment with basic education, male (% of male labor force with basic education)",SL.UEM.BASC.MA.ZS,Unemployment,7.15,5.047,4.942
+United States,USA,Unemployment with intermediate education (% of total labor force with intermediate education),SL.UEM.INTM.ZS,Unemployment,7.076,4.96,4.888
+United States,USA,"Unemployment with advanced education, male (% of male labor force with advanced education)",SL.UEM.ADVN.MA.ZS,Unemployment,3.573,2.325,2.425
+United States,USA,"Unemployment with advanced education, female (% of female labor force with advanced education)",SL.UEM.ADVN.FE.ZS,Unemployment,3.579,2.317,2.323
+United States,USA,Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS,Unemployment,3.576,2.321,2.373
+United States,USA,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,Annual freshwater withdrawals,39.65878143,..,..
+United States,USA,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,Annual freshwater withdrawals,13.14231696,..,..
+United States,USA,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,Annual freshwater withdrawals,47.19890162,..,..
+United States,USA,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,Annual freshwater withdrawals,15.7699117,..,..
+United States,USA,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,Annual freshwater withdrawals,444.3961118,..,..
+United States,USA,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,Access to clean fuels and technologies for cooking,100,100,..
+United States,USA,"Access to clean fuels and technologies for cooking, rural (% of rural population)",EG.CFT.ACCS.RU.ZS,Access to clean fuels and technologies for cooking,100,100,..
+United States,USA,"Access to clean fuels and technologies for cooking, urban (% of urban population)",EG.CFT.ACCS.UR.ZS,Access to clean fuels and technologies for cooking,100,100,..
+India,IND,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,Life expectancy at birth,68.886,69.384,..
+India,IND,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,Life expectancy at birth,65.756,66.257,..
+India,IND,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,Life expectancy at birth,67.24,67.744,..
+India,IND,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,Lifetime risk of maternal death,..,..,..
+India,IND,Lifetime risk of maternal death (1 in: rate varies by country),SH.MMR.RISK,Lifetime risk of maternal death,..,..,..
+India,IND,"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Literacy rate,..,76,77
+India,IND,"Literacy rate, youth (ages 15-24), gender parity index (GPI)",SE.ADT.1524.LT.FM.ZS,Literacy rate,..,1,1
+India,IND,"Literacy rate, youth female (% of females ages 15-24)",SE.ADT.1524.LT.FE.ZS,Literacy rate,..,96,96
+India,IND,"Literacy rate, youth male (% of males ages 15-24)",SE.ADT.1524.LT.MA.ZS,Literacy rate,..,97,98
+India,IND,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,Literacy rate,..,83,85
+India,IND,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,Literacy rate,..,69,70
+India,IND,Learning poverty: Share of Children at the End-of-Primary age below minimum reading proficiency adjusted by Out-of-School Children (%),SE.LPV.PRIM,Poverty indicators,..,..,..
+India,IND,Learning poverty: Share of Female Children at the End-of-Primary age below minimum reading proficiency adjusted by Out-of-School Children (%),SE.LPV.PRIM.FE,Poverty indicators,..,..,..
+India,IND,Learning poverty: Share of Male Children at the End-of-Primary age below minimum reading proficiency adjusted by Out-of-School Children (%),SE.LPV.PRIM.MA,Poverty indicators,..,..,..
+India,IND,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,Poverty indicators,2.7,..,..
+India,IND,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,Poverty indicators,12.9,..,..
+India,IND,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,Poverty indicators,38.2,..,..
+India,IND,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,Poverty indicators,13.3,..,..
+India,IND,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,Poverty indicators,81.8,..,..
+India,IND,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,Poverty indicators,44,..,..
+India,IND,Poverty headcount ratio at societal poverty line (% of population),SI.POV.SOPO,Poverty indicators,33.1,..,..
+India,IND,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,Poverty indicators,..,..,..
+India,IND,"Unemployment, youth female (% of female labor force ages 15-24) (national estimate)",SL.UEM.1524.FE.NE.ZS,Unemployment,20.08,19.262,15.583
+India,IND,"Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.MA.ZS,Unemployment,21.158,17.497,15.716
+India,IND,"Unemployment, youth male (% of male labor force ages 15-24) (national estimate)",SL.UEM.1524.MA.NE.ZS,Unemployment,20.842,17.471,15.429
+India,IND,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.ZS,Unemployment,20.824,17.769,15.661
+India,IND,"Unemployment, youth total (% of total labor force ages 15-24) (national estimate)",SL.UEM.1524.NE.ZS,Unemployment,20.684,17.856,15.469
+India,IND,"Unemployment, youth female (% of female labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.FE.ZS,Unemployment,19.621,18.689,15.484
+India,IND,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,Unemployment,6.38,4.822,4.172
+India,IND,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,Unemployment,6.38,4.822,4.172
+India,IND,"Unemployment, male (% of male labor force) (national estimate)",SL.UEM.TOTL.MA.NE.ZS,Unemployment,6.73,4.908,4.222
+India,IND,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,Unemployment,6.72,4.908,4.216
+India,IND,"Unemployment, female (% of female labor force) (national estimate)",SL.UEM.TOTL.FE.NE.ZS,Unemployment,5.402,4.588,4.063
+India,IND,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,Unemployment,5.394,4.588,4.057
+India,IND,"Unemployment with intermediate education, female (% of female labor force with intermediate education)",SL.UEM.INTM.FE.ZS,Unemployment,8.773,8.874,6.798
+India,IND,"Unemployment with intermediate education, male (% of male labor force with intermediate education)",SL.UEM.INTM.MA.ZS,Unemployment,9.734,7.888,5.791
+India,IND,Unemployment with basic education (% of total labor force with basic education),SL.UEM.BASC.ZS,Unemployment,4.877,3.095,2.473
+India,IND,"Unemployment with basic education, female (% of female labor force with basic education)",SL.UEM.BASC.FE.ZS,Unemployment,2.856,1.799,1.697
+India,IND,"Unemployment with basic education, male (% of male labor force with basic education)",SL.UEM.BASC.MA.ZS,Unemployment,5.382,3.449,2.748
+India,IND,Unemployment with intermediate education (% of total labor force with intermediate education),SL.UEM.INTM.ZS,Unemployment,9.571,8.06,5.991
+India,IND,"Unemployment with advanced education, male (% of male labor force with advanced education)",SL.UEM.ADVN.MA.ZS,Unemployment,13.5,12.052,10.839
+India,IND,"Unemployment with advanced education, female (% of female labor force with advanced education)",SL.UEM.ADVN.FE.ZS,Unemployment,23.395,21.424,20.594
+India,IND,Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS,Unemployment,15.781,14.3,13.316
+India,IND,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,Annual freshwater withdrawals,90.40735874,..,..
+India,IND,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,Annual freshwater withdrawals,7.358738502,..,..
+India,IND,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,Annual freshwater withdrawals,2.23390276,..,..
+India,IND,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,Annual freshwater withdrawals,44.77869986,..,..
+India,IND,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,Annual freshwater withdrawals,647.5,..,..
+India,IND,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,Access to clean fuels and technologies for cooking,70.5,74.5,..
+India,IND,"Access to clean fuels and technologies for cooking, rural (% of rural population)",EG.CFT.ACCS.RU.ZS,Access to clean fuels and technologies for cooking,57.1,62.5,..
+India,IND,"Access to clean fuels and technologies for cooking, urban (% of urban population)",EG.CFT.ACCS.UR.ZS,Access to clean fuels and technologies for cooking,93.8,94.8,..
+Germany,DEU,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,Life expectancy at birth,83.3,83.2,..
+Germany,DEU,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,Life expectancy at birth,78.4,78.33,..
+Germany,DEU,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,Life expectancy at birth,80.7902439,80.70560976,..
+Germany,DEU,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,Lifetime risk of maternal death,..,..,..
+Germany,DEU,Lifetime risk of maternal death (1 in: rate varies by country),SH.MMR.RISK,Lifetime risk of maternal death,..,..,..
+Germany,DEU,"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Literacy rate,..,..,..
+Germany,DEU,"Literacy rate, youth (ages 15-24), gender parity index (GPI)",SE.ADT.1524.LT.FM.ZS,Literacy rate,..,..,..
+Germany,DEU,"Literacy rate, youth female (% of females ages 15-24)",SE.ADT.1524.LT.FE.ZS,Literacy rate,..,..,..
+Germany,DEU,"Literacy rate, youth male (% of males ages 15-24)",SE.ADT.1524.LT.MA.ZS,Literacy rate,..,..,..
+Germany,DEU,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,Literacy rate,..,..,..
+Germany,DEU,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,Literacy rate,..,..,..
+Germany,DEU,Learning poverty: Share of Children at the End-of-Primary age below minimum reading proficiency adjusted by Out-of-School Children (%),SE.LPV.PRIM,Poverty indicators,15.43990231,..,..
+Germany,DEU,Learning poverty: Share of Female Children at the End-of-Primary age below minimum reading proficiency adjusted by Out-of-School Children (%),SE.LPV.PRIM.FE,Poverty indicators,..,..,..
+Germany,DEU,Learning poverty: Share of Male Children at the End-of-Primary age below minimum reading proficiency adjusted by Out-of-School Children (%),SE.LPV.PRIM.MA,Poverty indicators,..,..,..
+Germany,DEU,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,Poverty indicators,..,..,..
+Germany,DEU,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,Poverty indicators,..,..,..
+Germany,DEU,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,Poverty indicators,..,..,..
+Germany,DEU,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,Poverty indicators,..,..,..
+Germany,DEU,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,Poverty indicators,..,..,..
+Germany,DEU,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,Poverty indicators,..,..,..
+Germany,DEU,Poverty headcount ratio at societal poverty line (% of population),SI.POV.SOPO,Poverty indicators,..,..,..
+Germany,DEU,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,Poverty indicators,14.8,..,..
+Germany,DEU,"Unemployment, youth female (% of female labor force ages 15-24) (national estimate)",SL.UEM.1524.FE.NE.ZS,Unemployment,6.297,4.853,5.219
+Germany,DEU,"Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.MA.ZS,Unemployment,6.966,7.039,6.555
+Germany,DEU,"Unemployment, youth male (% of male labor force ages 15-24) (national estimate)",SL.UEM.1524.MA.NE.ZS,Unemployment,6.972,7.019,6.529
+Germany,DEU,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.ZS,Unemployment,6.665,6.04,5.949
+Germany,DEU,"Unemployment, youth total (% of total labor force ages 15-24) (national estimate)",SL.UEM.1524.NE.ZS,Unemployment,6.662,6.028,5.927
+Germany,DEU,"Unemployment, youth female (% of female labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.FE.ZS,Unemployment,6.303,4.858,5.234
+Germany,DEU,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,Unemployment,3.594,3.12,3.068
+Germany,DEU,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,Unemployment,3.594,3.12,3.068
+Germany,DEU,"Unemployment, male (% of male labor force) (national estimate)",SL.UEM.TOTL.MA.NE.ZS,Unemployment,3.987,3.402,3.271
+Germany,DEU,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,Unemployment,3.987,3.401,3.27
+Germany,DEU,"Unemployment, female (% of female labor force) (national estimate)",SL.UEM.TOTL.FE.NE.ZS,Unemployment,3.14,2.798,2.837
+Germany,DEU,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,Unemployment,3.14,2.797,2.836
+Germany,DEU,"Unemployment with intermediate education, female (% of female labor force with intermediate education)",SL.UEM.INTM.FE.ZS,Unemployment,2.661,2.311,2.316
+Germany,DEU,"Unemployment with intermediate education, male (% of male labor force with intermediate education)",SL.UEM.INTM.MA.ZS,Unemployment,3.519,3.092,2.821
+Germany,DEU,Unemployment with basic education (% of total labor force with basic education),SL.UEM.BASC.ZS,Unemployment,7.686,6.788,6.322
+Germany,DEU,"Unemployment with basic education, female (% of female labor force with basic education)",SL.UEM.BASC.FE.ZS,Unemployment,6.578,6.05,5.61
+Germany,DEU,"Unemployment with basic education, male (% of male labor force with basic education)",SL.UEM.BASC.MA.ZS,Unemployment,8.497,7.332,6.842
+Germany,DEU,Unemployment with intermediate education (% of total labor force with intermediate education),SL.UEM.INTM.ZS,Unemployment,3.097,2.704,2.571
+Germany,DEU,"Unemployment with advanced education, male (% of male labor force with advanced education)",SL.UEM.ADVN.MA.ZS,Unemployment,2.425,1.741,1.977
+Germany,DEU,"Unemployment with advanced education, female (% of female labor force with advanced education)",SL.UEM.ADVN.FE.ZS,Unemployment,2.377,2.049,2.361
+Germany,DEU,Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS,Unemployment,2.404,1.877,2.149
+Germany,DEU,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,Annual freshwater withdrawals,4.166591548,..,..
+Germany,DEU,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,Annual freshwater withdrawals,41.53374175,..,..
+Germany,DEU,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,Annual freshwater withdrawals,54.2996667,..,..
+Germany,DEU,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,Annual freshwater withdrawals,24.10520467,..,..
+Germany,DEU,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,Annual freshwater withdrawals,25.792569,..,..
+Germany,DEU,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,Access to clean fuels and technologies for cooking,100,100,..
+Germany,DEU,"Access to clean fuels and technologies for cooking, rural (% of rural population)",EG.CFT.ACCS.RU.ZS,Access to clean fuels and technologies for cooking,100,100,..
+Germany,DEU,"Access to clean fuels and technologies for cooking, urban (% of urban population)",EG.CFT.ACCS.UR.ZS,Access to clean fuels and technologies for cooking,100,100,..
+Japan,JPN,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,Life expectancy at birth,87.57,87.09,..
+Japan,JPN,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,Life expectancy at birth,81.47,81.05,..
+Japan,JPN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,Life expectancy at birth,84.44560976,83.99634146,..
+Japan,JPN,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,Lifetime risk of maternal death,..,..,..
+Japan,JPN,Lifetime risk of maternal death (1 in: rate varies by country),SH.MMR.RISK,Lifetime risk of maternal death,..,..,..
+Japan,JPN,"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Literacy rate,..,..,..
+Japan,JPN,"Literacy rate, youth (ages 15-24), gender parity index (GPI)",SE.ADT.1524.LT.FM.ZS,Literacy rate,..,..,..
+Japan,JPN,"Literacy rate, youth female (% of females ages 15-24)",SE.ADT.1524.LT.FE.ZS,Literacy rate,..,..,..
+Japan,JPN,"Literacy rate, youth male (% of males ages 15-24)",SE.ADT.1524.LT.MA.ZS,Literacy rate,..,..,..
+Japan,JPN,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,Literacy rate,..,..,..
+Japan,JPN,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,Literacy rate,..,..,..
+Japan,JPN,Learning poverty: Share of Children at the End-of-Primary age below minimum reading proficiency adjusted by Out-of-School Children (%),SE.LPV.PRIM,Poverty indicators,..,..,..
+Japan,JPN,Learning poverty: Share of Female Children at the End-of-Primary age below minimum reading proficiency adjusted by Out-of-School Children (%),SE.LPV.PRIM.FE,Poverty indicators,..,..,..
+Japan,JPN,Learning poverty: Share of Male Children at the End-of-Primary age below minimum reading proficiency adjusted by Out-of-School Children (%),SE.LPV.PRIM.MA,Poverty indicators,..,..,..
+Japan,JPN,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,Poverty indicators,..,..,..
+Japan,JPN,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,Poverty indicators,..,..,..
+Japan,JPN,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,Poverty indicators,..,..,..
+Japan,JPN,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,Poverty indicators,..,..,..
+Japan,JPN,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,Poverty indicators,..,..,..
+Japan,JPN,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,Poverty indicators,..,..,..
+Japan,JPN,Poverty headcount ratio at societal poverty line (% of population),SI.POV.SOPO,Poverty indicators,..,..,..
+Japan,JPN,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,Poverty indicators,..,..,..
+Japan,JPN,"Unemployment, youth female (% of female labor force ages 15-24) (national estimate)",SL.UEM.1524.FE.NE.ZS,Unemployment,4.092,3.757,3.8
+Japan,JPN,"Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.MA.ZS,Unemployment,5.089,5.079,4.481
+Japan,JPN,"Unemployment, youth male (% of male labor force ages 15-24) (national estimate)",SL.UEM.1524.MA.NE.ZS,Unemployment,5.321,5.125,4.4
+Japan,JPN,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.ZS,Unemployment,4.625,4.406,4.116
+Japan,JPN,"Unemployment, youth total (% of total labor force ages 15-24) (national estimate)",SL.UEM.1524.NE.ZS,Unemployment,4.707,4.438,4.1
+Japan,JPN,"Unemployment, youth female (% of female labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.FE.ZS,Unemployment,4.153,3.726,3.75
+Japan,JPN,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,Unemployment,2.809,2.615,2.6
+Japan,JPN,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,Unemployment,2.828,2.6,2.6
+Japan,JPN,"Unemployment, male (% of male labor force) (national estimate)",SL.UEM.TOTL.MA.NE.ZS,Unemployment,3.035,2.828,2.8
+Japan,JPN,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,Unemployment,3.049,2.777,2.827
+Japan,JPN,"Unemployment, female (% of female labor force) (national estimate)",SL.UEM.TOTL.FE.NE.ZS,Unemployment,2.527,2.353,2.3
+Japan,JPN,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,Unemployment,2.55,2.38,2.322
+Japan,JPN,"Unemployment with intermediate education, female (% of female labor force with intermediate education)",SL.UEM.INTM.FE.ZS,Unemployment,..,..,..
+Japan,JPN,"Unemployment with intermediate education, male (% of male labor force with intermediate education)",SL.UEM.INTM.MA.ZS,Unemployment,..,..,..
+Japan,JPN,Unemployment with basic education (% of total labor force with basic education),SL.UEM.BASC.ZS,Unemployment,..,..,..
+Japan,JPN,"Unemployment with basic education, female (% of female labor force with basic education)",SL.UEM.BASC.FE.ZS,Unemployment,..,..,..
+Japan,JPN,"Unemployment with basic education, male (% of male labor force with basic education)",SL.UEM.BASC.MA.ZS,Unemployment,..,..,..
+Japan,JPN,Unemployment with intermediate education (% of total labor force with intermediate education),SL.UEM.INTM.ZS,Unemployment,..,..,..
+Japan,JPN,"Unemployment with advanced education, male (% of male labor force with advanced education)",SL.UEM.ADVN.MA.ZS,Unemployment,..,..,..
+Japan,JPN,"Unemployment with advanced education, female (% of female labor force with advanced education)",SL.UEM.ADVN.FE.ZS,Unemployment,..,..,..
+Japan,JPN,Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS,Unemployment,..,..,..
+Japan,JPN,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,Annual freshwater withdrawals,67.94380587,..,..
+Japan,JPN,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,Annual freshwater withdrawals,18.90166028,..,..
+Japan,JPN,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,Annual freshwater withdrawals,13.15453384,..,..
+Japan,JPN,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,Annual freshwater withdrawals,18.23255814,..,..
+Japan,JPN,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,Annual freshwater withdrawals,78.4,..,..
+Japan,JPN,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,Access to clean fuels and technologies for cooking,100,100,..
+Japan,JPN,"Access to clean fuels and technologies for cooking, rural (% of rural population)",EG.CFT.ACCS.RU.ZS,Access to clean fuels and technologies for cooking,100,100,..
+Japan,JPN,"Access to clean fuels and technologies for cooking, urban (% of urban population)",EG.CFT.ACCS.UR.ZS,Access to clean fuels and technologies for cooking,100,100,..
+China,CHN,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,Life expectancy at birth,81.155,81.343,..
+China,CHN,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,Life expectancy at birth,75.463,75.963,..
+China,CHN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,Life expectancy at birth,78.211,78.587,..
+China,CHN,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,Lifetime risk of maternal death,..,..,..
+China,CHN,Lifetime risk of maternal death (1 in: rate varies by country),SH.MMR.RISK,Lifetime risk of maternal death,..,..,..
+China,CHN,"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Literacy rate,..,..,..
+China,CHN,"Literacy rate, youth (ages 15-24), gender parity index (GPI)",SE.ADT.1524.LT.FM.ZS,Literacy rate,..,..,..
+China,CHN,"Literacy rate, youth female (% of females ages 15-24)",SE.ADT.1524.LT.FE.ZS,Literacy rate,..,..,..
+China,CHN,"Literacy rate, youth male (% of males ages 15-24)",SE.ADT.1524.LT.MA.ZS,Literacy rate,..,..,..
+China,CHN,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,Literacy rate,..,..,..
+China,CHN,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,Literacy rate,..,..,..
+China,CHN,Learning poverty: Share of Children at the End-of-Primary age below minimum reading proficiency adjusted by Out-of-School Children (%),SE.LPV.PRIM,Poverty indicators,..,..,..
+China,CHN,Learning poverty: Share of Female Children at the End-of-Primary age below minimum reading proficiency adjusted by Out-of-School Children (%),SE.LPV.PRIM.FE,Poverty indicators,..,..,..
+China,CHN,Learning poverty: Share of Male Children at the End-of-Primary age below minimum reading proficiency adjusted by Out-of-School Children (%),SE.LPV.PRIM.MA,Poverty indicators,..,..,..
+China,CHN,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,Poverty indicators,0,..,..
+China,CHN,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,Poverty indicators,0,..,..
+China,CHN,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,Poverty indicators,3.5,..,..
+China,CHN,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,Poverty indicators,0,..,..
+China,CHN,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,Poverty indicators,17,..,..
+China,CHN,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,Poverty indicators,0,..,..
+China,CHN,Poverty headcount ratio at societal poverty line (% of population),SI.POV.SOPO,Poverty indicators,19,..,..
+China,CHN,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,Poverty indicators,..,..,..
+China,CHN,"Unemployment, youth female (% of female labor force ages 15-24) (national estimate)",SL.UEM.1524.FE.NE.ZS,Unemployment,..,..,..
+China,CHN,"Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.MA.ZS,Unemployment,13.374,15.934,16.919
+China,CHN,"Unemployment, youth male (% of male labor force ages 15-24) (national estimate)",SL.UEM.1524.MA.NE.ZS,Unemployment,..,..,..
+China,CHN,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.ZS,Unemployment,12.422,14.811,15.745
+China,CHN,"Unemployment, youth total (% of total labor force ages 15-24) (national estimate)",SL.UEM.1524.NE.ZS,Unemployment,14.25,..,..
+China,CHN,"Unemployment, youth female (% of female labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.FE.ZS,Unemployment,11.163,13.318,14.178
+China,CHN,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,Unemployment,5.11,..,..
+China,CHN,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,Unemployment,4.55,4.98,4.67
+China,CHN,"Unemployment, male (% of male labor force) (national estimate)",SL.UEM.TOTL.MA.NE.ZS,Unemployment,..,..,..
+China,CHN,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,Unemployment,5.04,5.516,5.173
+China,CHN,"Unemployment, female (% of female labor force) (national estimate)",SL.UEM.TOTL.FE.NE.ZS,Unemployment,..,..,..
+China,CHN,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,Unemployment,3.953,4.326,4.057
+China,CHN,"Unemployment with intermediate education, female (% of female labor force with intermediate education)",SL.UEM.INTM.FE.ZS,Unemployment,..,..,..
+China,CHN,"Unemployment with intermediate education, male (% of male labor force with intermediate education)",SL.UEM.INTM.MA.ZS,Unemployment,..,..,..
+China,CHN,Unemployment with basic education (% of total labor force with basic education),SL.UEM.BASC.ZS,Unemployment,..,..,..
+China,CHN,"Unemployment with basic education, female (% of female labor force with basic education)",SL.UEM.BASC.FE.ZS,Unemployment,..,..,..
+China,CHN,"Unemployment with basic education, male (% of male labor force with basic education)",SL.UEM.BASC.MA.ZS,Unemployment,..,..,..
+China,CHN,Unemployment with intermediate education (% of total labor force with intermediate education),SL.UEM.INTM.ZS,Unemployment,..,..,..
+China,CHN,"Unemployment with advanced education, male (% of male labor force with advanced education)",SL.UEM.ADVN.MA.ZS,Unemployment,..,..,..
+China,CHN,"Unemployment with advanced education, female (% of female labor force with advanced education)",SL.UEM.ADVN.FE.ZS,Unemployment,..,..,..
+China,CHN,Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS,Unemployment,..,..,..
+China,CHN,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,Annual freshwater withdrawals,62.14454059,..,..
+China,CHN,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,Annual freshwater withdrawals,20.12936744,..,..
+China,CHN,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,Annual freshwater withdrawals,17.72609197,..,..
+China,CHN,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,Annual freshwater withdrawals,20.20974795,..,..
+China,CHN,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,Annual freshwater withdrawals,568.48,..,..
+China,CHN,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,Access to clean fuels and technologies for cooking,85.9,87.8,..
+China,CHN,"Access to clean fuels and technologies for cooking, rural (% of rural population)",EG.CFT.ACCS.RU.ZS,Access to clean fuels and technologies for cooking,72.4,75.8,..
+China,CHN,"Access to clean fuels and technologies for cooking, urban (% of urban population)",EG.CFT.ACCS.UR.ZS,Access to clean fuels and technologies for cooking,94.5,95.2,..

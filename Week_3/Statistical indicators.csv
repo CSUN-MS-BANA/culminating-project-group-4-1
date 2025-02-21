@@ -1,231 +1,231 @@
-Country Name,Country Code,Series Name,Series Code,2021 [YR2021],2022 [YR2022],2023 [YR2023]
-China,CHN,Broad money (% of GDP),FM.LBL.BMNY.GD.ZS,203.8378734,217.1287767,227.9445732
-China,CHN,Broad money (current LCU),FM.LBL.BMNY.CN,2.34E+14,2.62E+14,2.87E+14
-China,CHN,Broad money growth (annual %),FM.LBL.BMNY.ZG,9.075745734,11.66330022,9.848834535
-China,CHN,Broad money to total reserves ratio,FM.LBL.BMNY.IR.ZS,10.59672482,11.74127048,11.75872445
-China,CHN,Claims on central government (annual growth as % of broad money),FM.AST.CGOV.ZG.M3,2.094292056,2.761421195,2.792120091
-China,CHN,Claims on other sectors of the domestic economy (annual growth as % of broad money),FM.AST.DOMO.ZG.M3,..,..,..
-China,CHN,Claims on private sector (annual growth as % of broad money),FM.AST.PRVT.ZG.M3,8.554996445,8.796261892,8.056557638
-China,CHN,"Official exchange rate (LCU per US$, period average)",PA.NUS.FCRF,6.44897518,6.737158112,7.083998423
-China,CHN,Real effective exchange rate index (2010 = 100),PX.REX.REER,127.328418,125.966431,116.0394435
-Germany,DEU,Broad money (% of GDP),FM.LBL.BMNY.GD.ZS,..,..,..
-Germany,DEU,Broad money (current LCU),FM.LBL.BMNY.CN,..,..,..
-Germany,DEU,Broad money growth (annual %),FM.LBL.BMNY.ZG,..,..,..
-Germany,DEU,Broad money to total reserves ratio,FM.LBL.BMNY.IR.ZS,..,..,..
-Germany,DEU,Claims on central government (annual growth as % of broad money),FM.AST.CGOV.ZG.M3,..,..,..
-Germany,DEU,Claims on other sectors of the domestic economy (annual growth as % of broad money),FM.AST.DOMO.ZG.M3,..,..,..
-Germany,DEU,Claims on private sector (annual growth as % of broad money),FM.AST.PRVT.ZG.M3,..,..,..
-Germany,DEU,"Official exchange rate (LCU per US$, period average)",PA.NUS.FCRF,0.845494139,0.949623753,0.924839558
-Germany,DEU,Real effective exchange rate index (2010 = 100),PX.REX.REER,97.13995968,93.7213134,97.1443097
-Japan,JPN,Broad money (% of GDP),FM.LBL.BMNY.GD.ZS,281.9455368,284.665258,275.5569422
-Japan,JPN,Broad money (current LCU),FM.LBL.BMNY.CN,1.56E+15,1.59E+15,1.63E+15
-Japan,JPN,Broad money growth (annual %),FM.LBL.BMNY.ZG,2.945157822,2.268993929,2.158940293
-Japan,JPN,Broad money to total reserves ratio,FM.LBL.BMNY.IR.ZS,10.09774055,9.870305126,8.949061357
-Japan,JPN,Claims on central government (annual growth as % of broad money),FM.AST.CGOV.ZG.M3,0.095290076,-0.063487259,2.210412074
-Japan,JPN,Claims on other sectors of the domestic economy (annual growth as % of broad money),FM.AST.DOMO.ZG.M3,2.750976457,-0.073063943,2.889304853
-Japan,JPN,Claims on private sector (annual growth as % of broad money),FM.AST.PRVT.ZG.M3,0.988086923,1.572578947,1.86513502
-Japan,JPN,"Official exchange rate (LCU per US$, period average)",PA.NUS.FCRF,109.7543238,131.4981404,140.4911001
-Japan,JPN,Real effective exchange rate index (2010 = 100),PX.REX.REER,70.69116244,61.01097912,58.11491152
-India,IND,Broad money (% of GDP),FM.LBL.BMNY.GD.ZS,82.10203483,..,..
-India,IND,Broad money (current LCU),FM.LBL.BMNY.CN,1.94E+14,..,..
-India,IND,Broad money growth (annual %),FM.LBL.BMNY.ZG,11.29710567,..,..
-India,IND,Broad money to total reserves ratio,FM.LBL.BMNY.IR.ZS,4.072757428,..,..
-India,IND,Claims on central government (annual growth as % of broad money),FM.AST.CGOV.ZG.M3,2.594670506,..,..
-India,IND,Claims on other sectors of the domestic economy (annual growth as % of broad money),FM.AST.DOMO.ZG.M3,..,..,..
-India,IND,Claims on private sector (annual growth as % of broad money),FM.AST.PRVT.ZG.M3,5.806218088,..,..
-India,IND,"Official exchange rate (LCU per US$, period average)",PA.NUS.FCRF,73.91801282,78.60449058,82.59927645
-India,IND,Real effective exchange rate index (2010 = 100),PX.REX.REER,..,..,..
-United States,USA,Broad money (% of GDP),FM.LBL.BMNY.GD.ZS,114.9809344,103.8161168,99.12791711
-United States,USA,Broad money (current LCU),FM.LBL.BMNY.CN,2.72E+13,2.70E+13,2.75E+13
-United States,USA,Broad money growth (annual %),FM.LBL.BMNY.ZG,16.85668337,-0.84280258,1.776394992
-United States,USA,Broad money to total reserves ratio,FM.LBL.BMNY.IR.ZS,38.0210092,38.20783613,35.52887385
-United States,USA,Claims on central government (annual growth as % of broad money),FM.AST.CGOV.ZG.M3,12.67334133,-3.916926706,-0.393185277
-United States,USA,Claims on other sectors of the domestic economy (annual growth as % of broad money),FM.AST.DOMO.ZG.M3,6.037187781,3.197856047,2.014442875
-United States,USA,Claims on private sector (annual growth as % of broad money),FM.AST.PRVT.ZG.M3,1.761209024,5.169487554,1.206869309
-United States,USA,"Official exchange rate (LCU per US$, period average)",PA.NUS.FCRF,1,1,1
-United States,USA,Real effective exchange rate index (2010 = 100),PX.REX.REER,115.6271055,126.625654,127.5404195
-United States,USA,Classification of household consumption,SPI.D5.2.5.HOUS,1,1,1
-United States,USA,Classification of national industry,SPI.D5.2.3.CNIN,1,1,1
-United States,USA,Classification of status of employment,SPI.D5.2.6.EMPL,1,1,1
-United States,USA,Compilation of government finance statistics,SPI.D5.2.8.FINA,1,1,1
-United States,USA,Compilation of monetary and financial statistics,SPI.D5.2.9.MONY,1,1,1
-United States,USA,Dimension 3.4: Institutional Statistics,SPI.DIM3.4.INDEX,0.775,0.661,0.8285
-United States,USA,Dimension 3.3: Environmental Statistics,SPI.DIM3.3.INDEX,0.95,0.9545,0.9165
-United States,USA,Dimension 3.2: Economic Statistics,SPI.DIM3.2.INDEX,0.861166667,0.8385,0.9555
-United States,USA,Dimension 3.1: Social Statistics,SPI.DIM3.1.INDEX,0.855833333,0.772833333,0.82
-United States,USA,Dimension 2.4: Data services,SPI.DIM2.4.INDEX,1,1,1
-United States,USA,Dimension 5.5: Finance,SPI.DIM5.5.INDEX,1,1,1
-United States,USA,Labor Force Survey (Availability score over 10 years),SPI.D4.1.6.LABR,1,1,1
-United States,USA,Pillar 5 - Data Infrastructure - Score,SPI.INDEX.PIL5,100,100,100
-United States,USA,Pillar 2 - Data Services - Score,SPI.INDEX.PIL2,92.7,93.13333333,93.13333333
-United States,USA,Pillar 3 - Data Products - Score,SPI.INDEX.PIL3,85.95,80.61875,88.39375
-United States,USA,Pillar 4 - Data Sources - Score,SPI.INDEX.PIL4,85.1,85.625,85.625
-United States,USA,Pillar 1 - Data Use - Score,SPI.INDEX.PIL1,100,100,100
-United States,USA,Availability of Comparable Poverty headcount ratio at $2.15 a day (5 year moving average),SPI.D1.5.POV,1,1,1
-United States,USA,Agriculture survey (Availability score over 10 years),SPI.D4.1.5.AGSVY,1,1,1
-United States,USA,Business process,SPI.D5.2.10.GSBP,1,1,1
-United States,USA,Business/establishment survey (Availability score over 10 years),SPI.D4.1.8.BZSVY,1,1,1
-United States,USA,Dimension 1.5: Data use by international organizations,SPI.DIM1.5.INDEX,1,1,1
-United States,USA,Dimension 5.2: Standards and Methods,SPI.DIM5.2.INDEX,1,1,1
-United States,USA,Dimension 5.1: Legislation and governance,SPI.DIM5.1.INDEX,1,1,1
-United States,USA,Dimension 4.3: Geospatial Data,SPI.DIM4.3.INDEX,0.404,0.425,0.425
-United States,USA,Dimension 4.2: Administrative Data,SPI.DIM4.2.INDEX,1,1,1
-United States,USA,GOAL 11: Sustainable Cities and Communities (5 year moving average),SPI.D3.11.CITY,0.8,0.875,1
-United States,USA,GOAL 13: Climate Action (5 year moving average),SPI.D3.13.CLMT,1,1,1
-United States,USA,GOAL 15: Life on Land (5 year moving average),SPI.D3.15.LAND,0.9,0.909,0.833
-United States,USA,GOAL 3: Good Health and Well-being (5 year moving average),SPI.D3.3.HLTH,0.96,0.92,0.88
-United States,USA,GOAL 4: Quality Education (5 year moving average),SPI.D3.4.EDUC,0.6,0.4,0.833
-United States,USA,GOAL 5: Gender Equality (5 year moving average),SPI.D3.5.GEND,0.8,0.667,0.75
-United States,USA,GOAL 6: Clean Water and Sanitation (5 year moving average),SPI.D3.6.WTRS,0.875,0.875,0.857
-United States,USA,GOAL 7: Affordable and Clean Energy (5 year moving average),SPI.D3.7.ENRG,0.667,0.667,0.833
-United States,USA,"GOAL 9: Industry, Innovation and Infrastructure (5 year moving average)",SPI.D3.9.INDY,0.9,0.9,0.9
-United States,USA,GOAL 8: Decent Work and Economic Growth (5 year moving average),SPI.D3.8.WORK,1,0.889,1
-United States,USA,Health/Demographic survey (Availability score over 10 years),SPI.D4.1.7.HLTH,1,1,1
-Japan,JPN,Classification of household consumption,SPI.D5.2.5.HOUS,1,1,1
-Japan,JPN,Classification of national industry,SPI.D5.2.3.CNIN,1,1,1
-Japan,JPN,Classification of status of employment,SPI.D5.2.6.EMPL,1,1,1
-Japan,JPN,Compilation of government finance statistics,SPI.D5.2.8.FINA,1,1,1
-Japan,JPN,Compilation of monetary and financial statistics,SPI.D5.2.9.MONY,1,1,1
-Japan,JPN,Dimension 3.4: Institutional Statistics,SPI.DIM3.4.INDEX,0.806,0.789,0.862
-Japan,JPN,Dimension 3.3: Environmental Statistics,SPI.DIM3.3.INDEX,1,0.909,0.875
-Japan,JPN,Dimension 3.2: Economic Statistics,SPI.DIM3.2.INDEX,0.873666667,0.861166667,0.934666667
-Japan,JPN,Dimension 3.1: Social Statistics,SPI.DIM3.1.INDEX,0.787833333,0.762,0.762833333
-Japan,JPN,Dimension 2.4: Data services,SPI.DIM2.4.INDEX,1,1,1
-Japan,JPN,Dimension 5.5: Finance,SPI.DIM5.5.INDEX,1,1,1
-Japan,JPN,Labor Force Survey (Availability score over 10 years),SPI.D4.1.6.LABR,1,1,1
-Japan,JPN,Pillar 5 - Data Infrastructure - Score,SPI.INDEX.PIL5,95,95,95
-Japan,JPN,Pillar 2 - Data Services - Score,SPI.INDEX.PIL2,89.83333333,90.3,90.3
-Japan,JPN,Pillar 3 - Data Products - Score,SPI.INDEX.PIL3,84.88125,82.09375,85.36875
-Japan,JPN,Pillar 4 - Data Sources - Score,SPI.INDEX.PIL4,83.825,84.05,84.05
-Japan,JPN,Pillar 1 - Data Use - Score,SPI.INDEX.PIL1,100,100,100
-Japan,JPN,Availability of Comparable Poverty headcount ratio at $2.15 a day (5 year moving average),SPI.D1.5.POV,1,1,1
-Japan,JPN,Agriculture survey (Availability score over 10 years),SPI.D4.1.5.AGSVY,1,1,1
-Japan,JPN,Business process,SPI.D5.2.10.GSBP,1,1,1
-Japan,JPN,Business/establishment survey (Availability score over 10 years),SPI.D4.1.8.BZSVY,1,1,1
-Japan,JPN,Dimension 1.5: Data use by international organizations,SPI.DIM1.5.INDEX,1,1,1
-Japan,JPN,Dimension 5.2: Standards and Methods,SPI.DIM5.2.INDEX,0.95,0.95,0.95
-Japan,JPN,Dimension 5.1: Legislation and governance,SPI.DIM5.1.INDEX,1,1,1
-Japan,JPN,Dimension 4.3: Geospatial Data,SPI.DIM4.3.INDEX,0.419,0.428,0.428
-Japan,JPN,Dimension 4.2: Administrative Data,SPI.DIM4.2.INDEX,1,1,1
-Japan,JPN,GOAL 11: Sustainable Cities and Communities (5 year moving average),SPI.D3.11.CITY,1,1,1
-Japan,JPN,GOAL 13: Climate Action (5 year moving average),SPI.D3.13.CLMT,1,1,1
-Japan,JPN,GOAL 15: Life on Land (5 year moving average),SPI.D3.15.LAND,1,0.818,0.75
-Japan,JPN,GOAL 3: Good Health and Well-being (5 year moving average),SPI.D3.3.HLTH,0.92,0.88,0.88
-Japan,JPN,GOAL 4: Quality Education (5 year moving average),SPI.D3.4.EDUC,0.6,0.6,0.833
-Japan,JPN,GOAL 5: Gender Equality (5 year moving average),SPI.D3.5.GEND,0.8,0.667,0.75
-Japan,JPN,GOAL 6: Clean Water and Sanitation (5 year moving average),SPI.D3.6.WTRS,0.75,0.75,0.714
-Japan,JPN,GOAL 7: Affordable and Clean Energy (5 year moving average),SPI.D3.7.ENRG,0.667,0.667,0.833
-Japan,JPN,"GOAL 9: Industry, Innovation and Infrastructure (5 year moving average)",SPI.D3.9.INDY,0.9,0.9,0.9
-Japan,JPN,GOAL 8: Decent Work and Economic Growth (5 year moving average),SPI.D3.8.WORK,1,1,1
-Japan,JPN,Health/Demographic survey (Availability score over 10 years),SPI.D4.1.7.HLTH,0.67,0.67,0.67
-China,CHN,Classification of household consumption,SPI.D5.2.5.HOUS,0,0,0
-China,CHN,Classification of national industry,SPI.D5.2.3.CNIN,1,1,1
-China,CHN,Classification of status of employment,SPI.D5.2.6.EMPL,0,0,1
-China,CHN,Compilation of government finance statistics,SPI.D5.2.8.FINA,0.5,0.5,0.5
-China,CHN,Compilation of monetary and financial statistics,SPI.D5.2.9.MONY,0,0,0
-China,CHN,Dimension 3.4: Institutional Statistics,SPI.DIM3.4.INDEX,0.669,0.6945,0.752
-China,CHN,Dimension 3.3: Environmental Statistics,SPI.DIM3.3.INDEX,0.7835,0.7425,0.6665
-China,CHN,Dimension 3.2: Economic Statistics,SPI.DIM3.2.INDEX,0.843,0.806,0.893
-China,CHN,Dimension 3.1: Social Statistics,SPI.DIM3.1.INDEX,0.74,0.684666667,0.734
-China,CHN,Dimension 2.4: Data services,SPI.DIM2.4.INDEX,0,0,0
-China,CHN,Dimension 5.5: Finance,SPI.DIM5.5.INDEX,1,1,1
-China,CHN,Labor Force Survey (Availability score over 10 years),SPI.D4.1.6.LABR,0.33,0.33,0.33
-China,CHN,Pillar 5 - Data Infrastructure - Score,SPI.INDEX.PIL5,50,50,60
-China,CHN,Pillar 2 - Data Services - Score,SPI.INDEX.PIL2,42.4,43.8,43.8
-China,CHN,Pillar 3 - Data Products - Score,SPI.INDEX.PIL3,77.51875,73.8625,78.74375
-China,CHN,Pillar 4 - Data Sources - Score,SPI.INDEX.PIL4,41.575,41.575,41.575
-China,CHN,Pillar 1 - Data Use - Score,SPI.INDEX.PIL1,83.4,73.4,73.4
-China,CHN,Availability of Comparable Poverty headcount ratio at $2.15 a day (5 year moving average),SPI.D1.5.POV,1,1,1
-China,CHN,Agriculture survey (Availability score over 10 years),SPI.D4.1.5.AGSVY,0.33,0.33,0.33
-China,CHN,Business process,SPI.D5.2.10.GSBP,1,1,1
-China,CHN,Business/establishment survey (Availability score over 10 years),SPI.D4.1.8.BZSVY,0,0,0
-China,CHN,Dimension 1.5: Data use by international organizations,SPI.DIM1.5.INDEX,0.834,0.734,0.734
-China,CHN,Dimension 5.2: Standards and Methods,SPI.DIM5.2.INDEX,0.5,0.5,0.6
-China,CHN,Dimension 5.1: Legislation and governance,SPI.DIM5.1.INDEX,1,1,1
-China,CHN,Dimension 4.3: Geospatial Data,SPI.DIM4.3.INDEX,0.331,0.331,0.331
-China,CHN,Dimension 4.2: Administrative Data,SPI.DIM4.2.INDEX,0,0,0
-China,CHN,GOAL 11: Sustainable Cities and Communities (5 year moving average),SPI.D3.11.CITY,0.8,0.625,1
-China,CHN,GOAL 13: Climate Action (5 year moving average),SPI.D3.13.CLMT,0.667,0.667,0.5
-China,CHN,GOAL 15: Life on Land (5 year moving average),SPI.D3.15.LAND,0.9,0.818,0.833
-China,CHN,GOAL 3: Good Health and Well-being (5 year moving average),SPI.D3.3.HLTH,0.64,0.6,0.68
-China,CHN,GOAL 4: Quality Education (5 year moving average),SPI.D3.4.EDUC,0.6,0.6,0.667
-China,CHN,GOAL 5: Gender Equality (5 year moving average),SPI.D3.5.GEND,0.4,0.333,0.5
-China,CHN,GOAL 6: Clean Water and Sanitation (5 year moving average),SPI.D3.6.WTRS,1,1,0.857
-China,CHN,GOAL 7: Affordable and Clean Energy (5 year moving average),SPI.D3.7.ENRG,0.833,0.833,0.833
-China,CHN,"GOAL 9: Industry, Innovation and Infrastructure (5 year moving average)",SPI.D3.9.INDY,0.8,0.8,0.9
-China,CHN,GOAL 8: Decent Work and Economic Growth (5 year moving average),SPI.D3.8.WORK,0.75,0.778,0.75
-China,CHN,Health/Demographic survey (Availability score over 10 years),SPI.D4.1.7.HLTH,0,0,0
-India,IND,Classification of household consumption,SPI.D5.2.5.HOUS,1,1,0
-India,IND,Classification of national industry,SPI.D5.2.3.CNIN,0.5,0.5,0.5
-India,IND,Classification of status of employment,SPI.D5.2.6.EMPL,1,1,1
-India,IND,Compilation of government finance statistics,SPI.D5.2.8.FINA,1,1,1
-India,IND,Compilation of monetary and financial statistics,SPI.D5.2.9.MONY,0,0,0
-India,IND,Dimension 3.4: Institutional Statistics,SPI.DIM3.4.INDEX,0.769,0.7945,0.9
-India,IND,Dimension 3.3: Environmental Statistics,SPI.DIM3.3.INDEX,0.778,0.7425,0.6665
-India,IND,Dimension 3.2: Economic Statistics,SPI.DIM3.2.INDEX,0.932333333,0.8805,0.949
-India,IND,Dimension 3.1: Social Statistics,SPI.DIM3.1.INDEX,0.852833333,0.7175,0.776166667
-India,IND,Dimension 2.4: Data services,SPI.DIM2.4.INDEX,1,1,1
-India,IND,Dimension 5.5: Finance,SPI.DIM5.5.INDEX,0,0,0
-India,IND,Labor Force Survey (Availability score over 10 years),SPI.D4.1.6.LABR,1,1,1
-India,IND,Pillar 5 - Data Infrastructure - Score,SPI.INDEX.PIL5,55,55,45
-India,IND,Pillar 2 - Data Services - Score,SPI.INDEX.PIL2,88.33333333,87.73333333,87.73333333
-India,IND,Pillar 3 - Data Products - Score,SPI.INDEX.PIL3,86.28125,79.1375,84.275
-India,IND,Pillar 4 - Data Sources - Score,SPI.INDEX.PIL4,75.825,71.13333333,71.13333333
-India,IND,Pillar 1 - Data Use - Score,SPI.INDEX.PIL1,80,80,80
-India,IND,Availability of Comparable Poverty headcount ratio at $2.15 a day (5 year moving average),SPI.D1.5.POV,0,0,0
-India,IND,Agriculture survey (Availability score over 10 years),SPI.D4.1.5.AGSVY,0.33,0.33,0.33
-India,IND,Business process,SPI.D5.2.10.GSBP,0,0,1
-India,IND,Business/establishment survey (Availability score over 10 years),SPI.D4.1.8.BZSVY,1,1,1
-India,IND,Dimension 1.5: Data use by international organizations,SPI.DIM1.5.INDEX,0.8,0.8,0.8
-India,IND,Dimension 5.2: Standards and Methods,SPI.DIM5.2.INDEX,0.55,0.55,0.45
-India,IND,Dimension 5.1: Legislation and governance,SPI.DIM5.1.INDEX,1,1,1
-India,IND,Dimension 4.3: Geospatial Data,SPI.DIM4.3.INDEX,0.367,0.346,0.346
-India,IND,Dimension 4.2: Administrative Data,SPI.DIM4.2.INDEX,1,1,1
-India,IND,GOAL 11: Sustainable Cities and Communities (5 year moving average),SPI.D3.11.CITY,1,0.75,1
-India,IND,GOAL 13: Climate Action (5 year moving average),SPI.D3.13.CLMT,0.667,0.667,0.5
-India,IND,GOAL 15: Life on Land (5 year moving average),SPI.D3.15.LAND,0.889,0.818,0.833
-India,IND,GOAL 3: Good Health and Well-being (5 year moving average),SPI.D3.3.HLTH,0.76,0.68,0.76
-India,IND,GOAL 4: Quality Education (5 year moving average),SPI.D3.4.EDUC,1,0.8,0.833
-India,IND,GOAL 5: Gender Equality (5 year moving average),SPI.D3.5.GEND,0.6,0.5,0.75
-India,IND,GOAL 6: Clean Water and Sanitation (5 year moving average),SPI.D3.6.WTRS,1,0.875,0.714
-India,IND,GOAL 7: Affordable and Clean Energy (5 year moving average),SPI.D3.7.ENRG,0.944,0.944,0.944
-India,IND,"GOAL 9: Industry, Innovation and Infrastructure (5 year moving average)",SPI.D3.9.INDY,0.9,0.9,1
-India,IND,GOAL 8: Decent Work and Economic Growth (5 year moving average),SPI.D3.8.WORK,0.875,0.889,0.875
-India,IND,Health/Demographic survey (Availability score over 10 years),SPI.D4.1.7.HLTH,1,1,1
-Germany,DEU,Classification of household consumption,SPI.D5.2.5.HOUS,1,1,1
-Germany,DEU,Classification of national industry,SPI.D5.2.3.CNIN,1,1,1
-Germany,DEU,Classification of status of employment,SPI.D5.2.6.EMPL,1,1,1
-Germany,DEU,Compilation of government finance statistics,SPI.D5.2.8.FINA,1,1,1
-Germany,DEU,Compilation of monetary and financial statistics,SPI.D5.2.9.MONY,1,1,1
-Germany,DEU,Dimension 3.4: Institutional Statistics,SPI.DIM3.4.INDEX,0.806,0.789,0.9335
-Germany,DEU,Dimension 3.3: Environmental Statistics,SPI.DIM3.3.INDEX,1,0.9545,0.6665
-Germany,DEU,Dimension 3.2: Economic Statistics,SPI.DIM3.2.INDEX,0.861166667,0.836166667,0.9305
-Germany,DEU,Dimension 3.1: Social Statistics,SPI.DIM3.1.INDEX,0.8025,0.779166667,0.8245
-Germany,DEU,Dimension 2.4: Data services,SPI.DIM2.4.INDEX,1,1,1
-Germany,DEU,Dimension 5.5: Finance,SPI.DIM5.5.INDEX,1,1,1
-Germany,DEU,Labor Force Survey (Availability score over 10 years),SPI.D4.1.6.LABR,1,1,1
-Germany,DEU,Pillar 5 - Data Infrastructure - Score,SPI.INDEX.PIL5,95,95,95
-Germany,DEU,Pillar 2 - Data Services - Score,SPI.INDEX.PIL2,95.33333333,94.86666667,94.86666667
-Germany,DEU,Pillar 3 - Data Products - Score,SPI.INDEX.PIL3,84.9625,82.36875,85.8125
-Germany,DEU,Pillar 4 - Data Sources - Score,SPI.INDEX.PIL4,85.4,86.675,86.675
-Germany,DEU,Pillar 1 - Data Use - Score,SPI.INDEX.PIL1,100,100,100
-Germany,DEU,Availability of Comparable Poverty headcount ratio at $2.15 a day (5 year moving average),SPI.D1.5.POV,1,1,1
-Germany,DEU,Agriculture survey (Availability score over 10 years),SPI.D4.1.5.AGSVY,1,1,1
-Germany,DEU,Business process,SPI.D5.2.10.GSBP,1,1,1
-Germany,DEU,Business/establishment survey (Availability score over 10 years),SPI.D4.1.8.BZSVY,1,1,1
-Germany,DEU,Dimension 1.5: Data use by international organizations,SPI.DIM1.5.INDEX,1,1,1
-Germany,DEU,Dimension 5.2: Standards and Methods,SPI.DIM5.2.INDEX,0.95,0.95,0.95
-Germany,DEU,Dimension 5.1: Legislation and governance,SPI.DIM5.1.INDEX,1,1,1
-Germany,DEU,Dimension 4.3: Geospatial Data,SPI.DIM4.3.INDEX,0.416,0.467,0.467
-Germany,DEU,Dimension 4.2: Administrative Data,SPI.DIM4.2.INDEX,1,1,1
-Germany,DEU,GOAL 11: Sustainable Cities and Communities (5 year moving average),SPI.D3.11.CITY,0.8,0.75,0.75
-Germany,DEU,GOAL 13: Climate Action (5 year moving average),SPI.D3.13.CLMT,1,1,0.5
-Germany,DEU,GOAL 15: Life on Land (5 year moving average),SPI.D3.15.LAND,1,0.909,0.833
-Germany,DEU,GOAL 3: Good Health and Well-being (5 year moving average),SPI.D3.3.HLTH,0.84,0.8,0.84
-Germany,DEU,GOAL 4: Quality Education (5 year moving average),SPI.D3.4.EDUC,0.8,0.8,1
-Germany,DEU,GOAL 5: Gender Equality (5 year moving average),SPI.D3.5.GEND,0.6,0.5,0.75
-Germany,DEU,GOAL 6: Clean Water and Sanitation (5 year moving average),SPI.D3.6.WTRS,0.875,0.875,0.857
-Germany,DEU,GOAL 7: Affordable and Clean Energy (5 year moving average),SPI.D3.7.ENRG,0.667,0.667,0.833
-Germany,DEU,"GOAL 9: Industry, Innovation and Infrastructure (5 year moving average)",SPI.D3.9.INDY,0.9,0.9,1
-Germany,DEU,GOAL 8: Decent Work and Economic Growth (5 year moving average),SPI.D3.8.WORK,1,1,1
-Germany,DEU,Health/Demographic survey (Availability score over 10 years),SPI.D4.1.7.HLTH,1,1,1
+Country Name,Country Code,Series Name,Series Code,series_type,2021 [YR2021],2022 [YR2022],2023 [YR2023]
+China,CHN,Broad money (% of GDP),FM.LBL.BMNY.GD.ZS,Broad money,203.8378734,217.1287767,227.9445732
+China,CHN,Broad money (current LCU),FM.LBL.BMNY.CN,Broad money,2.34E+14,2.62E+14,2.87E+14
+China,CHN,Broad money growth (annual %),FM.LBL.BMNY.ZG,Broad money,9.075745734,11.66330022,9.848834535
+China,CHN,Broad money to total reserves ratio,FM.LBL.BMNY.IR.ZS,Broad money,10.59672482,11.74127048,11.75872445
+China,CHN,Claims on central government (annual growth as % of broad money),FM.AST.CGOV.ZG.M3,Claims,2.094292056,2.761421195,2.792120091
+China,CHN,Claims on other sectors of the domestic economy (annual growth as % of broad money),FM.AST.DOMO.ZG.M3,Claims,..,..,..
+China,CHN,Claims on private sector (annual growth as % of broad money),FM.AST.PRVT.ZG.M3,Claims,8.554996445,8.796261892,8.056557638
+China,CHN,"Official exchange rate (LCU per US$, period average)",PA.NUS.FCRF,exchange rate,6.44897518,6.737158112,7.083998423
+China,CHN,Real effective exchange rate index (2010 = 100),PX.REX.REER,exchange rate,127.328418,125.966431,116.0394435
+Germany,DEU,Broad money (% of GDP),FM.LBL.BMNY.GD.ZS,Broad money,..,..,..
+Germany,DEU,Broad money (current LCU),FM.LBL.BMNY.CN,Broad money,..,..,..
+Germany,DEU,Broad money growth (annual %),FM.LBL.BMNY.ZG,Broad money,..,..,..
+Germany,DEU,Broad money to total reserves ratio,FM.LBL.BMNY.IR.ZS,Broad money,..,..,..
+Germany,DEU,Claims on central government (annual growth as % of broad money),FM.AST.CGOV.ZG.M3,Claims,..,..,..
+Germany,DEU,Claims on other sectors of the domestic economy (annual growth as % of broad money),FM.AST.DOMO.ZG.M3,Claims,..,..,..
+Germany,DEU,Claims on private sector (annual growth as % of broad money),FM.AST.PRVT.ZG.M3,Claims,..,..,..
+Germany,DEU,"Official exchange rate (LCU per US$, period average)",PA.NUS.FCRF,exchange rate,0.845494139,0.949623753,0.924839558
+Germany,DEU,Real effective exchange rate index (2010 = 100),PX.REX.REER,exchange rate,97.13995968,93.7213134,97.1443097
+Japan,JPN,Broad money (% of GDP),FM.LBL.BMNY.GD.ZS,Broad money,281.9455368,284.665258,275.5569422
+Japan,JPN,Broad money (current LCU),FM.LBL.BMNY.CN,Broad money,1.56E+15,1.59E+15,1.63E+15
+Japan,JPN,Broad money growth (annual %),FM.LBL.BMNY.ZG,Broad money,2.945157822,2.268993929,2.158940293
+Japan,JPN,Broad money to total reserves ratio,FM.LBL.BMNY.IR.ZS,Broad money,10.09774055,9.870305126,8.949061357
+Japan,JPN,Claims on central government (annual growth as % of broad money),FM.AST.CGOV.ZG.M3,Claims,0.095290076,-0.063487259,2.210412074
+Japan,JPN,Claims on other sectors of the domestic economy (annual growth as % of broad money),FM.AST.DOMO.ZG.M3,Claims,2.750976457,-0.073063943,2.889304853
+Japan,JPN,Claims on private sector (annual growth as % of broad money),FM.AST.PRVT.ZG.M3,Claims,0.988086923,1.572578947,1.86513502
+Japan,JPN,"Official exchange rate (LCU per US$, period average)",PA.NUS.FCRF,exchange rate,109.7543238,131.4981404,140.4911001
+Japan,JPN,Real effective exchange rate index (2010 = 100),PX.REX.REER,exchange rate,70.69116244,61.01097912,58.11491152
+India,IND,Broad money (% of GDP),FM.LBL.BMNY.GD.ZS,Broad money,82.10203483,..,..
+India,IND,Broad money (current LCU),FM.LBL.BMNY.CN,Broad money,1.94E+14,..,..
+India,IND,Broad money growth (annual %),FM.LBL.BMNY.ZG,Broad money,11.29710567,..,..
+India,IND,Broad money to total reserves ratio,FM.LBL.BMNY.IR.ZS,Broad money,4.072757428,..,..
+India,IND,Claims on central government (annual growth as % of broad money),FM.AST.CGOV.ZG.M3,Claims,2.594670506,..,..
+India,IND,Claims on other sectors of the domestic economy (annual growth as % of broad money),FM.AST.DOMO.ZG.M3,Claims,..,..,..
+India,IND,Claims on private sector (annual growth as % of broad money),FM.AST.PRVT.ZG.M3,Claims,5.806218088,..,..
+India,IND,"Official exchange rate (LCU per US$, period average)",PA.NUS.FCRF,exchange rate,73.91801282,78.60449058,82.59927645
+India,IND,Real effective exchange rate index (2010 = 100),PX.REX.REER,exchange rate,..,..,..
+United States,USA,Broad money (% of GDP),FM.LBL.BMNY.GD.ZS,Broad money,114.9809344,103.8161168,99.12791711
+United States,USA,Broad money (current LCU),FM.LBL.BMNY.CN,Broad money,2.72E+13,2.70E+13,2.75E+13
+United States,USA,Broad money growth (annual %),FM.LBL.BMNY.ZG,Broad money,16.85668337,-0.84280258,1.776394992
+United States,USA,Broad money to total reserves ratio,FM.LBL.BMNY.IR.ZS,Broad money,38.0210092,38.20783613,35.52887385
+United States,USA,Claims on central government (annual growth as % of broad money),FM.AST.CGOV.ZG.M3,Claims,12.67334133,-3.916926706,-0.393185277
+United States,USA,Claims on other sectors of the domestic economy (annual growth as % of broad money),FM.AST.DOMO.ZG.M3,Claims,6.037187781,3.197856047,2.014442875
+United States,USA,Claims on private sector (annual growth as % of broad money),FM.AST.PRVT.ZG.M3,Claims,1.761209024,5.169487554,1.206869309
+United States,USA,"Official exchange rate (LCU per US$, period average)",PA.NUS.FCRF,exchange rate,1,1,1
+United States,USA,Real effective exchange rate index (2010 = 100),PX.REX.REER,exchange rate,115.6271055,126.625654,127.5404195
+United States,USA,Classification of household consumption,SPI.D5.2.5.HOUS,Classification indicators,1,1,1
+United States,USA,Classification of national industry,SPI.D5.2.3.CNIN,Classification indicators,1,1,1
+United States,USA,Classification of status of employment,SPI.D5.2.6.EMPL,Classification indicators,1,1,1
+United States,USA,Compilation of government finance statistics,SPI.D5.2.8.FINA,Compilation of government finance statistics,1,1,1
+United States,USA,Compilation of monetary and financial statistics,SPI.D5.2.9.MONY,Compilation of monetary and financial statistics,1,1,1
+United States,USA,Dimension 3.4: Institutional Statistics,SPI.DIM3.4.INDEX,Dimension indicators,0.775,0.661,0.8285
+United States,USA,Dimension 3.3: Environmental Statistics,SPI.DIM3.3.INDEX,Dimension indicators,0.95,0.9545,0.9165
+United States,USA,Dimension 3.2: Economic Statistics,SPI.DIM3.2.INDEX,Dimension indicators,0.861166667,0.8385,0.9555
+United States,USA,Dimension 3.1: Social Statistics,SPI.DIM3.1.INDEX,Dimension indicators,0.855833333,0.772833333,0.82
+United States,USA,Dimension 2.4: Data services,SPI.DIM2.4.INDEX,Dimension indicators,1,1,1
+United States,USA,Dimension 5.5: Finance,SPI.DIM5.5.INDEX,Dimension indicators,1,1,1
+United States,USA,Labor Force Survey (Availability score over 10 years),SPI.D4.1.6.LABR,Survey,1,1,1
+United States,USA,Pillar 5 - Data Infrastructure - Score,SPI.INDEX.PIL5,Pillar indicators,100,100,100
+United States,USA,Pillar 2 - Data Services - Score,SPI.INDEX.PIL2,Pillar indicators,92.7,93.13333333,93.13333333
+United States,USA,Pillar 3 - Data Products - Score,SPI.INDEX.PIL3,Pillar indicators,85.95,80.61875,88.39375
+United States,USA,Pillar 4 - Data Sources - Score,SPI.INDEX.PIL4,Pillar indicators,85.1,85.625,85.625
+United States,USA,Pillar 1 - Data Use - Score,SPI.INDEX.PIL1,Pillar indicators,100,100,100
+United States,USA,Availability of Comparable Poverty headcount ratio at $2.15 a day (5 year moving average),SPI.D1.5.POV,Availability of Comparable Poverty headcount ratio at $2.15 a day (5 year moving average),1,1,1
+United States,USA,Agriculture survey (Availability score over 10 years),SPI.D4.1.5.AGSVY,Survey,1,1,1
+United States,USA,Business process,SPI.D5.2.10.GSBP,Business process,1,1,1
+United States,USA,Business/establishment survey (Availability score over 10 years),SPI.D4.1.8.BZSVY,Survey,1,1,1
+United States,USA,Dimension 1.5: Data use by international organizations,SPI.DIM1.5.INDEX,Dimension indicators,1,1,1
+United States,USA,Dimension 5.2: Standards and Methods,SPI.DIM5.2.INDEX,Dimension indicators,1,1,1
+United States,USA,Dimension 5.1: Legislation and governance,SPI.DIM5.1.INDEX,Dimension indicators,1,1,1
+United States,USA,Dimension 4.3: Geospatial Data,SPI.DIM4.3.INDEX,Dimension indicators,0.404,0.425,0.425
+United States,USA,Dimension 4.2: Administrative Data,SPI.DIM4.2.INDEX,Dimension indicators,1,1,1
+United States,USA,GOAL 11: Sustainable Cities and Communities (5 year moving average),SPI.D3.11.CITY,No Poverty indicators,0.8,0.875,1
+United States,USA,GOAL 13: Climate Action (5 year moving average),SPI.D3.13.CLMT,No Poverty indicators,1,1,1
+United States,USA,GOAL 15: Life on Land (5 year moving average),SPI.D3.15.LAND,No Poverty indicators,0.9,0.909,0.833
+United States,USA,GOAL 3: Good Health and Well-being (5 year moving average),SPI.D3.3.HLTH,No Poverty indicators,0.96,0.92,0.88
+United States,USA,GOAL 4: Quality Education (5 year moving average),SPI.D3.4.EDUC,No Poverty indicators,0.6,0.4,0.833
+United States,USA,GOAL 5: Gender Equality (5 year moving average),SPI.D3.5.GEND,No Poverty indicators,0.8,0.667,0.75
+United States,USA,GOAL 6: Clean Water and Sanitation (5 year moving average),SPI.D3.6.WTRS,No Poverty indicators,0.875,0.875,0.857
+United States,USA,GOAL 7: Affordable and Clean Energy (5 year moving average),SPI.D3.7.ENRG,No Poverty indicators,0.667,0.667,0.833
+United States,USA,"GOAL 9: Industry, Innovation and Infrastructure (5 year moving average)",SPI.D3.9.INDY,No Poverty indicators,0.9,0.9,0.9
+United States,USA,GOAL 8: Decent Work and Economic Growth (5 year moving average),SPI.D3.8.WORK,No Poverty indicators,1,0.889,1
+United States,USA,Health/Demographic survey (Availability score over 10 years),SPI.D4.1.7.HLTH,Survey,1,1,1
+Japan,JPN,Classification of household consumption,SPI.D5.2.5.HOUS,Classification indicators,1,1,1
+Japan,JPN,Classification of national industry,SPI.D5.2.3.CNIN,Classification indicators,1,1,1
+Japan,JPN,Classification of status of employment,SPI.D5.2.6.EMPL,Classification indicators,1,1,1
+Japan,JPN,Compilation of government finance statistics,SPI.D5.2.8.FINA,Compilation of government finance statistics,1,1,1
+Japan,JPN,Compilation of monetary and financial statistics,SPI.D5.2.9.MONY,Compilation of monetary and financial statistics,1,1,1
+Japan,JPN,Dimension 3.4: Institutional Statistics,SPI.DIM3.4.INDEX,Dimension indicators,0.806,0.789,0.862
+Japan,JPN,Dimension 3.3: Environmental Statistics,SPI.DIM3.3.INDEX,Dimension indicators,1,0.909,0.875
+Japan,JPN,Dimension 3.2: Economic Statistics,SPI.DIM3.2.INDEX,Dimension indicators,0.873666667,0.861166667,0.934666667
+Japan,JPN,Dimension 3.1: Social Statistics,SPI.DIM3.1.INDEX,Dimension indicators,0.787833333,0.762,0.762833333
+Japan,JPN,Dimension 2.4: Data services,SPI.DIM2.4.INDEX,Dimension indicators,1,1,1
+Japan,JPN,Dimension 5.5: Finance,SPI.DIM5.5.INDEX,Dimension indicators,1,1,1
+Japan,JPN,Labor Force Survey (Availability score over 10 years),SPI.D4.1.6.LABR,Survey,1,1,1
+Japan,JPN,Pillar 5 - Data Infrastructure - Score,SPI.INDEX.PIL5,Pillar indicators,95,95,95
+Japan,JPN,Pillar 2 - Data Services - Score,SPI.INDEX.PIL2,Pillar indicators,89.83333333,90.3,90.3
+Japan,JPN,Pillar 3 - Data Products - Score,SPI.INDEX.PIL3,Pillar indicators,84.88125,82.09375,85.36875
+Japan,JPN,Pillar 4 - Data Sources - Score,SPI.INDEX.PIL4,Pillar indicators,83.825,84.05,84.05
+Japan,JPN,Pillar 1 - Data Use - Score,SPI.INDEX.PIL1,Pillar indicators,100,100,100
+Japan,JPN,Availability of Comparable Poverty headcount ratio at $2.15 a day (5 year moving average),SPI.D1.5.POV,Availability of Comparable Poverty headcount ratio at $2.15 a day (5 year moving average),1,1,1
+Japan,JPN,Agriculture survey (Availability score over 10 years),SPI.D4.1.5.AGSVY,Survey,1,1,1
+Japan,JPN,Business process,SPI.D5.2.10.GSBP,Business process,1,1,1
+Japan,JPN,Business/establishment survey (Availability score over 10 years),SPI.D4.1.8.BZSVY,Survey,1,1,1
+Japan,JPN,Dimension 1.5: Data use by international organizations,SPI.DIM1.5.INDEX,Dimension indicators,1,1,1
+Japan,JPN,Dimension 5.2: Standards and Methods,SPI.DIM5.2.INDEX,Dimension indicators,0.95,0.95,0.95
+Japan,JPN,Dimension 5.1: Legislation and governance,SPI.DIM5.1.INDEX,Dimension indicators,1,1,1
+Japan,JPN,Dimension 4.3: Geospatial Data,SPI.DIM4.3.INDEX,Dimension indicators,0.419,0.428,0.428
+Japan,JPN,Dimension 4.2: Administrative Data,SPI.DIM4.2.INDEX,Dimension indicators,1,1,1
+Japan,JPN,GOAL 11: Sustainable Cities and Communities (5 year moving average),SPI.D3.11.CITY,No Poverty indicators,1,1,1
+Japan,JPN,GOAL 13: Climate Action (5 year moving average),SPI.D3.13.CLMT,No Poverty indicators,1,1,1
+Japan,JPN,GOAL 15: Life on Land (5 year moving average),SPI.D3.15.LAND,No Poverty indicators,1,0.818,0.75
+Japan,JPN,GOAL 3: Good Health and Well-being (5 year moving average),SPI.D3.3.HLTH,No Poverty indicators,0.92,0.88,0.88
+Japan,JPN,GOAL 4: Quality Education (5 year moving average),SPI.D3.4.EDUC,No Poverty indicators,0.6,0.6,0.833
+Japan,JPN,GOAL 5: Gender Equality (5 year moving average),SPI.D3.5.GEND,No Poverty indicators,0.8,0.667,0.75
+Japan,JPN,GOAL 6: Clean Water and Sanitation (5 year moving average),SPI.D3.6.WTRS,No Poverty indicators,0.75,0.75,0.714
+Japan,JPN,GOAL 7: Affordable and Clean Energy (5 year moving average),SPI.D3.7.ENRG,No Poverty indicators,0.667,0.667,0.833
+Japan,JPN,"GOAL 9: Industry, Innovation and Infrastructure (5 year moving average)",SPI.D3.9.INDY,No Poverty indicators,0.9,0.9,0.9
+Japan,JPN,GOAL 8: Decent Work and Economic Growth (5 year moving average),SPI.D3.8.WORK,No Poverty indicators,1,1,1
+Japan,JPN,Health/Demographic survey (Availability score over 10 years),SPI.D4.1.7.HLTH,Survey,0.67,0.67,0.67
+China,CHN,Classification of household consumption,SPI.D5.2.5.HOUS,Classification indicators,0,0,0
+China,CHN,Classification of national industry,SPI.D5.2.3.CNIN,Classification indicators,1,1,1
+China,CHN,Classification of status of employment,SPI.D5.2.6.EMPL,Classification indicators,0,0,1
+China,CHN,Compilation of government finance statistics,SPI.D5.2.8.FINA,Compilation of government finance statistics,0.5,0.5,0.5
+China,CHN,Compilation of monetary and financial statistics,SPI.D5.2.9.MONY,Compilation of monetary and financial statistics,0,0,0
+China,CHN,Dimension 3.4: Institutional Statistics,SPI.DIM3.4.INDEX,Dimension indicators,0.669,0.6945,0.752
+China,CHN,Dimension 3.3: Environmental Statistics,SPI.DIM3.3.INDEX,Dimension indicators,0.7835,0.7425,0.6665
+China,CHN,Dimension 3.2: Economic Statistics,SPI.DIM3.2.INDEX,Dimension indicators,0.843,0.806,0.893
+China,CHN,Dimension 3.1: Social Statistics,SPI.DIM3.1.INDEX,Dimension indicators,0.74,0.684666667,0.734
+China,CHN,Dimension 2.4: Data services,SPI.DIM2.4.INDEX,Dimension indicators,0,0,0
+China,CHN,Dimension 5.5: Finance,SPI.DIM5.5.INDEX,Dimension indicators,1,1,1
+China,CHN,Labor Force Survey (Availability score over 10 years),SPI.D4.1.6.LABR,Survey,0.33,0.33,0.33
+China,CHN,Pillar 5 - Data Infrastructure - Score,SPI.INDEX.PIL5,Pillar indicators,50,50,60
+China,CHN,Pillar 2 - Data Services - Score,SPI.INDEX.PIL2,Pillar indicators,42.4,43.8,43.8
+China,CHN,Pillar 3 - Data Products - Score,SPI.INDEX.PIL3,Pillar indicators,77.51875,73.8625,78.74375
+China,CHN,Pillar 4 - Data Sources - Score,SPI.INDEX.PIL4,Pillar indicators,41.575,41.575,41.575
+China,CHN,Pillar 1 - Data Use - Score,SPI.INDEX.PIL1,Pillar indicators,83.4,73.4,73.4
+China,CHN,Availability of Comparable Poverty headcount ratio at $2.15 a day (5 year moving average),SPI.D1.5.POV,Availability of Comparable Poverty headcount ratio at $2.15 a day (5 year moving average),1,1,1
+China,CHN,Agriculture survey (Availability score over 10 years),SPI.D4.1.5.AGSVY,Survey,0.33,0.33,0.33
+China,CHN,Business process,SPI.D5.2.10.GSBP,Business process,1,1,1
+China,CHN,Business/establishment survey (Availability score over 10 years),SPI.D4.1.8.BZSVY,Survey,0,0,0
+China,CHN,Dimension 1.5: Data use by international organizations,SPI.DIM1.5.INDEX,Dimension indicators,0.834,0.734,0.734
+China,CHN,Dimension 5.2: Standards and Methods,SPI.DIM5.2.INDEX,Dimension indicators,0.5,0.5,0.6
+China,CHN,Dimension 5.1: Legislation and governance,SPI.DIM5.1.INDEX,Dimension indicators,1,1,1
+China,CHN,Dimension 4.3: Geospatial Data,SPI.DIM4.3.INDEX,Dimension indicators,0.331,0.331,0.331
+China,CHN,Dimension 4.2: Administrative Data,SPI.DIM4.2.INDEX,Dimension indicators,0,0,0
+China,CHN,GOAL 11: Sustainable Cities and Communities (5 year moving average),SPI.D3.11.CITY,No Poverty indicators,0.8,0.625,1
+China,CHN,GOAL 13: Climate Action (5 year moving average),SPI.D3.13.CLMT,No Poverty indicators,0.667,0.667,0.5
+China,CHN,GOAL 15: Life on Land (5 year moving average),SPI.D3.15.LAND,No Poverty indicators,0.9,0.818,0.833
+China,CHN,GOAL 3: Good Health and Well-being (5 year moving average),SPI.D3.3.HLTH,No Poverty indicators,0.64,0.6,0.68
+China,CHN,GOAL 4: Quality Education (5 year moving average),SPI.D3.4.EDUC,No Poverty indicators,0.6,0.6,0.667
+China,CHN,GOAL 5: Gender Equality (5 year moving average),SPI.D3.5.GEND,No Poverty indicators,0.4,0.333,0.5
+China,CHN,GOAL 6: Clean Water and Sanitation (5 year moving average),SPI.D3.6.WTRS,No Poverty indicators,1,1,0.857
+China,CHN,GOAL 7: Affordable and Clean Energy (5 year moving average),SPI.D3.7.ENRG,No Poverty indicators,0.833,0.833,0.833
+China,CHN,"GOAL 9: Industry, Innovation and Infrastructure (5 year moving average)",SPI.D3.9.INDY,No Poverty indicators,0.8,0.8,0.9
+China,CHN,GOAL 8: Decent Work and Economic Growth (5 year moving average),SPI.D3.8.WORK,No Poverty indicators,0.75,0.778,0.75
+China,CHN,Health/Demographic survey (Availability score over 10 years),SPI.D4.1.7.HLTH,Survey,0,0,0
+India,IND,Classification of household consumption,SPI.D5.2.5.HOUS,Classification indicators,1,1,0
+India,IND,Classification of national industry,SPI.D5.2.3.CNIN,Classification indicators,0.5,0.5,0.5
+India,IND,Classification of status of employment,SPI.D5.2.6.EMPL,Classification indicators,1,1,1
+India,IND,Compilation of government finance statistics,SPI.D5.2.8.FINA,Compilation of government finance statistics,1,1,1
+India,IND,Compilation of monetary and financial statistics,SPI.D5.2.9.MONY,Compilation of monetary and financial statistics,0,0,0
+India,IND,Dimension 3.4: Institutional Statistics,SPI.DIM3.4.INDEX,Dimension indicators,0.769,0.7945,0.9
+India,IND,Dimension 3.3: Environmental Statistics,SPI.DIM3.3.INDEX,Dimension indicators,0.778,0.7425,0.6665
+India,IND,Dimension 3.2: Economic Statistics,SPI.DIM3.2.INDEX,Dimension indicators,0.932333333,0.8805,0.949
+India,IND,Dimension 3.1: Social Statistics,SPI.DIM3.1.INDEX,Dimension indicators,0.852833333,0.7175,0.776166667
+India,IND,Dimension 2.4: Data services,SPI.DIM2.4.INDEX,Dimension indicators,1,1,1
+India,IND,Dimension 5.5: Finance,SPI.DIM5.5.INDEX,Dimension indicators,0,0,0
+India,IND,Labor Force Survey (Availability score over 10 years),SPI.D4.1.6.LABR,Survey,1,1,1
+India,IND,Pillar 5 - Data Infrastructure - Score,SPI.INDEX.PIL5,Pillar indicators,55,55,45
+India,IND,Pillar 2 - Data Services - Score,SPI.INDEX.PIL2,Pillar indicators,88.33333333,87.73333333,87.73333333
+India,IND,Pillar 3 - Data Products - Score,SPI.INDEX.PIL3,Pillar indicators,86.28125,79.1375,84.275
+India,IND,Pillar 4 - Data Sources - Score,SPI.INDEX.PIL4,Pillar indicators,75.825,71.13333333,71.13333333
+India,IND,Pillar 1 - Data Use - Score,SPI.INDEX.PIL1,Pillar indicators,80,80,80
+India,IND,Availability of Comparable Poverty headcount ratio at $2.15 a day (5 year moving average),SPI.D1.5.POV,Availability of Comparable Poverty headcount ratio at $2.15 a day (5 year moving average),0,0,0
+India,IND,Agriculture survey (Availability score over 10 years),SPI.D4.1.5.AGSVY,Survey,0.33,0.33,0.33
+India,IND,Business process,SPI.D5.2.10.GSBP,Business process,0,0,1
+India,IND,Business/establishment survey (Availability score over 10 years),SPI.D4.1.8.BZSVY,Survey,1,1,1
+India,IND,Dimension 1.5: Data use by international organizations,SPI.DIM1.5.INDEX,Dimension indicators,0.8,0.8,0.8
+India,IND,Dimension 5.2: Standards and Methods,SPI.DIM5.2.INDEX,Dimension indicators,0.55,0.55,0.45
+India,IND,Dimension 5.1: Legislation and governance,SPI.DIM5.1.INDEX,Dimension indicators,1,1,1
+India,IND,Dimension 4.3: Geospatial Data,SPI.DIM4.3.INDEX,Dimension indicators,0.367,0.346,0.346
+India,IND,Dimension 4.2: Administrative Data,SPI.DIM4.2.INDEX,Dimension indicators,1,1,1
+India,IND,GOAL 11: Sustainable Cities and Communities (5 year moving average),SPI.D3.11.CITY,No Poverty indicators,1,0.75,1
+India,IND,GOAL 13: Climate Action (5 year moving average),SPI.D3.13.CLMT,No Poverty indicators,0.667,0.667,0.5
+India,IND,GOAL 15: Life on Land (5 year moving average),SPI.D3.15.LAND,No Poverty indicators,0.889,0.818,0.833
+India,IND,GOAL 3: Good Health and Well-being (5 year moving average),SPI.D3.3.HLTH,No Poverty indicators,0.76,0.68,0.76
+India,IND,GOAL 4: Quality Education (5 year moving average),SPI.D3.4.EDUC,No Poverty indicators,1,0.8,0.833
+India,IND,GOAL 5: Gender Equality (5 year moving average),SPI.D3.5.GEND,No Poverty indicators,0.6,0.5,0.75
+India,IND,GOAL 6: Clean Water and Sanitation (5 year moving average),SPI.D3.6.WTRS,No Poverty indicators,1,0.875,0.714
+India,IND,GOAL 7: Affordable and Clean Energy (5 year moving average),SPI.D3.7.ENRG,No Poverty indicators,0.944,0.944,0.944
+India,IND,"GOAL 9: Industry, Innovation and Infrastructure (5 year moving average)",SPI.D3.9.INDY,No Poverty indicators,0.9,0.9,1
+India,IND,GOAL 8: Decent Work and Economic Growth (5 year moving average),SPI.D3.8.WORK,No Poverty indicators,0.875,0.889,0.875
+India,IND,Health/Demographic survey (Availability score over 10 years),SPI.D4.1.7.HLTH,Survey,1,1,1
+Germany,DEU,Classification of household consumption,SPI.D5.2.5.HOUS,Classification indicators,1,1,1
+Germany,DEU,Classification of national industry,SPI.D5.2.3.CNIN,Classification indicators,1,1,1
+Germany,DEU,Classification of status of employment,SPI.D5.2.6.EMPL,Classification indicators,1,1,1
+Germany,DEU,Compilation of government finance statistics,SPI.D5.2.8.FINA,Compilation of government finance statistics,1,1,1
+Germany,DEU,Compilation of monetary and financial statistics,SPI.D5.2.9.MONY,Compilation of monetary and financial statistics,1,1,1
+Germany,DEU,Dimension 3.4: Institutional Statistics,SPI.DIM3.4.INDEX,Dimension indicators,0.806,0.789,0.9335
+Germany,DEU,Dimension 3.3: Environmental Statistics,SPI.DIM3.3.INDEX,Dimension indicators,1,0.9545,0.6665
+Germany,DEU,Dimension 3.2: Economic Statistics,SPI.DIM3.2.INDEX,Dimension indicators,0.861166667,0.836166667,0.9305
+Germany,DEU,Dimension 3.1: Social Statistics,SPI.DIM3.1.INDEX,Dimension indicators,0.8025,0.779166667,0.8245
+Germany,DEU,Dimension 2.4: Data services,SPI.DIM2.4.INDEX,Dimension indicators,1,1,1
+Germany,DEU,Dimension 5.5: Finance,SPI.DIM5.5.INDEX,Dimension indicators,1,1,1
+Germany,DEU,Labor Force Survey (Availability score over 10 years),SPI.D4.1.6.LABR,Survey,1,1,1
+Germany,DEU,Pillar 5 - Data Infrastructure - Score,SPI.INDEX.PIL5,Pillar indicators,95,95,95
+Germany,DEU,Pillar 2 - Data Services - Score,SPI.INDEX.PIL2,Pillar indicators,95.33333333,94.86666667,94.86666667
+Germany,DEU,Pillar 3 - Data Products - Score,SPI.INDEX.PIL3,Pillar indicators,84.9625,82.36875,85.8125
+Germany,DEU,Pillar 4 - Data Sources - Score,SPI.INDEX.PIL4,Pillar indicators,85.4,86.675,86.675
+Germany,DEU,Pillar 1 - Data Use - Score,SPI.INDEX.PIL1,Pillar indicators,100,100,100
+Germany,DEU,Availability of Comparable Poverty headcount ratio at $2.15 a day (5 year moving average),SPI.D1.5.POV,Availability of Comparable Poverty headcount ratio at $2.15 a day (5 year moving average),1,1,1
+Germany,DEU,Agriculture survey (Availability score over 10 years),SPI.D4.1.5.AGSVY,Survey,1,1,1
+Germany,DEU,Business process,SPI.D5.2.10.GSBP,Business process,1,1,1
+Germany,DEU,Business/establishment survey (Availability score over 10 years),SPI.D4.1.8.BZSVY,Survey,1,1,1
+Germany,DEU,Dimension 1.5: Data use by international organizations,SPI.DIM1.5.INDEX,Dimension indicators,1,1,1
+Germany,DEU,Dimension 5.2: Standards and Methods,SPI.DIM5.2.INDEX,Dimension indicators,0.95,0.95,0.95
+Germany,DEU,Dimension 5.1: Legislation and governance,SPI.DIM5.1.INDEX,Dimension indicators,1,1,1
+Germany,DEU,Dimension 4.3: Geospatial Data,SPI.DIM4.3.INDEX,Dimension indicators,0.416,0.467,0.467
+Germany,DEU,Dimension 4.2: Administrative Data,SPI.DIM4.2.INDEX,Dimension indicators,1,1,1
+Germany,DEU,GOAL 11: Sustainable Cities and Communities (5 year moving average),SPI.D3.11.CITY,No Poverty indicators,0.8,0.75,0.75
+Germany,DEU,GOAL 13: Climate Action (5 year moving average),SPI.D3.13.CLMT,No Poverty indicators,1,1,0.5
+Germany,DEU,GOAL 15: Life on Land (5 year moving average),SPI.D3.15.LAND,No Poverty indicators,1,0.909,0.833
+Germany,DEU,GOAL 3: Good Health and Well-being (5 year moving average),SPI.D3.3.HLTH,No Poverty indicators,0.84,0.8,0.84
+Germany,DEU,GOAL 4: Quality Education (5 year moving average),SPI.D3.4.EDUC,No Poverty indicators,0.8,0.8,1
+Germany,DEU,GOAL 5: Gender Equality (5 year moving average),SPI.D3.5.GEND,No Poverty indicators,0.6,0.5,0.75
+Germany,DEU,GOAL 6: Clean Water and Sanitation (5 year moving average),SPI.D3.6.WTRS,No Poverty indicators,0.875,0.875,0.857
+Germany,DEU,GOAL 7: Affordable and Clean Energy (5 year moving average),SPI.D3.7.ENRG,No Poverty indicators,0.667,0.667,0.833
+Germany,DEU,"GOAL 9: Industry, Innovation and Infrastructure (5 year moving average)",SPI.D3.9.INDY,No Poverty indicators,0.9,0.9,1
+Germany,DEU,GOAL 8: Decent Work and Economic Growth (5 year moving average),SPI.D3.8.WORK,No Poverty indicators,1,1,1
+Germany,DEU,Health/Demographic survey (Availability score over 10 years),SPI.D4.1.7.HLTH,Survey,1,1,1
