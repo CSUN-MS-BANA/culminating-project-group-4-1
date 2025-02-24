@@ -1,0 +1,972 @@
+Country Name,Series Name,Series Code,series_type,2021 [YR2021],2022 [YR2022],2023 [YR2023],Country Code_CHN,Country Code_DEU,Country Code_IND,Country Code_JPN,Country Code_USA
+United States,"Unemployment, youth female (% of female labor force ages 15-24) (national estimate)",SL.UEM.1524.FE.NE.ZS,Unemployment,8.9,7.467,7.095,0,0,0,0,1
+United States,"Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.MA.ZS,Unemployment,10.474,8.719,8.757,0,0,0,0,1
+United States,"Unemployment, youth male (% of male labor force ages 15-24) (national estimate)",SL.UEM.1524.MA.NE.ZS,Unemployment,10.524,8.763,8.758,0,0,0,0,1
+United States,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.ZS,Unemployment,9.704,8.105,7.953,0,0,0,0,1
+United States,"Unemployment, youth total (% of total labor force ages 15-24) (national estimate)",SL.UEM.1524.NE.ZS,Unemployment,9.73,8.129,7.938,0,0,0,0,1
+United States,"Unemployment, youth female (% of female labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.FE.ZS,Unemployment,8.85,7.428,7.086,0,0,0,0,1
+United States,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,Unemployment,5.349,3.65,3.638,0,0,0,0,1
+United States,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,Unemployment,5.349,3.65,3.638,0,0,0,0,1
+United States,"Unemployment, male (% of male labor force) (national estimate)",SL.UEM.TOTL.MA.NE.ZS,Unemployment,5.468,3.681,3.8,0,0,0,0,1
+United States,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,Unemployment,5.463,3.68,3.795,0,0,0,0,1
+United States,"Unemployment, female (% of female labor force) (national estimate)",SL.UEM.TOTL.FE.NE.ZS,Unemployment,5.215,3.614,3.454,0,0,0,0,1
+United States,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,Unemployment,5.21,3.613,3.45,0,0,0,0,1
+United States,"Unemployment with intermediate education, female (% of female labor force with intermediate education)",SL.UEM.INTM.FE.ZS,Unemployment,7.053,5.122,4.737,0,0,0,0,1
+United States,"Unemployment with intermediate education, male (% of male labor force with intermediate education)",SL.UEM.INTM.MA.ZS,Unemployment,7.094,4.836,5.003,0,0,0,0,1
+United States,Unemployment with basic education (% of total labor force with basic education),SL.UEM.BASC.ZS,Unemployment,8.056,5.507,5.591,0,0,0,0,1
+United States,"Unemployment with basic education, female (% of female labor force with basic education)",SL.UEM.BASC.FE.ZS,Unemployment,9.765,6.417,6.838,0,0,0,0,1
+United States,"Unemployment with basic education, male (% of male labor force with basic education)",SL.UEM.BASC.MA.ZS,Unemployment,7.15,5.047,4.942,0,0,0,0,1
+United States,Unemployment with intermediate education (% of total labor force with intermediate education),SL.UEM.INTM.ZS,Unemployment,7.076,4.96,4.888,0,0,0,0,1
+United States,"Unemployment with advanced education, male (% of male labor force with advanced education)",SL.UEM.ADVN.MA.ZS,Unemployment,3.573,2.325,2.425,0,0,0,0,1
+United States,"Unemployment with advanced education, female (% of female labor force with advanced education)",SL.UEM.ADVN.FE.ZS,Unemployment,3.579,2.317,2.323,0,0,0,0,1
+United States,Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS,Unemployment,3.576,2.321,2.373,0,0,0,0,1
+India,"Unemployment, youth female (% of female labor force ages 15-24) (national estimate)",SL.UEM.1524.FE.NE.ZS,Unemployment,20.08,19.262,15.583,0,0,1,0,0
+India,"Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.MA.ZS,Unemployment,21.158,17.497,15.716,0,0,1,0,0
+India,"Unemployment, youth male (% of male labor force ages 15-24) (national estimate)",SL.UEM.1524.MA.NE.ZS,Unemployment,20.842,17.471,15.429,0,0,1,0,0
+India,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.ZS,Unemployment,20.824,17.769,15.661,0,0,1,0,0
+India,"Unemployment, youth total (% of total labor force ages 15-24) (national estimate)",SL.UEM.1524.NE.ZS,Unemployment,20.684,17.856,15.469,0,0,1,0,0
+India,"Unemployment, youth female (% of female labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.FE.ZS,Unemployment,19.621,18.689,15.484,0,0,1,0,0
+India,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,Unemployment,6.38,4.822,4.172,0,0,1,0,0
+India,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,Unemployment,6.38,4.822,4.172,0,0,1,0,0
+India,"Unemployment, male (% of male labor force) (national estimate)",SL.UEM.TOTL.MA.NE.ZS,Unemployment,6.73,4.908,4.222,0,0,1,0,0
+India,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,Unemployment,6.72,4.908,4.216,0,0,1,0,0
+India,"Unemployment, female (% of female labor force) (national estimate)",SL.UEM.TOTL.FE.NE.ZS,Unemployment,5.402,4.588,4.063,0,0,1,0,0
+India,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,Unemployment,5.394,4.588,4.057,0,0,1,0,0
+India,"Unemployment with intermediate education, female (% of female labor force with intermediate education)",SL.UEM.INTM.FE.ZS,Unemployment,8.773,8.874,6.798,0,0,1,0,0
+India,"Unemployment with intermediate education, male (% of male labor force with intermediate education)",SL.UEM.INTM.MA.ZS,Unemployment,9.734,7.888,5.791,0,0,1,0,0
+India,Unemployment with basic education (% of total labor force with basic education),SL.UEM.BASC.ZS,Unemployment,4.877,3.095,2.473,0,0,1,0,0
+India,"Unemployment with basic education, female (% of female labor force with basic education)",SL.UEM.BASC.FE.ZS,Unemployment,2.856,1.799,1.697,0,0,1,0,0
+India,"Unemployment with basic education, male (% of male labor force with basic education)",SL.UEM.BASC.MA.ZS,Unemployment,5.382,3.449,2.748,0,0,1,0,0
+India,Unemployment with intermediate education (% of total labor force with intermediate education),SL.UEM.INTM.ZS,Unemployment,9.571,8.06,5.991,0,0,1,0,0
+India,"Unemployment with advanced education, male (% of male labor force with advanced education)",SL.UEM.ADVN.MA.ZS,Unemployment,13.5,12.052,10.839,0,0,1,0,0
+India,"Unemployment with advanced education, female (% of female labor force with advanced education)",SL.UEM.ADVN.FE.ZS,Unemployment,23.395,21.424,20.594,0,0,1,0,0
+India,Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS,Unemployment,15.781,14.3,13.316,0,0,1,0,0
+Germany,"Unemployment, youth female (% of female labor force ages 15-24) (national estimate)",SL.UEM.1524.FE.NE.ZS,Unemployment,6.297,4.853,5.219,0,1,0,0,0
+Germany,"Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.MA.ZS,Unemployment,6.966,7.039,6.555,0,1,0,0,0
+Germany,"Unemployment, youth male (% of male labor force ages 15-24) (national estimate)",SL.UEM.1524.MA.NE.ZS,Unemployment,6.972,7.019,6.529,0,1,0,0,0
+Germany,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.ZS,Unemployment,6.665,6.04,5.949,0,1,0,0,0
+Germany,"Unemployment, youth total (% of total labor force ages 15-24) (national estimate)",SL.UEM.1524.NE.ZS,Unemployment,6.662,6.028,5.927,0,1,0,0,0
+Germany,"Unemployment, youth female (% of female labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.FE.ZS,Unemployment,6.303,4.858,5.234,0,1,0,0,0
+Germany,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,Unemployment,3.594,3.12,3.068,0,1,0,0,0
+Germany,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,Unemployment,3.594,3.12,3.068,0,1,0,0,0
+Germany,"Unemployment, male (% of male labor force) (national estimate)",SL.UEM.TOTL.MA.NE.ZS,Unemployment,3.987,3.402,3.271,0,1,0,0,0
+Germany,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,Unemployment,3.987,3.401,3.27,0,1,0,0,0
+Germany,"Unemployment, female (% of female labor force) (national estimate)",SL.UEM.TOTL.FE.NE.ZS,Unemployment,3.14,2.798,2.837,0,1,0,0,0
+Germany,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,Unemployment,3.14,2.797,2.836,0,1,0,0,0
+Germany,"Unemployment with intermediate education, female (% of female labor force with intermediate education)",SL.UEM.INTM.FE.ZS,Unemployment,2.661,2.311,2.316,0,1,0,0,0
+Germany,"Unemployment with intermediate education, male (% of male labor force with intermediate education)",SL.UEM.INTM.MA.ZS,Unemployment,3.519,3.092,2.821,0,1,0,0,0
+Germany,Unemployment with basic education (% of total labor force with basic education),SL.UEM.BASC.ZS,Unemployment,7.686,6.788,6.322,0,1,0,0,0
+Germany,"Unemployment with basic education, female (% of female labor force with basic education)",SL.UEM.BASC.FE.ZS,Unemployment,6.578,6.05,5.61,0,1,0,0,0
+Germany,"Unemployment with basic education, male (% of male labor force with basic education)",SL.UEM.BASC.MA.ZS,Unemployment,8.497,7.332,6.842,0,1,0,0,0
+Germany,Unemployment with intermediate education (% of total labor force with intermediate education),SL.UEM.INTM.ZS,Unemployment,3.097,2.704,2.571,0,1,0,0,0
+Germany,"Unemployment with advanced education, male (% of male labor force with advanced education)",SL.UEM.ADVN.MA.ZS,Unemployment,2.425,1.741,1.977,0,1,0,0,0
+Germany,"Unemployment with advanced education, female (% of female labor force with advanced education)",SL.UEM.ADVN.FE.ZS,Unemployment,2.377,2.049,2.361,0,1,0,0,0
+Germany,Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS,Unemployment,2.404,1.877,2.149,0,1,0,0,0
+Japan,"Unemployment, youth female (% of female labor force ages 15-24) (national estimate)",SL.UEM.1524.FE.NE.ZS,Unemployment,4.092,3.757,3.8,0,0,0,1,0
+Japan,"Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.MA.ZS,Unemployment,5.089,5.079,4.481,0,0,0,1,0
+Japan,"Unemployment, youth male (% of male labor force ages 15-24) (national estimate)",SL.UEM.1524.MA.NE.ZS,Unemployment,5.321,5.125,4.4,0,0,0,1,0
+Japan,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.ZS,Unemployment,4.625,4.406,4.116,0,0,0,1,0
+Japan,"Unemployment, youth total (% of total labor force ages 15-24) (national estimate)",SL.UEM.1524.NE.ZS,Unemployment,4.707,4.438,4.1,0,0,0,1,0
+Japan,"Unemployment, youth female (% of female labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.FE.ZS,Unemployment,4.153,3.726,3.75,0,0,0,1,0
+Japan,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,Unemployment,2.809,2.615,2.6,0,0,0,1,0
+Japan,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,Unemployment,2.828,2.6,2.6,0,0,0,1,0
+Japan,"Unemployment, male (% of male labor force) (national estimate)",SL.UEM.TOTL.MA.NE.ZS,Unemployment,3.035,2.828,2.8,0,0,0,1,0
+Japan,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,Unemployment,3.049,2.777,2.827,0,0,0,1,0
+Japan,"Unemployment, female (% of female labor force) (national estimate)",SL.UEM.TOTL.FE.NE.ZS,Unemployment,2.527,2.353,2.3,0,0,0,1,0
+Japan,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,Unemployment,2.55,2.38,2.322,0,0,0,1,0
+China,"Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.MA.ZS,Unemployment,13.374,15.934,16.919,1,0,0,0,0
+China,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.ZS,Unemployment,12.422,14.811,15.745,1,0,0,0,0
+China,"Unemployment, youth female (% of female labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.FE.ZS,Unemployment,11.163,13.318,14.178,1,0,0,0,0
+China,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,Unemployment,4.55,4.98,4.67,1,0,0,0,0
+China,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,Unemployment,5.04,5.516,5.173,1,0,0,0,0
+China,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,Unemployment,3.953,4.326,4.057,1,0,0,0,0
+China,Broad money (% of GDP),FM.LBL.BMNY.GD.ZS,Broad money,203.8378734,217.1287767,227.9445732,1,0,0,0,0
+China,Broad money (current LCU),FM.LBL.BMNY.CN,Broad money,2.34E+14,2.62E+14,2.87E+14,1,0,0,0,0
+China,Broad money growth (annual %),FM.LBL.BMNY.ZG,Broad money,9.075745734,11.66330022,9.848834535,1,0,0,0,0
+China,Broad money to total reserves ratio,FM.LBL.BMNY.IR.ZS,Broad money,10.59672482,11.74127048,11.75872445,1,0,0,0,0
+China,Claims on central government (annual growth as % of broad money),FM.AST.CGOV.ZG.M3,Claims,2.094292056,2.761421195,2.792120091,1,0,0,0,0
+China,Claims on private sector (annual growth as % of broad money),FM.AST.PRVT.ZG.M3,Claims,8.554996445,8.796261892,8.056557638,1,0,0,0,0
+China,"Official exchange rate (LCU per US$, period average)",PA.NUS.FCRF,exchange rate,6.44897518,6.737158112,7.083998423,1,0,0,0,0
+China,Real effective exchange rate index (2010 = 100),PX.REX.REER,exchange rate,127.328418,125.966431,116.0394435,1,0,0,0,0
+Germany,"Official exchange rate (LCU per US$, period average)",PA.NUS.FCRF,exchange rate,0.845494139,0.949623753,0.924839558,0,1,0,0,0
+Germany,Real effective exchange rate index (2010 = 100),PX.REX.REER,exchange rate,97.13995968,93.7213134,97.1443097,0,1,0,0,0
+Japan,Broad money (% of GDP),FM.LBL.BMNY.GD.ZS,Broad money,281.9455368,284.665258,275.5569422,0,0,0,1,0
+Japan,Broad money (current LCU),FM.LBL.BMNY.CN,Broad money,1.56E+15,1.59E+15,1.63E+15,0,0,0,1,0
+Japan,Broad money growth (annual %),FM.LBL.BMNY.ZG,Broad money,2.945157822,2.268993929,2.158940293,0,0,0,1,0
+Japan,Broad money to total reserves ratio,FM.LBL.BMNY.IR.ZS,Broad money,10.09774055,9.870305126,8.949061357,0,0,0,1,0
+Japan,Claims on central government (annual growth as % of broad money),FM.AST.CGOV.ZG.M3,Claims,0.095290076,-0.063487259,2.210412074,0,0,0,1,0
+Japan,Claims on other sectors of the domestic economy (annual growth as % of broad money),FM.AST.DOMO.ZG.M3,Claims,2.750976457,-0.073063943,2.889304853,0,0,0,1,0
+Japan,Claims on private sector (annual growth as % of broad money),FM.AST.PRVT.ZG.M3,Claims,0.988086923,1.572578947,1.86513502,0,0,0,1,0
+Japan,"Official exchange rate (LCU per US$, period average)",PA.NUS.FCRF,exchange rate,109.7543238,131.4981404,140.4911001,0,0,0,1,0
+Japan,Real effective exchange rate index (2010 = 100),PX.REX.REER,exchange rate,70.69116244,61.01097912,58.11491152,0,0,0,1,0
+India,"Official exchange rate (LCU per US$, period average)",PA.NUS.FCRF,exchange rate,73.91801282,78.60449058,82.59927645,0,0,1,0,0
+United States,Broad money (% of GDP),FM.LBL.BMNY.GD.ZS,Broad money,114.9809344,103.8161168,99.12791711,0,0,0,0,1
+United States,Broad money (current LCU),FM.LBL.BMNY.CN,Broad money,2.72E+13,2.70E+13,2.75E+13,0,0,0,0,1
+United States,Broad money growth (annual %),FM.LBL.BMNY.ZG,Broad money,16.85668337,-0.84280258,1.776394992,0,0,0,0,1
+United States,Broad money to total reserves ratio,FM.LBL.BMNY.IR.ZS,Broad money,38.0210092,38.20783613,35.52887385,0,0,0,0,1
+United States,Claims on central government (annual growth as % of broad money),FM.AST.CGOV.ZG.M3,Claims,12.67334133,-3.916926706,-0.393185277,0,0,0,0,1
+United States,Claims on other sectors of the domestic economy (annual growth as % of broad money),FM.AST.DOMO.ZG.M3,Claims,6.037187781,3.197856047,2.014442875,0,0,0,0,1
+United States,Claims on private sector (annual growth as % of broad money),FM.AST.PRVT.ZG.M3,Claims,1.761209024,5.169487554,1.206869309,0,0,0,0,1
+United States,"Official exchange rate (LCU per US$, period average)",PA.NUS.FCRF,exchange rate,1,1,1,0,0,0,0,1
+United States,Real effective exchange rate index (2010 = 100),PX.REX.REER,exchange rate,115.6271055,126.625654,127.5404195,0,0,0,0,1
+United States,Classification of household consumption,SPI.D5.2.5.HOUS,Classification indicators,1,1,1,0,0,0,0,1
+United States,Classification of national industry,SPI.D5.2.3.CNIN,Classification indicators,1,1,1,0,0,0,0,1
+United States,Classification of status of employment,SPI.D5.2.6.EMPL,Classification indicators,1,1,1,0,0,0,0,1
+United States,Compilation of government finance statistics,SPI.D5.2.8.FINA,Compilation of government finance statistics,1,1,1,0,0,0,0,1
+United States,Compilation of monetary and financial statistics,SPI.D5.2.9.MONY,Compilation of monetary and financial statistics,1,1,1,0,0,0,0,1
+United States,Dimension 3.4: Institutional Statistics,SPI.DIM3.4.INDEX,Dimension indicators,0.775,0.661,0.8285,0,0,0,0,1
+United States,Dimension 3.3: Environmental Statistics,SPI.DIM3.3.INDEX,Dimension indicators,0.95,0.9545,0.9165,0,0,0,0,1
+United States,Dimension 3.2: Economic Statistics,SPI.DIM3.2.INDEX,Dimension indicators,0.861166667,0.8385,0.9555,0,0,0,0,1
+United States,Dimension 3.1: Social Statistics,SPI.DIM3.1.INDEX,Dimension indicators,0.855833333,0.772833333,0.82,0,0,0,0,1
+United States,Dimension 2.4: Data services,SPI.DIM2.4.INDEX,Dimension indicators,1,1,1,0,0,0,0,1
+United States,Dimension 5.5: Finance,SPI.DIM5.5.INDEX,Dimension indicators,1,1,1,0,0,0,0,1
+United States,Labor Force Survey (Availability score over 10 years),SPI.D4.1.6.LABR,Survey,1,1,1,0,0,0,0,1
+United States,Pillar 5 - Data Infrastructure - Score,SPI.INDEX.PIL5,Pillar indicators,100,100,100,0,0,0,0,1
+United States,Pillar 2 - Data Services - Score,SPI.INDEX.PIL2,Pillar indicators,92.7,93.13333333,93.13333333,0,0,0,0,1
+United States,Pillar 3 - Data Products - Score,SPI.INDEX.PIL3,Pillar indicators,85.95,80.61875,88.39375,0,0,0,0,1
+United States,Pillar 4 - Data Sources - Score,SPI.INDEX.PIL4,Pillar indicators,85.1,85.625,85.625,0,0,0,0,1
+United States,Pillar 1 - Data Use - Score,SPI.INDEX.PIL1,Pillar indicators,100,100,100,0,0,0,0,1
+United States,Availability of Comparable Poverty headcount ratio at $2.15 a day (5 year moving average),SPI.D1.5.POV,Availability of Comparable Poverty headcount ratio at $2.15 a day (5 year moving average),1,1,1,0,0,0,0,1
+United States,Agriculture survey (Availability score over 10 years),SPI.D4.1.5.AGSVY,Survey,1,1,1,0,0,0,0,1
+United States,Business process,SPI.D5.2.10.GSBP,Business process,1,1,1,0,0,0,0,1
+United States,Business/establishment survey (Availability score over 10 years),SPI.D4.1.8.BZSVY,Survey,1,1,1,0,0,0,0,1
+United States,Dimension 1.5: Data use by international organizations,SPI.DIM1.5.INDEX,Dimension indicators,1,1,1,0,0,0,0,1
+United States,Dimension 5.2: Standards and Methods,SPI.DIM5.2.INDEX,Dimension indicators,1,1,1,0,0,0,0,1
+United States,Dimension 5.1: Legislation and governance,SPI.DIM5.1.INDEX,Dimension indicators,1,1,1,0,0,0,0,1
+United States,Dimension 4.3: Geospatial Data,SPI.DIM4.3.INDEX,Dimension indicators,0.404,0.425,0.425,0,0,0,0,1
+United States,Dimension 4.2: Administrative Data,SPI.DIM4.2.INDEX,Dimension indicators,1,1,1,0,0,0,0,1
+United States,GOAL 11: Sustainable Cities and Communities (5 year moving average),SPI.D3.11.CITY,No Poverty indicators,0.8,0.875,1,0,0,0,0,1
+United States,GOAL 13: Climate Action (5 year moving average),SPI.D3.13.CLMT,No Poverty indicators,1,1,1,0,0,0,0,1
+United States,GOAL 15: Life on Land (5 year moving average),SPI.D3.15.LAND,No Poverty indicators,0.9,0.909,0.833,0,0,0,0,1
+United States,GOAL 3: Good Health and Well-being (5 year moving average),SPI.D3.3.HLTH,No Poverty indicators,0.96,0.92,0.88,0,0,0,0,1
+United States,GOAL 4: Quality Education (5 year moving average),SPI.D3.4.EDUC,No Poverty indicators,0.6,0.4,0.833,0,0,0,0,1
+United States,GOAL 5: Gender Equality (5 year moving average),SPI.D3.5.GEND,No Poverty indicators,0.8,0.667,0.75,0,0,0,0,1
+United States,GOAL 6: Clean Water and Sanitation (5 year moving average),SPI.D3.6.WTRS,No Poverty indicators,0.875,0.875,0.857,0,0,0,0,1
+United States,GOAL 7: Affordable and Clean Energy (5 year moving average),SPI.D3.7.ENRG,No Poverty indicators,0.667,0.667,0.833,0,0,0,0,1
+United States,"GOAL 9: Industry, Innovation and Infrastructure (5 year moving average)",SPI.D3.9.INDY,No Poverty indicators,0.9,0.9,0.9,0,0,0,0,1
+United States,GOAL 8: Decent Work and Economic Growth (5 year moving average),SPI.D3.8.WORK,No Poverty indicators,1,0.889,1,0,0,0,0,1
+United States,Health/Demographic survey (Availability score over 10 years),SPI.D4.1.7.HLTH,Survey,1,1,1,0,0,0,0,1
+Japan,Classification of household consumption,SPI.D5.2.5.HOUS,Classification indicators,1,1,1,0,0,0,1,0
+Japan,Classification of national industry,SPI.D5.2.3.CNIN,Classification indicators,1,1,1,0,0,0,1,0
+Japan,Classification of status of employment,SPI.D5.2.6.EMPL,Classification indicators,1,1,1,0,0,0,1,0
+Japan,Compilation of government finance statistics,SPI.D5.2.8.FINA,Compilation of government finance statistics,1,1,1,0,0,0,1,0
+Japan,Compilation of monetary and financial statistics,SPI.D5.2.9.MONY,Compilation of monetary and financial statistics,1,1,1,0,0,0,1,0
+Japan,Dimension 3.4: Institutional Statistics,SPI.DIM3.4.INDEX,Dimension indicators,0.806,0.789,0.862,0,0,0,1,0
+Japan,Dimension 3.3: Environmental Statistics,SPI.DIM3.3.INDEX,Dimension indicators,1,0.909,0.875,0,0,0,1,0
+Japan,Dimension 3.2: Economic Statistics,SPI.DIM3.2.INDEX,Dimension indicators,0.873666667,0.861166667,0.934666667,0,0,0,1,0
+Japan,Dimension 3.1: Social Statistics,SPI.DIM3.1.INDEX,Dimension indicators,0.787833333,0.762,0.762833333,0,0,0,1,0
+Japan,Dimension 2.4: Data services,SPI.DIM2.4.INDEX,Dimension indicators,1,1,1,0,0,0,1,0
+Japan,Dimension 5.5: Finance,SPI.DIM5.5.INDEX,Dimension indicators,1,1,1,0,0,0,1,0
+Japan,Labor Force Survey (Availability score over 10 years),SPI.D4.1.6.LABR,Survey,1,1,1,0,0,0,1,0
+Japan,Pillar 5 - Data Infrastructure - Score,SPI.INDEX.PIL5,Pillar indicators,95,95,95,0,0,0,1,0
+Japan,Pillar 2 - Data Services - Score,SPI.INDEX.PIL2,Pillar indicators,89.83333333,90.3,90.3,0,0,0,1,0
+Japan,Pillar 3 - Data Products - Score,SPI.INDEX.PIL3,Pillar indicators,84.88125,82.09375,85.36875,0,0,0,1,0
+Japan,Pillar 4 - Data Sources - Score,SPI.INDEX.PIL4,Pillar indicators,83.825,84.05,84.05,0,0,0,1,0
+Japan,Pillar 1 - Data Use - Score,SPI.INDEX.PIL1,Pillar indicators,100,100,100,0,0,0,1,0
+Japan,Availability of Comparable Poverty headcount ratio at $2.15 a day (5 year moving average),SPI.D1.5.POV,Availability of Comparable Poverty headcount ratio at $2.15 a day (5 year moving average),1,1,1,0,0,0,1,0
+Japan,Agriculture survey (Availability score over 10 years),SPI.D4.1.5.AGSVY,Survey,1,1,1,0,0,0,1,0
+Japan,Business process,SPI.D5.2.10.GSBP,Business process,1,1,1,0,0,0,1,0
+Japan,Business/establishment survey (Availability score over 10 years),SPI.D4.1.8.BZSVY,Survey,1,1,1,0,0,0,1,0
+Japan,Dimension 1.5: Data use by international organizations,SPI.DIM1.5.INDEX,Dimension indicators,1,1,1,0,0,0,1,0
+Japan,Dimension 5.2: Standards and Methods,SPI.DIM5.2.INDEX,Dimension indicators,0.95,0.95,0.95,0,0,0,1,0
+Japan,Dimension 5.1: Legislation and governance,SPI.DIM5.1.INDEX,Dimension indicators,1,1,1,0,0,0,1,0
+Japan,Dimension 4.3: Geospatial Data,SPI.DIM4.3.INDEX,Dimension indicators,0.419,0.428,0.428,0,0,0,1,0
+Japan,Dimension 4.2: Administrative Data,SPI.DIM4.2.INDEX,Dimension indicators,1,1,1,0,0,0,1,0
+Japan,GOAL 11: Sustainable Cities and Communities (5 year moving average),SPI.D3.11.CITY,No Poverty indicators,1,1,1,0,0,0,1,0
+Japan,GOAL 13: Climate Action (5 year moving average),SPI.D3.13.CLMT,No Poverty indicators,1,1,1,0,0,0,1,0
+Japan,GOAL 15: Life on Land (5 year moving average),SPI.D3.15.LAND,No Poverty indicators,1,0.818,0.75,0,0,0,1,0
+Japan,GOAL 3: Good Health and Well-being (5 year moving average),SPI.D3.3.HLTH,No Poverty indicators,0.92,0.88,0.88,0,0,0,1,0
+Japan,GOAL 4: Quality Education (5 year moving average),SPI.D3.4.EDUC,No Poverty indicators,0.6,0.6,0.833,0,0,0,1,0
+Japan,GOAL 5: Gender Equality (5 year moving average),SPI.D3.5.GEND,No Poverty indicators,0.8,0.667,0.75,0,0,0,1,0
+Japan,GOAL 6: Clean Water and Sanitation (5 year moving average),SPI.D3.6.WTRS,No Poverty indicators,0.75,0.75,0.714,0,0,0,1,0
+Japan,GOAL 7: Affordable and Clean Energy (5 year moving average),SPI.D3.7.ENRG,No Poverty indicators,0.667,0.667,0.833,0,0,0,1,0
+Japan,"GOAL 9: Industry, Innovation and Infrastructure (5 year moving average)",SPI.D3.9.INDY,No Poverty indicators,0.9,0.9,0.9,0,0,0,1,0
+Japan,GOAL 8: Decent Work and Economic Growth (5 year moving average),SPI.D3.8.WORK,No Poverty indicators,1,1,1,0,0,0,1,0
+Japan,Health/Demographic survey (Availability score over 10 years),SPI.D4.1.7.HLTH,Survey,0.67,0.67,0.67,0,0,0,1,0
+China,Classification of household consumption,SPI.D5.2.5.HOUS,Classification indicators,0,0,0,1,0,0,0,0
+China,Classification of national industry,SPI.D5.2.3.CNIN,Classification indicators,1,1,1,1,0,0,0,0
+China,Classification of status of employment,SPI.D5.2.6.EMPL,Classification indicators,0,0,1,1,0,0,0,0
+China,Compilation of government finance statistics,SPI.D5.2.8.FINA,Compilation of government finance statistics,0.5,0.5,0.5,1,0,0,0,0
+China,Compilation of monetary and financial statistics,SPI.D5.2.9.MONY,Compilation of monetary and financial statistics,0,0,0,1,0,0,0,0
+China,Dimension 3.4: Institutional Statistics,SPI.DIM3.4.INDEX,Dimension indicators,0.669,0.6945,0.752,1,0,0,0,0
+China,Dimension 3.3: Environmental Statistics,SPI.DIM3.3.INDEX,Dimension indicators,0.7835,0.7425,0.6665,1,0,0,0,0
+China,Dimension 3.2: Economic Statistics,SPI.DIM3.2.INDEX,Dimension indicators,0.843,0.806,0.893,1,0,0,0,0
+China,Dimension 3.1: Social Statistics,SPI.DIM3.1.INDEX,Dimension indicators,0.74,0.684666667,0.734,1,0,0,0,0
+China,Dimension 2.4: Data services,SPI.DIM2.4.INDEX,Dimension indicators,0,0,0,1,0,0,0,0
+China,Dimension 5.5: Finance,SPI.DIM5.5.INDEX,Dimension indicators,1,1,1,1,0,0,0,0
+China,Labor Force Survey (Availability score over 10 years),SPI.D4.1.6.LABR,Survey,0.33,0.33,0.33,1,0,0,0,0
+China,Pillar 5 - Data Infrastructure - Score,SPI.INDEX.PIL5,Pillar indicators,50,50,60,1,0,0,0,0
+China,Pillar 2 - Data Services - Score,SPI.INDEX.PIL2,Pillar indicators,42.4,43.8,43.8,1,0,0,0,0
+China,Pillar 3 - Data Products - Score,SPI.INDEX.PIL3,Pillar indicators,77.51875,73.8625,78.74375,1,0,0,0,0
+China,Pillar 4 - Data Sources - Score,SPI.INDEX.PIL4,Pillar indicators,41.575,41.575,41.575,1,0,0,0,0
+China,Pillar 1 - Data Use - Score,SPI.INDEX.PIL1,Pillar indicators,83.4,73.4,73.4,1,0,0,0,0
+China,Availability of Comparable Poverty headcount ratio at $2.15 a day (5 year moving average),SPI.D1.5.POV,Availability of Comparable Poverty headcount ratio at $2.15 a day (5 year moving average),1,1,1,1,0,0,0,0
+China,Agriculture survey (Availability score over 10 years),SPI.D4.1.5.AGSVY,Survey,0.33,0.33,0.33,1,0,0,0,0
+China,Business process,SPI.D5.2.10.GSBP,Business process,1,1,1,1,0,0,0,0
+China,Business/establishment survey (Availability score over 10 years),SPI.D4.1.8.BZSVY,Survey,0,0,0,1,0,0,0,0
+China,Dimension 1.5: Data use by international organizations,SPI.DIM1.5.INDEX,Dimension indicators,0.834,0.734,0.734,1,0,0,0,0
+China,Dimension 5.2: Standards and Methods,SPI.DIM5.2.INDEX,Dimension indicators,0.5,0.5,0.6,1,0,0,0,0
+China,Dimension 5.1: Legislation and governance,SPI.DIM5.1.INDEX,Dimension indicators,1,1,1,1,0,0,0,0
+China,Dimension 4.3: Geospatial Data,SPI.DIM4.3.INDEX,Dimension indicators,0.331,0.331,0.331,1,0,0,0,0
+China,Dimension 4.2: Administrative Data,SPI.DIM4.2.INDEX,Dimension indicators,0,0,0,1,0,0,0,0
+China,GOAL 11: Sustainable Cities and Communities (5 year moving average),SPI.D3.11.CITY,No Poverty indicators,0.8,0.625,1,1,0,0,0,0
+China,GOAL 13: Climate Action (5 year moving average),SPI.D3.13.CLMT,No Poverty indicators,0.667,0.667,0.5,1,0,0,0,0
+China,GOAL 15: Life on Land (5 year moving average),SPI.D3.15.LAND,No Poverty indicators,0.9,0.818,0.833,1,0,0,0,0
+China,GOAL 3: Good Health and Well-being (5 year moving average),SPI.D3.3.HLTH,No Poverty indicators,0.64,0.6,0.68,1,0,0,0,0
+China,GOAL 4: Quality Education (5 year moving average),SPI.D3.4.EDUC,No Poverty indicators,0.6,0.6,0.667,1,0,0,0,0
+China,GOAL 5: Gender Equality (5 year moving average),SPI.D3.5.GEND,No Poverty indicators,0.4,0.333,0.5,1,0,0,0,0
+China,GOAL 6: Clean Water and Sanitation (5 year moving average),SPI.D3.6.WTRS,No Poverty indicators,1,1,0.857,1,0,0,0,0
+China,GOAL 7: Affordable and Clean Energy (5 year moving average),SPI.D3.7.ENRG,No Poverty indicators,0.833,0.833,0.833,1,0,0,0,0
+China,"GOAL 9: Industry, Innovation and Infrastructure (5 year moving average)",SPI.D3.9.INDY,No Poverty indicators,0.8,0.8,0.9,1,0,0,0,0
+China,GOAL 8: Decent Work and Economic Growth (5 year moving average),SPI.D3.8.WORK,No Poverty indicators,0.75,0.778,0.75,1,0,0,0,0
+China,Health/Demographic survey (Availability score over 10 years),SPI.D4.1.7.HLTH,Survey,0,0,0,1,0,0,0,0
+India,Classification of household consumption,SPI.D5.2.5.HOUS,Classification indicators,1,1,0,0,0,1,0,0
+India,Classification of national industry,SPI.D5.2.3.CNIN,Classification indicators,0.5,0.5,0.5,0,0,1,0,0
+India,Classification of status of employment,SPI.D5.2.6.EMPL,Classification indicators,1,1,1,0,0,1,0,0
+India,Compilation of government finance statistics,SPI.D5.2.8.FINA,Compilation of government finance statistics,1,1,1,0,0,1,0,0
+India,Compilation of monetary and financial statistics,SPI.D5.2.9.MONY,Compilation of monetary and financial statistics,0,0,0,0,0,1,0,0
+India,Dimension 3.4: Institutional Statistics,SPI.DIM3.4.INDEX,Dimension indicators,0.769,0.7945,0.9,0,0,1,0,0
+India,Dimension 3.3: Environmental Statistics,SPI.DIM3.3.INDEX,Dimension indicators,0.778,0.7425,0.6665,0,0,1,0,0
+India,Dimension 3.2: Economic Statistics,SPI.DIM3.2.INDEX,Dimension indicators,0.932333333,0.8805,0.949,0,0,1,0,0
+India,Dimension 3.1: Social Statistics,SPI.DIM3.1.INDEX,Dimension indicators,0.852833333,0.7175,0.776166667,0,0,1,0,0
+India,Dimension 2.4: Data services,SPI.DIM2.4.INDEX,Dimension indicators,1,1,1,0,0,1,0,0
+India,Dimension 5.5: Finance,SPI.DIM5.5.INDEX,Dimension indicators,0,0,0,0,0,1,0,0
+India,Labor Force Survey (Availability score over 10 years),SPI.D4.1.6.LABR,Survey,1,1,1,0,0,1,0,0
+India,Pillar 5 - Data Infrastructure - Score,SPI.INDEX.PIL5,Pillar indicators,55,55,45,0,0,1,0,0
+India,Pillar 2 - Data Services - Score,SPI.INDEX.PIL2,Pillar indicators,88.33333333,87.73333333,87.73333333,0,0,1,0,0
+India,Pillar 3 - Data Products - Score,SPI.INDEX.PIL3,Pillar indicators,86.28125,79.1375,84.275,0,0,1,0,0
+India,Pillar 4 - Data Sources - Score,SPI.INDEX.PIL4,Pillar indicators,75.825,71.13333333,71.13333333,0,0,1,0,0
+India,Pillar 1 - Data Use - Score,SPI.INDEX.PIL1,Pillar indicators,80,80,80,0,0,1,0,0
+India,Availability of Comparable Poverty headcount ratio at $2.15 a day (5 year moving average),SPI.D1.5.POV,Availability of Comparable Poverty headcount ratio at $2.15 a day (5 year moving average),0,0,0,0,0,1,0,0
+India,Agriculture survey (Availability score over 10 years),SPI.D4.1.5.AGSVY,Survey,0.33,0.33,0.33,0,0,1,0,0
+India,Business process,SPI.D5.2.10.GSBP,Business process,0,0,1,0,0,1,0,0
+India,Business/establishment survey (Availability score over 10 years),SPI.D4.1.8.BZSVY,Survey,1,1,1,0,0,1,0,0
+India,Dimension 1.5: Data use by international organizations,SPI.DIM1.5.INDEX,Dimension indicators,0.8,0.8,0.8,0,0,1,0,0
+India,Dimension 5.2: Standards and Methods,SPI.DIM5.2.INDEX,Dimension indicators,0.55,0.55,0.45,0,0,1,0,0
+India,Dimension 5.1: Legislation and governance,SPI.DIM5.1.INDEX,Dimension indicators,1,1,1,0,0,1,0,0
+India,Dimension 4.3: Geospatial Data,SPI.DIM4.3.INDEX,Dimension indicators,0.367,0.346,0.346,0,0,1,0,0
+India,Dimension 4.2: Administrative Data,SPI.DIM4.2.INDEX,Dimension indicators,1,1,1,0,0,1,0,0
+India,GOAL 11: Sustainable Cities and Communities (5 year moving average),SPI.D3.11.CITY,No Poverty indicators,1,0.75,1,0,0,1,0,0
+India,GOAL 13: Climate Action (5 year moving average),SPI.D3.13.CLMT,No Poverty indicators,0.667,0.667,0.5,0,0,1,0,0
+India,GOAL 15: Life on Land (5 year moving average),SPI.D3.15.LAND,No Poverty indicators,0.889,0.818,0.833,0,0,1,0,0
+India,GOAL 3: Good Health and Well-being (5 year moving average),SPI.D3.3.HLTH,No Poverty indicators,0.76,0.68,0.76,0,0,1,0,0
+India,GOAL 4: Quality Education (5 year moving average),SPI.D3.4.EDUC,No Poverty indicators,1,0.8,0.833,0,0,1,0,0
+India,GOAL 5: Gender Equality (5 year moving average),SPI.D3.5.GEND,No Poverty indicators,0.6,0.5,0.75,0,0,1,0,0
+India,GOAL 6: Clean Water and Sanitation (5 year moving average),SPI.D3.6.WTRS,No Poverty indicators,1,0.875,0.714,0,0,1,0,0
+India,GOAL 7: Affordable and Clean Energy (5 year moving average),SPI.D3.7.ENRG,No Poverty indicators,0.944,0.944,0.944,0,0,1,0,0
+India,"GOAL 9: Industry, Innovation and Infrastructure (5 year moving average)",SPI.D3.9.INDY,No Poverty indicators,0.9,0.9,1,0,0,1,0,0
+India,GOAL 8: Decent Work and Economic Growth (5 year moving average),SPI.D3.8.WORK,No Poverty indicators,0.875,0.889,0.875,0,0,1,0,0
+India,Health/Demographic survey (Availability score over 10 years),SPI.D4.1.7.HLTH,Survey,1,1,1,0,0,1,0,0
+Germany,Classification of household consumption,SPI.D5.2.5.HOUS,Classification indicators,1,1,1,0,1,0,0,0
+Germany,Classification of national industry,SPI.D5.2.3.CNIN,Classification indicators,1,1,1,0,1,0,0,0
+Germany,Classification of status of employment,SPI.D5.2.6.EMPL,Classification indicators,1,1,1,0,1,0,0,0
+Germany,Compilation of government finance statistics,SPI.D5.2.8.FINA,Compilation of government finance statistics,1,1,1,0,1,0,0,0
+Germany,Compilation of monetary and financial statistics,SPI.D5.2.9.MONY,Compilation of monetary and financial statistics,1,1,1,0,1,0,0,0
+Germany,Dimension 3.4: Institutional Statistics,SPI.DIM3.4.INDEX,Dimension indicators,0.806,0.789,0.9335,0,1,0,0,0
+Germany,Dimension 3.3: Environmental Statistics,SPI.DIM3.3.INDEX,Dimension indicators,1,0.9545,0.6665,0,1,0,0,0
+Germany,Dimension 3.2: Economic Statistics,SPI.DIM3.2.INDEX,Dimension indicators,0.861166667,0.836166667,0.9305,0,1,0,0,0
+Germany,Dimension 3.1: Social Statistics,SPI.DIM3.1.INDEX,Dimension indicators,0.8025,0.779166667,0.8245,0,1,0,0,0
+Germany,Dimension 2.4: Data services,SPI.DIM2.4.INDEX,Dimension indicators,1,1,1,0,1,0,0,0
+Germany,Dimension 5.5: Finance,SPI.DIM5.5.INDEX,Dimension indicators,1,1,1,0,1,0,0,0
+Germany,Labor Force Survey (Availability score over 10 years),SPI.D4.1.6.LABR,Survey,1,1,1,0,1,0,0,0
+Germany,Pillar 5 - Data Infrastructure - Score,SPI.INDEX.PIL5,Pillar indicators,95,95,95,0,1,0,0,0
+Germany,Pillar 2 - Data Services - Score,SPI.INDEX.PIL2,Pillar indicators,95.33333333,94.86666667,94.86666667,0,1,0,0,0
+Germany,Pillar 3 - Data Products - Score,SPI.INDEX.PIL3,Pillar indicators,84.9625,82.36875,85.8125,0,1,0,0,0
+Germany,Pillar 4 - Data Sources - Score,SPI.INDEX.PIL4,Pillar indicators,85.4,86.675,86.675,0,1,0,0,0
+Germany,Pillar 1 - Data Use - Score,SPI.INDEX.PIL1,Pillar indicators,100,100,100,0,1,0,0,0
+Germany,Availability of Comparable Poverty headcount ratio at $2.15 a day (5 year moving average),SPI.D1.5.POV,Availability of Comparable Poverty headcount ratio at $2.15 a day (5 year moving average),1,1,1,0,1,0,0,0
+Germany,Agriculture survey (Availability score over 10 years),SPI.D4.1.5.AGSVY,Survey,1,1,1,0,1,0,0,0
+Germany,Business process,SPI.D5.2.10.GSBP,Business process,1,1,1,0,1,0,0,0
+Germany,Business/establishment survey (Availability score over 10 years),SPI.D4.1.8.BZSVY,Survey,1,1,1,0,1,0,0,0
+Germany,Dimension 1.5: Data use by international organizations,SPI.DIM1.5.INDEX,Dimension indicators,1,1,1,0,1,0,0,0
+Germany,Dimension 5.2: Standards and Methods,SPI.DIM5.2.INDEX,Dimension indicators,0.95,0.95,0.95,0,1,0,0,0
+Germany,Dimension 5.1: Legislation and governance,SPI.DIM5.1.INDEX,Dimension indicators,1,1,1,0,1,0,0,0
+Germany,Dimension 4.3: Geospatial Data,SPI.DIM4.3.INDEX,Dimension indicators,0.416,0.467,0.467,0,1,0,0,0
+Germany,Dimension 4.2: Administrative Data,SPI.DIM4.2.INDEX,Dimension indicators,1,1,1,0,1,0,0,0
+Germany,GOAL 11: Sustainable Cities and Communities (5 year moving average),SPI.D3.11.CITY,No Poverty indicators,0.8,0.75,0.75,0,1,0,0,0
+Germany,GOAL 13: Climate Action (5 year moving average),SPI.D3.13.CLMT,No Poverty indicators,1,1,0.5,0,1,0,0,0
+Germany,GOAL 15: Life on Land (5 year moving average),SPI.D3.15.LAND,No Poverty indicators,1,0.909,0.833,0,1,0,0,0
+Germany,GOAL 3: Good Health and Well-being (5 year moving average),SPI.D3.3.HLTH,No Poverty indicators,0.84,0.8,0.84,0,1,0,0,0
+Germany,GOAL 4: Quality Education (5 year moving average),SPI.D3.4.EDUC,No Poverty indicators,0.8,0.8,1,0,1,0,0,0
+Germany,GOAL 5: Gender Equality (5 year moving average),SPI.D3.5.GEND,No Poverty indicators,0.6,0.5,0.75,0,1,0,0,0
+Germany,GOAL 6: Clean Water and Sanitation (5 year moving average),SPI.D3.6.WTRS,No Poverty indicators,0.875,0.875,0.857,0,1,0,0,0
+Germany,GOAL 7: Affordable and Clean Energy (5 year moving average),SPI.D3.7.ENRG,No Poverty indicators,0.667,0.667,0.833,0,1,0,0,0
+Germany,"GOAL 9: Industry, Innovation and Infrastructure (5 year moving average)",SPI.D3.9.INDY,No Poverty indicators,0.9,0.9,1,0,1,0,0,0
+Germany,GOAL 8: Decent Work and Economic Growth (5 year moving average),SPI.D3.8.WORK,No Poverty indicators,1,1,1,0,1,0,0,0
+Germany,Health/Demographic survey (Availability score over 10 years),SPI.D4.1.7.HLTH,Survey,1,1,1,0,1,0,0,0
+United States,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,Agriculture indicators,1.157299141,1.067377202,0.835369769,0,0,0,0,1
+United States,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,Agriculture indicators,2.043668024,2.049078157,1.728241601,0,0,0,0,1
+United States,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,Armed forces,846000000,748000000,693000000,0,0,0,0,1
+United States,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,Armed forces,11074000000,15592000000,11287000000,0,0,0,0,1
+United States,Broad money (% of GDP),FM.LBL.BMNY.GD.ZS,Broad money,114.9809344,103.8161168,99.12791711,0,0,0,0,1
+United States,Broad money (current LCU),FM.LBL.BMNY.CN,Broad money,2.72E+13,2.70E+13,2.75E+13,0,0,0,0,1
+United States,Broad money growth (annual %),FM.LBL.BMNY.ZG,Broad money,16.85668337,-0.84280258,1.776394992,0,0,0,0,1
+United States,Broad money to total reserves ratio,FM.LBL.BMNY.IR.ZS,Broad money,38.0210092,38.20783613,35.52887385,0,0,0,0,1
+United States,Carbon dioxide (CO2) emissions (total) excluding LULUCF (% change from 1990),EN.GHG.CO2.ZG.AR5,Carbon dioxide (CO2) emissions,-4.587387502,-3.956408455,-6.055027574,0,0,0,0,1
+United States,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CO2.MT.CE.AR5,Carbon dioxide (CO2) emissions,4755.1838,4786.6306,4682.0394,0,0,0,0,1
+United States,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,Carbon dioxide (CO2) emissions,14.32073016,14.36255989,13.97978851,0,0,0,0,1
+United States,Carbon dioxide (CO2) emissions from Agriculture (Mt CO2e),EN.GHG.CO2.AG.MT.CE.AR5,Carbon dioxide (CO2) emissions,6.3594,6.3487,6.3151,0,0,0,0,1
+United States,Carbon dioxide (CO2) emissions from Building (Energy) (Mt CO2e),EN.GHG.CO2.BU.MT.CE.AR5,Carbon dioxide (CO2) emissions,563.2469,591.1872,594.953,0,0,0,0,1
+United States,Carbon dioxide (CO2) emissions from Fugitive Emissions (Energy) (Mt CO2e),EN.GHG.CO2.FE.MT.CE.AR5,Carbon dioxide (CO2) emissions,290.2534,294.5233,299.4196,0,0,0,0,1
+United States,Carbon dioxide (CO2) emissions from Industrial Combustion (Energy) (Mt CO2e),EN.GHG.CO2.IC.MT.CE.AR5,Carbon dioxide (CO2) emissions,445.7564,451.4372,444.5117,0,0,0,0,1
+United States,Carbon dioxide (CO2) emissions from Industrial Processes (Mt CO2e),EN.GHG.CO2.IP.MT.CE.AR5,Carbon dioxide (CO2) emissions,158.6825,163.5135,162.9106,0,0,0,0,1
+United States,Carbon dioxide (CO2) emissions from Power Industry (Energy) (Mt CO2e),EN.GHG.CO2.PI.MT.CE.AR5,Carbon dioxide (CO2) emissions,1627.2035,1580.1893,1463.2807,0,0,0,0,1
+United States,Carbon dioxide (CO2) emissions from Transport (Energy) (Mt CO2e),EN.GHG.CO2.TR.MT.CE.AR5,Carbon dioxide (CO2) emissions,1663.6783,1699.428,1710.6454,0,0,0,0,1
+United States,Carbon dioxide (CO2) emissions from Waste (Mt CO2e),EN.GHG.CO2.WA.MT.CE.AR5,Carbon dioxide (CO2) emissions,0.0034,0.0034,0.0034,0,0,0,0,1
+United States,Carbon intensity of GDP (kg CO2e per 2021 PPP $ of GDP),EN.GHG.CO2.RT.GDP.PP.KD,Carbon intensity of GDP,0.200800197,0.197174361,0.18745315,0,0,0,0,1
+United States,Carbon intensity of GDP (kg CO2e per constant 2015 US$ of GDP),EN.GHG.CO2.RT.GDP.KD,Carbon intensity of GDP,0.227326566,0.223221746,0.21221633,0,0,0,0,1
+United States,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,Educational attainment,95.25016785,96.48999786,97.84860992,0,0,0,0,1
+United States,"Educational attainment, at least completed lower secondary, population 25+, male (%) (cumulative)",SE.SEC.CUAT.LO.MA.ZS,Educational attainment,95.0670929,96.33000183,97.82904816,0,0,0,0,1
+United States,"Educational attainment, at least completed lower secondary, population 25+, female (%) (cumulative)",SE.SEC.CUAT.LO.FE.ZS,Educational attainment,95.42427826,96.65000153,97.86711884,0,0,0,0,1
+United States,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",SE.TER.CUAT.BA.ZS,Educational attainment,35.04922867,37.65999985,38.5680275,0,0,0,0,1
+United States,"Educational attainment, at least Bachelor's or equivalent, population 25+, male (%) (cumulative)",SE.TER.CUAT.BA.MA.ZS,Educational attainment,33.92657089,36.24000168,37.41342545,0,0,0,0,1
+United States,"Educational attainment, at least completed primary, population 25+ years, male (%) (cumulative)",SE.PRM.CUAT.MA.ZS,Educational attainment,97.21868896,98.94999695,99.68959045,0,0,0,0,1
+United States,"Educational attainment, at least completed primary, population 25+ years, total (%) (cumulative)",SE.PRM.CUAT.ZS,Educational attainment,97.28618622,99.02999878,99.65132904,0,0,0,0,1
+United States,"Educational attainment, at least completed short-cycle tertiary, population 25+, female (%) (cumulative)",SE.TER.CUAT.ST.FE.ZS,Educational attainment,49.846035,50.24000168,51.0278244,0,0,0,0,1
+United States,"Educational attainment, at least completed primary, population 25+ years, female (%) (cumulative)",SE.PRM.CUAT.FE.ZS,Educational attainment,97.35038757,99.09999847,99.61513519,0,0,0,0,1
+United States,"Educational attainment, at least Master's or equivalent, population 25+, total (%) (cumulative)",SE.TER.CUAT.MS.ZS,Educational attainment,14.22381401,14.22000027,14.78660965,0,0,0,0,1
+United States,"Educational attainment, Doctoral or equivalent, population 25+, total (%) (cumulative)",SE.TER.CUAT.DO.ZS,Educational attainment,2.118299961,2.140000105,2.195234776,0,0,0,0,1
+United States,"Employers, female (% of female employment) (modeled ILO estimate)",SL.EMP.MPYR.FE.ZS,Employment,1.27420725,1.223211094,1.181558698,0,0,0,0,1
+United States,"Employers, male (% of male employment) (modeled ILO estimate)",SL.EMP.MPYR.MA.ZS,Employment,3.781347827,3.608850979,3.468430495,0,0,0,0,1
+United States,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,Employment,1.662402861,1.620543798,1.569609917,0,0,0,0,1
+United States,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,Employment,0.993735663,0.992310789,0.986813617,0,0,0,0,1
+United States,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,Employment,2.21511457,2.141272049,2.059249682,0,0,0,0,1
+United States,F-gases emissions from Industrial Processes (Mt CO2e),EN.GHG.FGAS.IP.MT.CE.AR5,F-gases emissions from Industrial Processes (Mt CO2e),205.0458,210.4533,216.0088,0,0,0,0,1
+United States,Fixed broadband subscriptions,IT.NET.BBND,Fixed broadband subscriptions,126000000,128000000,131000000,0,0,0,0,1
+United States,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,Fixed broadband subscriptions,37.0074,37.4914,38.0508,0,0,0,0,1
+United States,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,Fuel indicator,15.92209481,21.41016561,18.67748725,0,0,0,0,1
+United States,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,Fuel indicator,7.628359259,9.565535676,8.412266163,0,0,0,0,1
+United States,Methane (CH4) emissions from Agriculture (Mt CO2e),EN.GHG.CH4.AG.MT.CE.AR5,Methane (CH4) emissions,259.9509,255.6978,254.9747,0,0,0,0,1
+United States,Methane (CH4) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CH4.MT.CE.AR5,Methane (CH4) emissions,833.7107,846.1833,861.3611,0,0,0,0,1
+United States,Methane (CH4) emissions from Building (Energy) (Mt CO2e),EN.GHG.CH4.BU.MT.CE.AR5,Methane (CH4) emissions,8.4966,9.1158,9.1688,0,0,0,0,1
+United States,Methane (CH4) emissions from Fugitive Emissions (Energy) (Mt CO2e),EN.GHG.CH4.FE.MT.CE.AR5,Methane (CH4) emissions,411.8391,426.9178,442.0622,0,0,0,0,1
+United States,Methane (CH4) emissions from Industrial Combustion (Energy) (Mt CO2e),EN.GHG.CH4.IC.MT.CE.AR5,Methane (CH4) emissions,1.553,1.4976,1.4794,0,0,0,0,1
+United States,Methane (CH4) emissions from Industrial Processes (Mt CO2e),EN.GHG.CH4.IP.MT.CE.AR5,Methane (CH4) emissions,1.0854,1.1362,1.1408,0,0,0,0,1
+United States,Methane (CH4) emissions from Power Industry (Energy) (Mt CO2e),EN.GHG.CH4.PI.MT.CE.AR5,Methane (CH4) emissions,1.9071,1.8884,1.9154,0,0,0,0,1
+United States,Methane (CH4) emissions from Transport (Energy) (Mt CO2e),EN.GHG.CH4.TR.MT.CE.AR5,Methane (CH4) emissions,3.5505,3.5976,3.6152,0,0,0,0,1
+United States,Methane (CH4) emissions from Waste (Mt CO2e),EN.GHG.CH4.WA.MT.CE.AR5,Methane (CH4) emissions,145.3282,146.3322,147.0045,0,0,0,0,1
+United States,Nitrous oxide (N2O) emissions from Waste (Mt CO2e),EN.GHG.N2O.WA.MT.CE.AR5,Nitrous oxide (N2O) emissions,9.2595,9.3973,9.537,0,0,0,0,1
+United States,Nitrous oxide (N2O) emissions from Transport (Energy) (Mt CO2e),EN.GHG.N2O.TR.MT.CE.AR5,Nitrous oxide (N2O) emissions,20.9738,21.3674,21.6431,0,0,0,0,1
+United States,Nitrous oxide (N2O) emissions from Power Industry (Energy) (Mt CO2e),EN.GHG.N2O.PI.MT.CE.AR5,Nitrous oxide (N2O) emissions,7.599,6.9986,5.8421,0,0,0,0,1
+United States,Nitrous oxide (N2O) emissions from Industrial Processes (Mt CO2e),EN.GHG.N2O.IP.MT.CE.AR5,Nitrous oxide (N2O) emissions,33.9071,34.8685,34.7728,0,0,0,0,1
+United States,Nitrous oxide (N2O) emissions from Industrial Combustion (Energy) (Mt CO2e),EN.GHG.N2O.IC.MT.CE.AR5,Nitrous oxide (N2O) emissions,2.0222,1.9514,1.9258,0,0,0,0,1
+United States,Nitrous oxide (N2O) emissions from Fugitive Emissions (Energy) (Mt CO2e),EN.GHG.N2O.FE.MT.CE.AR5,Nitrous oxide (N2O) emissions,0.2889,0.2812,0.2958,0,0,0,0,1
+United States,Nitrous oxide (N2O) emissions from Building (Energy) (Mt CO2e),EN.GHG.N2O.BU.MT.CE.AR5,Nitrous oxide (N2O) emissions,5.6725,5.8284,5.882,0,0,0,0,1
+United States,Nitrous oxide (N2O) emissions from Agriculture (Mt CO2e),EN.GHG.N2O.AG.MT.CE.AR5,Nitrous oxide (N2O) emissions,133.7699,132.1088,131.3947,0,0,0,0,1
+United States,Nitrous oxide (N2O) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.N2O.MT.CE.AR5,Nitrous oxide (N2O) emissions,213.493,212.8015,211.2933,0,0,0,0,1
+United States,Nitrous oxide (N2O) emissions (total) excluding LULUCF (% change from 1990),EN.GHG.N2O.ZG.AR5,Nitrous oxide (N2O) emissions,-3.385160108,-3.698093842,-4.38061974,0,0,0,0,1
+United States,Total greenhouse gas emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.ALL.PC.CE.AR5,Total greenhouse gas emissions,18.06254835,18.14201729,17.79796745,0,0,0,0,1
+United States,Total greenhouse gas emissions excluding LULUCF (Mt CO2e),EN.GHG.ALL.MT.CE.AR5,Total greenhouse gas emissions,5997.6507,6046.2157,5960.8044,0,0,0,0,1
+United States,Total greenhouse gas emissions excluding LULUCF (% change from 1990),EN.GHG.TOT.ZG.AR5,Total greenhouse gas emissions,-3.408503062,-2.626369143,-4.001908623,0,0,0,0,1
+Germany,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,Agriculture indicators,1.274992141,1.158877042,1.00865102,0,1,0,0,0
+Germany,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,Agriculture indicators,0.88240256,0.88709611,0.723593261,0,1,0,0,0
+Germany,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,Agriculture indicators,0.742181337,1.003958167,0.841992092,0,1,0,0,0
+Germany,"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Agriculture indicators,13.88000944,2.643117826,0.641628122,0,1,0,0,0
+Germany,"Agriculture, forestry, and fishing, value added (constant 2015 US$)",NV.AGR.TOTL.KD,Agriculture indicators,28277464926,29024871642,29211103381,0,1,0,0,0
+Germany,"Agriculture, forestry, and fishing, value added (constant LCU)",NV.AGR.TOTL.KN,Agriculture indicators,25486378000,26160013000,26327863000,0,1,0,0,0
+Germany,"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Agriculture indicators,27286000000,39695000000,35242000000,0,1,0,0,0
+Germany,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Agriculture indicators,32272252101,41800765691,38106068969,0,1,0,0,0
+Germany,"Agriculture, forestry, and fishing, value added per worker (constant 2015 US$)",NV.AGR.EMPL.KD,Agriculture indicators,54380.93844,54958.6171,57378.26094,0,1,0,0,0
+Germany,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,Armed forces,240000000,288000000,204000000,0,1,0,0,0
+Germany,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,Armed forces,857000000,1481000000,3287000000,0,1,0,0,0
+Germany,Carbon dioxide (CO2) emissions (total) excluding LULUCF (% change from 1990),EN.GHG.CO2.ZG.AR5,Carbon dioxide (CO2) emissions,-33.09153436,-34.89820061,-42.45484544,0,1,0,0,0
+Germany,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CO2.MT.CE.AR5,Carbon dioxide (CO2) emissions,677.8039,659.5018,582.9506,0,1,0,0,0
+Germany,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,Carbon dioxide (CO2) emissions,8.147065538,7.870139121,6.999887128,0,1,0,0,0
+Germany,Carbon dioxide (CO2) emissions from Agriculture (Mt CO2e),EN.GHG.CO2.AG.MT.CE.AR5,Carbon dioxide (CO2) emissions,0.6946,0.6193,0.566,0,1,0,0,0
+Germany,Carbon dioxide (CO2) emissions from Building (Energy) (Mt CO2e),EN.GHG.CO2.BU.MT.CE.AR5,Carbon dioxide (CO2) emissions,129.4108,128.6194,123.6489,0,1,0,0,0
+Germany,Carbon dioxide (CO2) emissions from Fugitive Emissions (Energy) (Mt CO2e),EN.GHG.CO2.FE.MT.CE.AR5,Carbon dioxide (CO2) emissions,28.7903,27.5219,24.0193,0,1,0,0,0
+Germany,Carbon dioxide (CO2) emissions from Industrial Combustion (Energy) (Mt CO2e),EN.GHG.CO2.IC.MT.CE.AR5,Carbon dioxide (CO2) emissions,92.6406,85.6557,78.2833,0,1,0,0,0
+Germany,Carbon dioxide (CO2) emissions from Industrial Processes (Mt CO2e),EN.GHG.CO2.IP.MT.CE.AR5,Carbon dioxide (CO2) emissions,45.3731,39.6942,39.1171,0,1,0,0,0
+Germany,Carbon dioxide (CO2) emissions from Power Industry (Energy) (Mt CO2e),EN.GHG.CO2.PI.MT.CE.AR5,Carbon dioxide (CO2) emissions,233.5864,229.6395,177.5638,0,1,0,0,0
+Germany,Carbon dioxide (CO2) emissions from Transport (Energy) (Mt CO2e),EN.GHG.CO2.TR.MT.CE.AR5,Carbon dioxide (CO2) emissions,147.2432,147.7071,139.7212,0,1,0,0,0
+Germany,Carbon dioxide (CO2) emissions from Waste (Mt CO2e),EN.GHG.CO2.WA.MT.CE.AR5,Carbon dioxide (CO2) emissions,0.0649,0.0448,0.0309,0,1,0,0,0
+Germany,Carbon intensity of GDP (kg CO2e per 2021 PPP $ of GDP),EN.GHG.CO2.RT.GDP.PP.KD,Carbon intensity of GDP,0.130406538,0.12517079,0.11093726,0,1,0,0,0
+Germany,Carbon intensity of GDP (kg CO2e per constant 2015 US$ of GDP),EN.GHG.CO2.RT.GDP.KD,Carbon intensity of GDP,0.185587553,0.178136318,0.157879925,0,1,0,0,0
+Germany,"Employers, female (% of female employment) (modeled ILO estimate)",SL.EMP.MPYR.FE.ZS,Employment,2.173550826,2.222008385,2.184000507,0,1,0,0,0
+Germany,"Employers, male (% of male employment) (modeled ILO estimate)",SL.EMP.MPYR.MA.ZS,Employment,5.647948587,5.696364721,5.547460167,0,1,0,0,0
+Germany,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,Employment,1.246156464,1.240231987,1.198706553,0,1,0,0,0
+Germany,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,Employment,0.929196221,0.885764029,0.820314781,0,1,0,0,0
+Germany,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,Employment,1.523159583,1.550150488,1.529761059,0,1,0,0,0
+Germany,F-gases emissions from Industrial Processes (Mt CO2e),EN.GHG.FGAS.IP.MT.CE.AR5,F-gases emissions from Industrial Processes (Mt CO2e),11.6421,10.7898,9.7942,0,1,0,0,0
+Germany,Fixed broadband subscriptions,IT.NET.BBND,Fixed broadband subscriptions,36900000,37500000,38400000,0,1,0,0,0
+Germany,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,Fixed broadband subscriptions,44.0643,44.6186,45.3805,0,1,0,0,0
+Germany,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,Fuel indicator,2.601562674,3.548770397,2.082009742,0,1,0,0,0
+Germany,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,Fuel indicator,8.720657358,12.67371836,8.633184056,0,1,0,0,0
+Germany,Methane (CH4) emissions from Agriculture (Mt CO2e),EN.GHG.CH4.AG.MT.CE.AR5,Methane (CH4) emissions,35.1418,34.4956,34.4947,0,1,0,0,0
+Germany,Methane (CH4) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CH4.MT.CE.AR5,Methane (CH4) emissions,62.396,61.0396,59.5685,0,1,0,0,0
+Germany,Methane (CH4) emissions from Building (Energy) (Mt CO2e),EN.GHG.CH4.BU.MT.CE.AR5,Methane (CH4) emissions,3.4484,3.408,3.3773,0,1,0,0,0
+Germany,Methane (CH4) emissions from Fugitive Emissions (Energy) (Mt CO2e),EN.GHG.CH4.FE.MT.CE.AR5,Methane (CH4) emissions,10.2364,10.3882,9.7332,0,1,0,0,0
+Germany,Methane (CH4) emissions from Industrial Combustion (Energy) (Mt CO2e),EN.GHG.CH4.IC.MT.CE.AR5,Methane (CH4) emissions,0.2208,0.2285,0.2201,0,1,0,0,0
+Germany,Methane (CH4) emissions from Industrial Processes (Mt CO2e),EN.GHG.CH4.IP.MT.CE.AR5,Methane (CH4) emissions,0.2765,0.2441,0.2353,0,1,0,0,0
+Germany,Methane (CH4) emissions from Power Industry (Energy) (Mt CO2e),EN.GHG.CH4.PI.MT.CE.AR5,Methane (CH4) emissions,0.4329,0.4082,0.3885,0,1,0,0,0
+Germany,Methane (CH4) emissions from Transport (Energy) (Mt CO2e),EN.GHG.CH4.TR.MT.CE.AR5,Methane (CH4) emissions,0.2128,0.2041,0.1905,0,1,0,0,0
+Germany,Methane (CH4) emissions from Waste (Mt CO2e),EN.GHG.CH4.WA.MT.CE.AR5,Methane (CH4) emissions,12.4265,11.6628,10.9289,0,1,0,0,0
+Germany,Nitrous oxide (N2O) emissions from Waste (Mt CO2e),EN.GHG.N2O.WA.MT.CE.AR5,Nitrous oxide (N2O) emissions,2.1963,2.2041,2.213,0,1,0,0,0
+Germany,Nitrous oxide (N2O) emissions from Transport (Energy) (Mt CO2e),EN.GHG.N2O.TR.MT.CE.AR5,Nitrous oxide (N2O) emissions,1.4625,1.4238,1.3452,0,1,0,0,0
+Germany,Nitrous oxide (N2O) emissions from Power Industry (Energy) (Mt CO2e),EN.GHG.N2O.PI.MT.CE.AR5,Nitrous oxide (N2O) emissions,1.7936,1.8652,1.4334,0,1,0,0,0
+Germany,Nitrous oxide (N2O) emissions from Industrial Processes (Mt CO2e),EN.GHG.N2O.IP.MT.CE.AR5,Nitrous oxide (N2O) emissions,4.9532,4.4227,4.1976,0,1,0,0,0
+Germany,Nitrous oxide (N2O) emissions from Industrial Combustion (Energy) (Mt CO2e),EN.GHG.N2O.IC.MT.CE.AR5,Nitrous oxide (N2O) emissions,0.2844,0.2946,0.2823,0,1,0,0,0
+Germany,Nitrous oxide (N2O) emissions from Fugitive Emissions (Energy) (Mt CO2e),EN.GHG.N2O.FE.MT.CE.AR5,Nitrous oxide (N2O) emissions,0.018,0.0189,0.0169,0,1,0,0,0
+Germany,Nitrous oxide (N2O) emissions from Building (Energy) (Mt CO2e),EN.GHG.N2O.BU.MT.CE.AR5,Nitrous oxide (N2O) emissions,1.1149,1.1302,1.0889,0,1,0,0,0
+Germany,Nitrous oxide (N2O) emissions from Agriculture (Mt CO2e),EN.GHG.N2O.AG.MT.CE.AR5,Nitrous oxide (N2O) emissions,20.6715,20.0874,19.665,0,1,0,0,0
+Germany,Nitrous oxide (N2O) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.N2O.MT.CE.AR5,Nitrous oxide (N2O) emissions,32.4945,31.4469,30.2422,0,1,0,0,0
+Germany,Nitrous oxide (N2O) emissions (total) excluding LULUCF (% change from 1990),EN.GHG.N2O.ZG.AR5,Nitrous oxide (N2O) emissions,-49.95310197,-51.56657903,-53.42201605,0,1,0,0,0
+Germany,Total greenhouse gas emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.ALL.PC.CE.AR5,Total greenhouse gas emissions,9.417374218,9.093100508,8.186963256,0,1,0,0,0
+Germany,Total greenhouse gas emissions excluding LULUCF (Mt CO2e),EN.GHG.ALL.MT.CE.AR5,Total greenhouse gas emissions,783.4886,761.9835,681.8103,0,1,0,0,0
+Germany,Total greenhouse gas emissions excluding LULUCF (% change from 1990),EN.GHG.TOT.ZG.AR5,Total greenhouse gas emissions,-36.6044664,-38.34453931,-44.8317081,0,1,0,0,0
+China,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,Agriculture indicators,2.651291541,2.688769587,2.622876219,1,0,0,0,0
+China,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,Agriculture indicators,0.339094401,0.381522057,0.36151663,1,0,0,0,0
+China,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,Agriculture indicators,7.241017469,7.321762465,7.12013561,1,0,0,0,0
+China,"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Agriculture indicators,7.073796365,4.203498818,4.052145404,1,0,0,0,0
+China,"Agriculture, forestry, and fishing, value added (constant 2015 US$)",NV.AGR.TOTL.KD,Agriculture indicators,1.17E+12,1.22E+12,1.27E+12,1,0,0,0,0
+China,"Agriculture, forestry, and fishing, value added (constant LCU)",NV.AGR.TOTL.KN,Agriculture indicators,8.36E+12,8.71E+12,9.06E+12,1,0,0,0,0
+China,"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Agriculture indicators,8.32E+12,8.82E+12,8.98E+12,1,0,0,0,0
+China,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Agriculture indicators,1.29E+12,1.31E+12,1.27E+12,1,0,0,0,0
+China,"Agriculture, forestry, and fishing, value added per worker (constant 2015 US$)",NV.AGR.EMPL.KD,Agriculture indicators,6727.528076,7341.601216,7713.734059,1,0,0,0,0
+China,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,Armed forces,686000000,717000000,471000000,1,0,0,0,0
+China,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,Armed forces,1310000000,2083000000,2432000000,1,0,0,0,0
+China,Broad money (% of GDP),FM.LBL.BMNY.GD.ZS,Broad money,203.8378734,217.1287767,227.9445732,1,0,0,0,0
+China,Broad money (current LCU),FM.LBL.BMNY.CN,Broad money,2.34E+14,2.62E+14,2.87E+14,1,0,0,0,0
+China,Broad money growth (annual %),FM.LBL.BMNY.ZG,Broad money,9.075745734,11.66330022,9.848834535,1,0,0,0,0
+China,Broad money to total reserves ratio,FM.LBL.BMNY.IR.ZS,Broad money,10.59672482,11.74127048,11.75872445,1,0,0,0,0
+China,Carbon dioxide (CO2) emissions (total) excluding LULUCF (% change from 1990),EN.GHG.CO2.ZG.AR5,Carbon dioxide (CO2) emissions,422.7900552,418.8638989,449.217162,1,0,0,0,0
+China,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CO2.MT.CE.AR5,Carbon dioxide (CO2) emissions,12621.6147,12526.8263,13259.639,1,0,0,0,0
+China,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,Carbon dioxide (CO2) emissions,8.936542171,8.870590614,9.399266327,1,0,0,0,0
+China,Carbon dioxide (CO2) emissions from Agriculture (Mt CO2e),EN.GHG.CO2.AG.MT.CE.AR5,Carbon dioxide (CO2) emissions,15.9153,15.4808,15.0616,1,0,0,0,0
+China,Carbon dioxide (CO2) emissions from Building (Energy) (Mt CO2e),EN.GHG.CO2.BU.MT.CE.AR5,Carbon dioxide (CO2) emissions,597.5237,609.6716,655.4274,1,0,0,0,0
+China,Carbon dioxide (CO2) emissions from Fugitive Emissions (Energy) (Mt CO2e),EN.GHG.CO2.FE.MT.CE.AR5,Carbon dioxide (CO2) emissions,697.8658,678.1146,706.7156,1,0,0,0,0
+China,Carbon dioxide (CO2) emissions from Industrial Combustion (Energy) (Mt CO2e),EN.GHG.CO2.IC.MT.CE.AR5,Carbon dioxide (CO2) emissions,2832.323,2725.5225,2874.023,1,0,0,0,0
+China,Carbon dioxide (CO2) emissions from Industrial Processes (Mt CO2e),EN.GHG.CO2.IP.MT.CE.AR5,Carbon dioxide (CO2) emissions,1561.9761,1472.2666,1454.067,1,0,0,0,0
+China,Carbon dioxide (CO2) emissions from Power Industry (Energy) (Mt CO2e),EN.GHG.CO2.PI.MT.CE.AR5,Carbon dioxide (CO2) emissions,5943.0808,6093.1257,6472.9471,1,0,0,0,0
+China,Carbon dioxide (CO2) emissions from Transport (Energy) (Mt CO2e),EN.GHG.CO2.TR.MT.CE.AR5,Carbon dioxide (CO2) emissions,969.4479,929.0863,1077.7615,1,0,0,0,0
+China,Carbon dioxide (CO2) emissions from Waste (Mt CO2e),EN.GHG.CO2.WA.MT.CE.AR5,Carbon dioxide (CO2) emissions,3.4822,3.5582,3.6358,1,0,0,0,0
+China,Carbon intensity of GDP (kg CO2e per 2021 PPP $ of GDP),EN.GHG.CO2.RT.GDP.PP.KD,Carbon intensity of GDP,0.437921329,0.422175531,0.424583803,1,0,0,0,0
+China,Carbon intensity of GDP (kg CO2e per constant 2015 US$ of GDP),EN.GHG.CO2.RT.GDP.KD,Carbon intensity of GDP,0.796252236,0.767622375,0.772001226,1,0,0,0,0
+China,"Employers, female (% of female employment) (modeled ILO estimate)",SL.EMP.MPYR.FE.ZS,Employment,2.848208697,2.852014091,2.838119688,1,0,0,0,0
+China,"Employers, male (% of male employment) (modeled ILO estimate)",SL.EMP.MPYR.MA.ZS,Employment,5.07099753,5.040436391,5.025688627,1,0,0,0,0
+China,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,Employment,23.38954394,22.75769173,22.33370987,1,0,0,0,0
+China,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,Employment,19.65842435,18.9842984,18.59735241,1,0,0,0,0
+China,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,Employment,26.49147685,25.89031283,25.43700037,1,0,0,0,0
+China,F-gases emissions from Industrial Processes (Mt CO2e),EN.GHG.FGAS.IP.MT.CE.AR5,F-gases emissions from Industrial Processes (Mt CO2e),439.9402,460.9222,481.6056,1,0,0,0,0
+China,Fixed broadband subscriptions,IT.NET.BBND,Fixed broadband subscriptions,536000000,590000000,636000000,1,0,0,0,0
+China,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,Fixed broadband subscriptions,37.5612,41.3736,44.7289,1,0,0,0,0
+China,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,Fuel indicator,1.291705371,1.790090113,1.807564321,1,0,0,0,0
+China,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,Fuel indicator,16.05865266,20.63436179,21.03325414,1,0,0,0,0
+China,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,Investment,264410000,563400000,38416240000,1,0,0,0,0
+China,Investment in water and sanitation with private participation (current US$),IE.PPI.WATR.CD,Investment,3654630000,937080000,286060000,1,0,0,0,0
+China,Methane (CH4) emissions from Agriculture (Mt CO2e),EN.GHG.CH4.AG.MT.CE.AR5,Methane (CH4) emissions,641.6835,636.3101,631.2643,1,0,0,0,0
+China,Methane (CH4) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CH4.MT.CE.AR5,Methane (CH4) emissions,1730.3302,1790.0736,1814.2071,1,0,0,0,0
+China,Methane (CH4) emissions from Building (Energy) (Mt CO2e),EN.GHG.CH4.BU.MT.CE.AR5,Methane (CH4) emissions,44.7425,42.6582,43.5899,1,0,0,0,0
+China,Methane (CH4) emissions from Fugitive Emissions (Energy) (Mt CO2e),EN.GHG.CH4.FE.MT.CE.AR5,Methane (CH4) emissions,664.2618,720.5926,734.8163,1,0,0,0,0
+China,Methane (CH4) emissions from Industrial Combustion (Energy) (Mt CO2e),EN.GHG.CH4.IC.MT.CE.AR5,Methane (CH4) emissions,4.3455,4.1785,4.391,1,0,0,0,0
+China,Methane (CH4) emissions from Industrial Processes (Mt CO2e),EN.GHG.CH4.IP.MT.CE.AR5,Methane (CH4) emissions,7.7425,7.64,7.9872,1,0,0,0,0
+China,Methane (CH4) emissions from Power Industry (Energy) (Mt CO2e),EN.GHG.CH4.PI.MT.CE.AR5,Methane (CH4) emissions,3.5937,3.8518,3.9361,1,0,0,0,0
+China,Methane (CH4) emissions from Transport (Energy) (Mt CO2e),EN.GHG.CH4.TR.MT.CE.AR5,Methane (CH4) emissions,5.5531,5.8216,6.4053,1,0,0,0,0
+China,Methane (CH4) emissions from Waste (Mt CO2e),EN.GHG.CH4.WA.MT.CE.AR5,Methane (CH4) emissions,358.4076,369.0207,381.8169,1,0,0,0,0
+China,Nitrous oxide (N2O) emissions from Waste (Mt CO2e),EN.GHG.N2O.WA.MT.CE.AR5,Nitrous oxide (N2O) emissions,26.5841,26.97,27.3616,1,0,0,0,0
+China,Nitrous oxide (N2O) emissions from Transport (Energy) (Mt CO2e),EN.GHG.N2O.TR.MT.CE.AR5,Nitrous oxide (N2O) emissions,22.3793,23.6172,26.0113,1,0,0,0,0
+China,Nitrous oxide (N2O) emissions from Power Industry (Energy) (Mt CO2e),EN.GHG.N2O.PI.MT.CE.AR5,Nitrous oxide (N2O) emissions,58.9146,59.9538,63.5074,1,0,0,0,0
+China,Nitrous oxide (N2O) emissions from Industrial Processes (Mt CO2e),EN.GHG.N2O.IP.MT.CE.AR5,Nitrous oxide (N2O) emissions,37.7187,37.2559,40.6329,1,0,0,0,0
+China,Nitrous oxide (N2O) emissions from Industrial Combustion (Energy) (Mt CO2e),EN.GHG.N2O.IC.MT.CE.AR5,Nitrous oxide (N2O) emissions,6.3624,6.1164,6.4257,1,0,0,0,0
+China,Nitrous oxide (N2O) emissions from Fugitive Emissions (Energy) (Mt CO2e),EN.GHG.N2O.FE.MT.CE.AR5,Nitrous oxide (N2O) emissions,0.7661,0.7606,0.7963,1,0,0,0,0
+China,Nitrous oxide (N2O) emissions from Building (Energy) (Mt CO2e),EN.GHG.N2O.BU.MT.CE.AR5,Nitrous oxide (N2O) emissions,10.5733,10.403,11.1467,1,0,0,0,0
+China,Nitrous oxide (N2O) emissions from Agriculture (Mt CO2e),EN.GHG.N2O.AG.MT.CE.AR5,Nitrous oxide (N2O) emissions,244.8609,241.8689,238.6565,1,0,0,0,0
+China,Nitrous oxide (N2O) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.N2O.MT.CE.AR5,Nitrous oxide (N2O) emissions,408.1595,406.946,414.5383,1,0,0,0,0
+China,Nitrous oxide (N2O) emissions (total) excluding LULUCF (% change from 1990),EN.GHG.N2O.ZG.AR5,Nitrous oxide (N2O) emissions,47.77823679,47.33887695,50.08774525,1,0,0,0,0
+China,Total greenhouse gas emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.ALL.PC.CE.AR5,Total greenhouse gas emissions,10.74486611,10.7349599,11.30210079,1,0,0,0,0
+China,Total greenhouse gas emissions excluding LULUCF (Mt CO2e),EN.GHG.ALL.MT.CE.AR5,Total greenhouse gas emissions,15175.6191,15159.642,15943.9866,1,0,0,0,0
+China,Total greenhouse gas emissions excluding LULUCF (% change from 1990),EN.GHG.TOT.ZG.AR5,Total greenhouse gas emissions,291.4886715,291.0765068,311.3104112,1,0,0,0,0
+Japan,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,Agriculture indicators,1.56655189,1.564168922,1.54130141,0,0,0,1,0
+Japan,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,Agriculture indicators,0.629600267,0.598268644,0.54469766,0,0,0,1,0
+Japan,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,Armed forces,1112000000,1569000000,1103000000,0,0,0,1,0
+Japan,Broad money (% of GDP),FM.LBL.BMNY.GD.ZS,Broad money,281.9455368,284.665258,275.5569422,0,0,0,1,0
+Japan,Broad money (current LCU),FM.LBL.BMNY.CN,Broad money,1.56E+15,1.59E+15,1.63E+15,0,0,0,1,0
+Japan,Broad money growth (annual %),FM.LBL.BMNY.ZG,Broad money,2.945157822,2.268993929,2.158940293,0,0,0,1,0
+Japan,Broad money to total reserves ratio,FM.LBL.BMNY.IR.ZS,Broad money,10.09774055,9.870305126,8.949061357,0,0,0,1,0
+Japan,Carbon dioxide (CO2) emissions (total) excluding LULUCF (% change from 1990),EN.GHG.CO2.ZG.AR5,Carbon dioxide (CO2) emissions,-7.019235211,-13.44204784,-19.03158978,0,0,0,1,0
+Japan,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CO2.MT.CE.AR5,Carbon dioxide (CO2) emissions,1084.9216,1009.9787,944.7586,0,0,0,1,0
+Japan,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,Carbon dioxide (CO2) emissions,8.632303061,8.071758552,7.587407788,0,0,0,1,0
+Japan,Carbon dioxide (CO2) emissions from Agriculture (Mt CO2e),EN.GHG.CO2.AG.MT.CE.AR5,Carbon dioxide (CO2) emissions,0.6106,0.5789,0.5735,0,0,0,1,0
+Japan,Carbon dioxide (CO2) emissions from Building (Energy) (Mt CO2e),EN.GHG.CO2.BU.MT.CE.AR5,Carbon dioxide (CO2) emissions,117.2812,115.1589,109.0518,0,0,0,1,0
+Japan,Carbon dioxide (CO2) emissions from Fugitive Emissions (Energy) (Mt CO2e),EN.GHG.CO2.FE.MT.CE.AR5,Carbon dioxide (CO2) emissions,46.1495,36.4151,32.2261,0,0,0,1,0
+Japan,Carbon dioxide (CO2) emissions from Industrial Combustion (Energy) (Mt CO2e),EN.GHG.CO2.IC.MT.CE.AR5,Carbon dioxide (CO2) emissions,181.6138,165.4265,155.2297,0,0,0,1,0
+Japan,Carbon dioxide (CO2) emissions from Industrial Processes (Mt CO2e),EN.GHG.CO2.IP.MT.CE.AR5,Carbon dioxide (CO2) emissions,70.8153,69.6834,66.9196,0,0,0,1,0
+Japan,Carbon dioxide (CO2) emissions from Power Industry (Energy) (Mt CO2e),EN.GHG.CO2.PI.MT.CE.AR5,Carbon dioxide (CO2) emissions,481.8858,432.8552,397.904,0,0,0,1,0
+Japan,Carbon dioxide (CO2) emissions from Transport (Energy) (Mt CO2e),EN.GHG.CO2.TR.MT.CE.AR5,Carbon dioxide (CO2) emissions,183.2351,186.5865,179.633,0,0,0,1,0
+Japan,Carbon dioxide (CO2) emissions from Waste (Mt CO2e),EN.GHG.CO2.WA.MT.CE.AR5,Carbon dioxide (CO2) emissions,3.3304,3.2744,3.221,0,0,0,1,0
+Japan,Carbon intensity of GDP (kg CO2e per 2021 PPP $ of GDP),EN.GHG.CO2.RT.GDP.PP.KD,Carbon intensity of GDP,0.194650703,0.179491189,0.165127887,0,0,0,1,0
+Japan,Carbon intensity of GDP (kg CO2e per constant 2015 US$ of GDP),EN.GHG.CO2.RT.GDP.KD,Carbon intensity of GDP,0.241791357,0.2229605,0.205118683,0,0,0,1,0
+Japan,"Employers, female (% of female employment) (modeled ILO estimate)",SL.EMP.MPYR.FE.ZS,Employment,0.680671179,0.6858825,0.690260239,0,0,0,1,0
+Japan,"Employers, male (% of male employment) (modeled ILO estimate)",SL.EMP.MPYR.MA.ZS,Employment,2.519287066,2.431863351,2.388892773,0,0,0,1,0
+Japan,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,Employment,3.058970017,3.100891967,3.005134765,0,0,0,1,0
+Japan,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,Employment,2.550766519,2.569051617,2.439688929,0,0,0,1,0
+Japan,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,Employment,3.466425554,3.531683648,3.468910136,0,0,0,1,0
+Japan,F-gases emissions from Industrial Processes (Mt CO2e),EN.GHG.FGAS.IP.MT.CE.AR5,F-gases emissions from Industrial Processes (Mt CO2e),22.5426,22.937,23.2966,0,0,0,1,0
+Japan,Fixed broadband subscriptions,IT.NET.BBND,Fixed broadband subscriptions,45200000,46100000,47900000,0,0,0,1,0
+Japan,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,Fixed broadband subscriptions,35.9392,36.8414,38.5463,0,0,0,1,0
+Japan,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,Fuel indicator,1.351058887,2.443927942,1.772621346,0,0,0,1,0
+Japan,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,Fuel indicator,20.0353004,28.33917985,25.89489655,0,0,0,1,0
+Japan,Methane (CH4) emissions from Agriculture (Mt CO2e),EN.GHG.CH4.AG.MT.CE.AR5,Methane (CH4) emissions,43.6832,44.9321,44.0957,0,0,0,1,0
+Japan,Methane (CH4) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CH4.MT.CE.AR5,Methane (CH4) emissions,58.0109,58.8479,57.6414,0,0,0,1,0
+Japan,Methane (CH4) emissions from Building (Energy) (Mt CO2e),EN.GHG.CH4.BU.MT.CE.AR5,Methane (CH4) emissions,1.0825,1.0708,1.0465,0,0,0,1,0
+Japan,Methane (CH4) emissions from Fugitive Emissions (Energy) (Mt CO2e),EN.GHG.CH4.FE.MT.CE.AR5,Methane (CH4) emissions,3.7622,3.7216,3.6627,0,0,0,1,0
+Japan,Methane (CH4) emissions from Industrial Combustion (Energy) (Mt CO2e),EN.GHG.CH4.IC.MT.CE.AR5,Methane (CH4) emissions,0.3458,0.314,0.3034,0,0,0,1,0
+Japan,Methane (CH4) emissions from Industrial Processes (Mt CO2e),EN.GHG.CH4.IP.MT.CE.AR5,Methane (CH4) emissions,0.5616,0.5254,0.5106,0,0,0,1,0
+Japan,Methane (CH4) emissions from Power Industry (Energy) (Mt CO2e),EN.GHG.CH4.PI.MT.CE.AR5,Methane (CH4) emissions,0.6641,0.6435,0.6174,0,0,0,1,0
+Japan,Methane (CH4) emissions from Transport (Energy) (Mt CO2e),EN.GHG.CH4.TR.MT.CE.AR5,Methane (CH4) emissions,0.4872,0.4908,0.4691,0,0,0,1,0
+Japan,Methane (CH4) emissions from Waste (Mt CO2e),EN.GHG.CH4.WA.MT.CE.AR5,Methane (CH4) emissions,7.4242,7.1497,6.936,0,0,0,1,0
+Japan,Nitrous oxide (N2O) emissions from Waste (Mt CO2e),EN.GHG.N2O.WA.MT.CE.AR5,Nitrous oxide (N2O) emissions,2.0998,2.0891,2.0787,0,0,0,1,0
+Japan,Nitrous oxide (N2O) emissions from Transport (Energy) (Mt CO2e),EN.GHG.N2O.TR.MT.CE.AR5,Nitrous oxide (N2O) emissions,1.9174,1.9327,1.8599,0,0,0,1,0
+Japan,Nitrous oxide (N2O) emissions from Power Industry (Energy) (Mt CO2e),EN.GHG.N2O.PI.MT.CE.AR5,Nitrous oxide (N2O) emissions,2.7879,2.4443,2.3062,0,0,0,1,0
+Japan,Nitrous oxide (N2O) emissions from Industrial Processes (Mt CO2e),EN.GHG.N2O.IP.MT.CE.AR5,Nitrous oxide (N2O) emissions,3.2243,3.1583,2.9705,0,0,0,1,0
+Japan,Nitrous oxide (N2O) emissions from Industrial Combustion (Energy) (Mt CO2e),EN.GHG.N2O.IC.MT.CE.AR5,Nitrous oxide (N2O) emissions,0.4846,0.4384,0.4231,0,0,0,1,0
+Japan,Nitrous oxide (N2O) emissions from Fugitive Emissions (Energy) (Mt CO2e),EN.GHG.N2O.FE.MT.CE.AR5,Nitrous oxide (N2O) emissions,0.0233,0.0239,0.0225,0,0,0,1,0
+Japan,Nitrous oxide (N2O) emissions from Building (Energy) (Mt CO2e),EN.GHG.N2O.BU.MT.CE.AR5,Nitrous oxide (N2O) emissions,0.987,0.9835,0.9457,0,0,0,1,0
+Japan,Nitrous oxide (N2O) emissions from Agriculture (Mt CO2e),EN.GHG.N2O.AG.MT.CE.AR5,Nitrous oxide (N2O) emissions,5.3035,5.2547,5.2071,0,0,0,1,0
+Japan,Nitrous oxide (N2O) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.N2O.MT.CE.AR5,Nitrous oxide (N2O) emissions,16.8278,16.3249,15.8136,0,0,0,1,0
+Japan,Nitrous oxide (N2O) emissions (total) excluding LULUCF (% change from 1990),EN.GHG.N2O.ZG.AR5,Nitrous oxide (N2O) emissions,-41.13869369,-42.89776801,-44.68622437,0,0,0,1,0
+Japan,Total greenhouse gas emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.ALL.PC.CE.AR5,Total greenhouse gas emissions,9.402885274,8.851755424,8.360430513,0,0,0,1,0
+Japan,Total greenhouse gas emissions excluding LULUCF (Mt CO2e),EN.GHG.ALL.MT.CE.AR5,Total greenhouse gas emissions,1181.7696,1107.5758,1041.0128,0,0,0,1,0
+Japan,Total greenhouse gas emissions excluding LULUCF (% change from 1990),EN.GHG.TOT.ZG.AR5,Total greenhouse gas emissions,-10.28291445,-15.91552803,-20.96882976,0,0,0,1,0
+India,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,Agriculture indicators,1.645537185,1.653797856,1.474559517,0,0,1,0,0
+India,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,Agriculture indicators,1.469019953,0.942789379,0.822662154,0,0,1,0,0
+India,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,Agriculture indicators,17.37256153,16.63943104,15.99836213,0,0,1,0,0
+India,"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Agriculture indicators,4.623155625,4.706865982,1.440475012,0,0,1,0,0
+India,"Agriculture, forestry, and fishing, value added (constant 2015 US$)",NV.AGR.TOTL.KD,Agriculture indicators,4.57E+11,4.78E+11,4.85E+11,0,0,1,0,0
+India,"Agriculture, forestry, and fishing, value added (constant LCU)",NV.AGR.TOTL.KN,Agriculture indicators,2.17E+13,2.27E+13,2.30E+13,0,0,1,0,0
+India,"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Agriculture indicators,4.10E+13,4.48E+13,4.73E+13,0,0,1,0,0
+India,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Agriculture indicators,5.50E+11,5.58E+11,5.71E+11,0,0,1,0,0
+India,"Agriculture, forestry, and fishing, value added per worker (constant 2015 US$)",NV.AGR.EMPL.KD,Agriculture indicators,2011.637165,2061.223438,1975.918379,0,0,1,0,0
+India,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,Armed forces,3959000000,2582000000,1428000000,0,0,1,0,0
+India,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,Armed forces,54000000,7000000,34000000,0,0,1,0,0
+India,Battle-related deaths (number of people),VC.BTL.DETH,Armed forces,430,310,217,0,0,1,0,0
+India,Carbon dioxide (CO2) emissions (total) excluding LULUCF (% change from 1990),EN.GHG.CO2.ZG.AR5,Carbon dioxide (CO2) emissions,324.2612254,356.2807637,391.9667354,0,0,1,0,0
+India,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CO2.MT.CE.AR5,Carbon dioxide (CO2) emissions,2548.4833,2740.8206,2955.1817,0,0,1,0,0
+India,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,Carbon dioxide (CO2) emissions,1.802062141,1.92281182,2.054964313,0,0,1,0,0
+India,Carbon dioxide (CO2) emissions from Agriculture (Mt CO2e),EN.GHG.CO2.AG.MT.CE.AR5,Carbon dioxide (CO2) emissions,29.2446,29.9048,30.5827,0,0,1,0,0
+India,Carbon dioxide (CO2) emissions from Building (Energy) (Mt CO2e),EN.GHG.CO2.BU.MT.CE.AR5,Carbon dioxide (CO2) emissions,201.1516,208.8407,221.7591,0,0,1,0,0
+India,Carbon dioxide (CO2) emissions from Fugitive Emissions (Energy) (Mt CO2e),EN.GHG.CO2.FE.MT.CE.AR5,Carbon dioxide (CO2) emissions,91.5567,121.3264,129.1678,0,0,1,0,0
+India,Carbon dioxide (CO2) emissions from Industrial Combustion (Energy) (Mt CO2e),EN.GHG.CO2.IC.MT.CE.AR5,Carbon dioxide (CO2) emissions,559.3889,568.7255,619.0166,0,0,1,0,0
+India,Carbon dioxide (CO2) emissions from Industrial Processes (Mt CO2e),EN.GHG.CO2.IP.MT.CE.AR5,Carbon dioxide (CO2) emissions,206.3263,222.7196,237.9015,0,0,1,0,0
+India,Carbon dioxide (CO2) emissions from Power Industry (Energy) (Mt CO2e),EN.GHG.CO2.PI.MT.CE.AR5,Carbon dioxide (CO2) emissions,1165.7218,1265.6946,1376.9935,0,0,1,0,0
+India,Carbon dioxide (CO2) emissions from Transport (Energy) (Mt CO2e),EN.GHG.CO2.TR.MT.CE.AR5,Carbon dioxide (CO2) emissions,295.0934,323.609,339.7606,0,0,1,0,0
+India,Carbon intensity of GDP (kg CO2e per 2021 PPP $ of GDP),EN.GHG.CO2.RT.GDP.PP.KD,Carbon intensity of GDP,0.223858134,0.225030056,0.224339523,0,0,1,0,0
+India,Carbon intensity of GDP (kg CO2e per constant 2015 US$ of GDP),EN.GHG.CO2.RT.GDP.KD,Carbon intensity of GDP,0.916935577,0.921735835,0.918907373,0,0,1,0,0
+India,"Educational attainment, at least completed post-secondary, population 25+, female (%) (cumulative)",SE.SEC.CUAT.PO.FE.ZS,Educational attainment,10.49464893,10.32999992,11.38000011,0,0,1,0,0
+India,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,Educational attainment,50.75631332,49.75,52.16999817,0,0,1,0,0
+India,"Educational attainment, at least completed lower secondary, population 25+, male (%) (cumulative)",SE.SEC.CUAT.LO.MA.ZS,Educational attainment,60.50924301,58.65999985,61.09000015,0,0,1,0,0
+India,"Educational attainment, at least completed lower secondary, population 25+, female (%) (cumulative)",SE.SEC.CUAT.LO.FE.ZS,Educational attainment,41.2036438,40.95999908,43.5,0,0,1,0,0
+India,"Educational attainment, at least completed primary, population 25+ years, male (%) (cumulative)",SE.PRM.CUAT.MA.ZS,Educational attainment,73.24389648,71.81999969,74.73999786,0,0,1,0,0
+India,"Educational attainment, at least completed primary, population 25+ years, total (%) (cumulative)",SE.PRM.CUAT.ZS,Educational attainment,63.30651093,62.81999969,65.58000183,0,0,1,0,0
+India,"Educational attainment, at least completed primary, population 25+ years, female (%) (cumulative)",SE.PRM.CUAT.FE.ZS,Educational attainment,53.57353973,53.93999863,56.68000031,0,0,1,0,0
+India,"Educational attainment, at least completed post-secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.PO.ZS,Educational attainment,13.54187679,13.23999977,14.43999958,0,0,1,0,0
+India,"Educational attainment, at least completed post-secondary, population 25+, male (%) (cumulative)",SE.SEC.CUAT.PO.MA.ZS,Educational attainment,16.65446663,16.18000031,17.60000038,0,0,1,0,0
+India,"Educational attainment, Doctoral or equivalent, population 25+, total (%) (cumulative)",SE.TER.CUAT.DO.ZS,Educational attainment,3.320916176,3.162196159,3.486839771,0,0,1,0,0
+India,"Employers, female (% of female employment) (modeled ILO estimate)",SL.EMP.MPYR.FE.ZS,Employment,0.455762013,0.691449496,0.503651496,0,0,1,0,0
+India,"Employers, male (% of male employment) (modeled ILO estimate)",SL.EMP.MPYR.MA.ZS,Employment,2.67643078,3.664269215,4.465886292,0,0,1,0,0
+India,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,Employment,44.07919279,42.86099759,43.51358293,0,0,1,0,0
+India,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,Employment,59.30080437,59.15105248,61.4874954,0,0,1,0,0
+India,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,Employment,38.75278836,36.89347791,36.5873192,0,0,1,0,0
+India,F-gases emissions from Industrial Processes (Mt CO2e),EN.GHG.FGAS.IP.MT.CE.AR5,F-gases emissions from Industrial Processes (Mt CO2e),61.7777,65.2838,68.7456,0,0,1,0,0
+India,Fixed broadband subscriptions,IT.NET.BBND,Fixed broadband subscriptions,27600000,33500000,39300000,0,0,1,0,0
+India,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,Fuel indicator,14.28465927,21.75246519,20.70590821,0,0,1,0,0
+India,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,Fuel indicator,29.87284032,37.84440371,33.2009829,0,0,1,0,0
+India,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,Investment,1621240000,2469730000,4467300000,0,0,1,0,0
+India,Methane (CH4) emissions from Agriculture (Mt CO2e),EN.GHG.CH4.AG.MT.CE.AR5,Methane (CH4) emissions,564.886,567.0297,567.5592,0,0,1,0,0
+India,Methane (CH4) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CH4.MT.CE.AR5,Methane (CH4) emissions,822.2417,836.7582,848.5349,0,0,1,0,0
+India,Methane (CH4) emissions from Building (Energy) (Mt CO2e),EN.GHG.CH4.BU.MT.CE.AR5,Methane (CH4) emissions,38.6344,38.6783,38.9994,0,0,1,0,0
+India,Methane (CH4) emissions from Fugitive Emissions (Energy) (Mt CO2e),EN.GHG.CH4.FE.MT.CE.AR5,Methane (CH4) emissions,81.3226,92.4429,100.4239,0,0,1,0,0
+India,Methane (CH4) emissions from Industrial Combustion (Energy) (Mt CO2e),EN.GHG.CH4.IC.MT.CE.AR5,Methane (CH4) emissions,3.8605,4.0664,4.1663,0,0,1,0,0
+India,Methane (CH4) emissions from Industrial Processes (Mt CO2e),EN.GHG.CH4.IP.MT.CE.AR5,Methane (CH4) emissions,0.369,0.3892,0.4246,0,0,1,0,0
+India,Methane (CH4) emissions from Power Industry (Energy) (Mt CO2e),EN.GHG.CH4.PI.MT.CE.AR5,Methane (CH4) emissions,0.9765,1.0625,1.0996,0,0,1,0,0
+India,Methane (CH4) emissions from Transport (Energy) (Mt CO2e),EN.GHG.CH4.TR.MT.CE.AR5,Methane (CH4) emissions,1.9601,2.1225,2.2405,0,0,1,0,0
+India,Methane (CH4) emissions from Waste (Mt CO2e),EN.GHG.CH4.WA.MT.CE.AR5,Methane (CH4) emissions,130.2326,130.9667,133.6213,0,0,1,0,0
+India,Nitrous oxide (N2O) emissions from Waste (Mt CO2e),EN.GHG.N2O.WA.MT.CE.AR5,Nitrous oxide (N2O) emissions,16.2212,16.4921,16.7675,0,0,1,0,0
+India,Nitrous oxide (N2O) emissions from Transport (Energy) (Mt CO2e),EN.GHG.N2O.TR.MT.CE.AR5,Nitrous oxide (N2O) emissions,6.6001,6.894,7.2736,0,0,1,0,0
+India,Nitrous oxide (N2O) emissions from Power Industry (Energy) (Mt CO2e),EN.GHG.N2O.PI.MT.CE.AR5,Nitrous oxide (N2O) emissions,19.1325,21.2369,23.0012,0,0,1,0,0
+India,Nitrous oxide (N2O) emissions from Industrial Processes (Mt CO2e),EN.GHG.N2O.IP.MT.CE.AR5,Nitrous oxide (N2O) emissions,15.495,15.9703,16.6866,0,0,1,0,0
+India,Nitrous oxide (N2O) emissions from Industrial Combustion (Energy) (Mt CO2e),EN.GHG.N2O.IC.MT.CE.AR5,Nitrous oxide (N2O) emissions,4.9726,5.2334,5.3716,0,0,1,0,0
+India,Nitrous oxide (N2O) emissions from Fugitive Emissions (Energy) (Mt CO2e),EN.GHG.N2O.FE.MT.CE.AR5,Nitrous oxide (N2O) emissions,0.1873,0.1863,0.1875,0,0,1,0,0
+India,Nitrous oxide (N2O) emissions from Building (Energy) (Mt CO2e),EN.GHG.N2O.BU.MT.CE.AR5,Nitrous oxide (N2O) emissions,7.9476,8.199,8.3893,0,0,1,0,0
+India,Nitrous oxide (N2O) emissions from Agriculture (Mt CO2e),EN.GHG.N2O.AG.MT.CE.AR5,Nitrous oxide (N2O) emissions,185.5118,188.8937,192.3537,0,0,1,0,0
+India,Nitrous oxide (N2O) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.N2O.MT.CE.AR5,Nitrous oxide (N2O) emissions,256.068,263.1057,270.031,0,0,1,0,0
+India,Nitrous oxide (N2O) emissions (total) excluding LULUCF (% change from 1990),EN.GHG.N2O.ZG.AR5,Nitrous oxide (N2O) emissions,101.2744521,106.8062218,112.249643,0,0,1,0,0
+India,Total greenhouse gas emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.ALL.PC.CE.AR5,Total greenhouse gas emissions,2.602073018,2.734071514,2.874377159,0,0,1,0,0
+India,Total greenhouse gas emissions excluding LULUCF (Mt CO2e),EN.GHG.ALL.MT.CE.AR5,Total greenhouse gas emissions,3679.8618,3897.209,4133.5544,0,0,1,0,0
+India,Total greenhouse gas emissions excluding LULUCF (% change from 1990),EN.GHG.TOT.ZG.AR5,Total greenhouse gas emissions,166.0659472,181.7808549,198.8693942,0,0,1,0,0
+United States,GDP (constant 2015 US$),NY.GDP.MKTP.KD,GDP,2.09E+13,2.14E+13,2.21E+13,0,0,0,0,1
+United States,GDP (constant LCU),NY.GDP.MKTP.KN,GDP,2.09E+13,2.14E+13,2.21E+13,0,0,0,0,1
+United States,GDP (current LCU),NY.GDP.MKTP.CN,GDP,2.37E+13,2.60E+13,2.77E+13,0,0,0,0,1
+United States,GDP (current US$),NY.GDP.MKTP.CD,GDP,2.37E+13,2.60E+13,2.77E+13,0,0,0,0,1
+United States,GDP deflator (base year varies by country),NY.GDP.DEFL.ZS,GDP,113.2103304,121.2816392,125.6458273,0,0,0,0,1
+United States,GDP deflator: linked series (base year varies by country),NY.GDP.DEFL.ZS.AD,GDP,113.2103304,121.2816392,125.6458273,0,0,0,0,1
+United States,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,GDP,6.055052933,2.51237532,2.887556009,0,0,0,0,1
+United States,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,GDP,62996.28938,64342.11794,65875.17788,0,0,0,0,1
+United States,GDP per capita (constant LCU),NY.GDP.PCAP.KN,GDP,62996.28938,64342.11794,65875.17788,0,0,0,0,1
+United States,GDP per capita (current LCU),NY.GDP.PCAP.CN,GDP,71318.30736,78035.17536,82769.41221,0,0,0,0,1
+United States,GDP per capita (current US$),NY.GDP.PCAP.CD,GDP,71318.30736,78035.17536,82769.41221,0,0,0,0,1
+United States,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,GDP,5.888314265,2.13636163,2.382669381,0,0,0,0,1
+United States,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,GDP,71318.30736,72841.92431,74577.50654,0,0,0,0,1
+United States,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,GDP,71318.30736,78035.17536,82769.41221,0,0,0,0,1
+United States,GDP per person employed (constant 2021 PPP $),SL.GDP.PCAP.EM.KD,GDP,149677.5556,148984.3277,151285.9913,0,0,0,0,1
+United States,"GDP, PPP (constant 2021 international $)",NY.GDP.MKTP.PP.KD,GDP,2.37E+13,2.43E+13,2.50E+13,0,0,0,0,1
+United States,"GDP, PPP (current international $)",NY.GDP.MKTP.PP.CD,GDP,2.37E+13,2.60E+13,2.77E+13,0,0,0,0,1
+United States,GDP: linked series (current LCU),NY.GDP.MKTP.CN.AD,GDP,2.37E+13,2.60E+13,2.77E+13,0,0,0,0,1
+United States,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,Inflation,4.697858864,8.002799821,4.116338384,0,0,0,0,1
+United States,"Inflation, GDP deflator (annual %)",NY.GDP.DEFL.KD.ZG,Inflation,4.565985503,7.129480854,3.598391354,0,0,0,0,1
+United States,"Inflation, GDP deflator: linked series (annual %)",NY.GDP.DEFL.KD.ZG.AD,Inflation,4.565985503,7.129480854,3.598391354,0,0,0,0,1
+United States,Trade (% of GDP),NE.TRD.GNFS.ZS,Trade,25.21365603,26.89168983,24.89936314,0,0,0,0,1
+United States,Trade in services (% of GDP),BG.GSR.NFSV.GD.ZS,Trade,5.805359034,6.394293236,6.402390357,0,0,0,0,1
+United States,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,Foreign direct investment,-1.34E+11,-20472000000,1.05E+11,0,0,0,0,1
+United States,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,Foreign direct investment,2.009212298,1.572590774,1.258207357,0,0,0,0,1
+United States,"Foreign direct investment, net inflows (BoP, current US$)",BX.KLT.DINV.CD.WD,Foreign direct investment,4.76E+11,4.09E+11,3.49E+11,0,0,0,0,1
+United States,"Foreign direct investment, net outflows (% of GDP)",BM.KLT.DINV.WD.GD.ZS,Foreign direct investment,1.443991093,1.493873182,1.638067771,0,0,0,0,1
+United States,"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Foreign direct investment,3.42E+11,3.89E+11,4.54E+11,0,0,0,0,1
+United States,Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Gross national expenditure,112.778323,119.9373267,124.4389885,0,0,0,0,1
+United States,Gross national expenditure (current US$),NE.DAB.TOTL.CD,Gross national expenditure,2.45E+13,2.70E+13,2.85E+13,0,0,0,0,1
+United States,Gross national expenditure (current LCU),NE.DAB.TOTL.CN,Gross national expenditure,2.45E+13,2.70E+13,2.85E+13,0,0,0,0,1
+United States,Gross national expenditure (constant LCU),NE.DAB.TOTL.KN,Gross national expenditure,2.18E+13,2.25E+13,2.29E+13,0,0,0,0,1
+United States,Gross national expenditure (constant 2015 US$),NE.DAB.TOTL.KD,Gross national expenditure,2.18E+13,2.25E+13,2.29E+13,0,0,0,0,1
+United States,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,Gross national expenditure,103.6317039,103.6872302,102.876337,0,0,0,0,1
+United States,Households and NPISHs Final consumption expenditure (current LCU),NE.CON.PRVT.CN,Households and NPISHs Final consumption expenditure,1.61E+13,1.77E+13,1.88E+13,0,0,0,0,1
+United States,Households and NPISHs Final consumption expenditure (constant LCU),NE.CON.PRVT.KN,Households and NPISHs Final consumption expenditure,1.44E+13,1.48E+13,1.52E+13,0,0,0,0,1
+United States,Households and NPISHs Final consumption expenditure (constant 2015 US$),NE.CON.PRVT.KD,Households and NPISHs Final consumption expenditure,1.44E+13,1.48E+13,1.52E+13,0,0,0,0,1
+United States,Households and NPISHs Final consumption expenditure (current US$),NE.CON.PRVT.CD,Households and NPISHs Final consumption expenditure,1.61E+13,1.77E+13,1.88E+13,0,0,0,0,1
+United States,Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Households and NPISHs Final consumption expenditure,8.771860138,3.036132793,2.530192584,0,0,0,0,1
+United States,Households and NPISHs final consumption expenditure (% of GDP),NE.CON.PRVT.ZS,Households and NPISHs Final consumption expenditure,68.04538931,68.02366203,67.90147034,0,0,0,0,1
+United States,Households and NPISHs Final consumption expenditure per capita (constant 2015 US$),NE.CON.PRVT.PC.KD,Households and NPISHs Final consumption expenditure,43330.52173,44482.33277,45384.01617,0,0,0,0,1
+United States,Households and NPISHs Final consumption expenditure per capita growth (annual %),NE.CON.PRVT.PC.KD.ZG,Households and NPISHs Final consumption expenditure,8.600850134,2.65819797,2.027059598,0,0,0,0,1
+United States,"Households and NPISHs Final consumption expenditure, PPP (constant 2021 international $)",NE.CON.PRVT.PP.KD,Households and NPISHs Final consumption expenditure,1.61E+13,1.66E+13,1.70E+13,0,0,0,0,1
+United States,"Households and NPISHs Final consumption expenditure, PPP (current international $)",NE.CON.PRVT.PP.CD,Households and NPISHs Final consumption expenditure,1.61E+13,1.77E+13,1.88E+13,0,0,0,0,1
+United States,Households and NPISHs final consumption expenditure: linked series (current LCU),NE.CON.PRVT.CN.AD,Households and NPISHs Final consumption expenditure,1.61E+13,1.77E+13,1.88E+13,0,0,0,0,1
+United States,"Imports of goods and services (BoP, current US$)",BM.GSR.GNFS.CD,Imports of goods and services,3.42E+12,3.98E+12,3.86E+12,0,0,0,0,1
+United States,Imports of goods and services (constant 2015 US$),NE.IMP.GNFS.KD,Imports of goods and services,3.26E+12,3.54E+12,3.50E+12,0,0,0,0,1
+United States,Imports of goods and services (annual % growth),NE.IMP.GNFS.KD.ZG,Imports of goods and services,14.67092666,8.593012129,-1.172116348,0,0,0,0,1
+United States,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Imports of goods and services,14.42267783,15.28946191,13.88785186,0,0,0,0,1
+United States,Imports of goods and services (constant LCU),NE.IMP.GNFS.KN,Imports of goods and services,3.26E+12,3.54E+12,3.50E+12,0,0,0,0,1
+United States,Imports of goods and services (current LCU),NE.IMP.GNFS.CN,Imports of goods and services,3.42E+12,3.98E+12,3.85E+12,0,0,0,0,1
+United States,Imports of goods and services (current US$),NE.IMP.GNFS.CD,Imports of goods and services,3.42E+12,3.98E+12,3.85E+12,0,0,0,0,1
+United States,"Imports of goods, services and primary income (BoP, current US$)",BM.GSR.TOTL.CD,"Imports of goods, services and primary income",4.35E+12,5.05E+12,5.17E+12,0,0,0,0,1
+United States,Interest payments (% of expense),GC.XPN.INTP.ZS,Interest payments,7.88793828,11.50750007,14.27355948,0,0,0,0,1
+United States,Interest payments (% of revenue),GC.XPN.INTP.RV.ZS,Interest payments,12.99928208,14.40483819,19.91046667,0,0,0,0,1
+United States,Interest payments (current LCU),GC.XPN.INTP.CN,Interest payments,5.75E+11,7.26E+11,9.48E+11,0,0,0,0,1
+United States,Other expense (% of expense),GC.XPN.OTHR.ZS,Other expense,13.322287,5.842579096,7.541347665,0,0,0,0,1
+United States,Other expense (current LCU),GC.XPN.OTHR.CN,Other expense,9.70E+11,3.68E+11,5.01E+11,0,0,0,0,1
+Germany,GDP (constant 2015 US$),NY.GDP.MKTP.KD,GDP,3.65E+12,3.70E+12,3.69E+12,0,1,0,0,0
+Germany,GDP (constant LCU),NY.GDP.MKTP.KN,GDP,3.29E+12,3.34E+12,3.33E+12,0,1,0,0,0
+Germany,GDP (current LCU),NY.GDP.MKTP.CN,GDP,3.68E+12,3.95E+12,4.19E+12,0,1,0,0,0
+Germany,GDP (current US$),NY.GDP.MKTP.CD,GDP,4.35E+12,4.16E+12,4.53E+12,0,1,0,0,0
+Germany,GDP deflator (base year varies by country),NY.GDP.DEFL.ZS,GDP deflator,111.6881196,118.4919997,125.7708644,0,1,0,0,0
+Germany,GDP deflator: linked series (base year varies by country),NY.GDP.DEFL.ZS.AD,GDP deflator: linked series,111.6881196,118.4919997,125.7708644,0,1,0,0,0
+Germany,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,GDP growth,3.669999862,1.369731055,-0.26643841,0,1,0,0,0
+Germany,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,GDP per capita,43898.77132,44180.42984,44336.77752,0,1,0,0,0
+Germany,GDP per capita (constant LCU),NY.GDP.PCAP.KN,GDP per capita,39565.80558,39819.6634,39960.579,0,1,0,0,0
+Germany,GDP per capita (current LCU),NY.GDP.PCAP.CN,GDP per capita,44190.30426,47183.11544,50258.76561,0,1,0,0,0
+Germany,GDP per capita (current US$),NY.GDP.PCAP.CD,GDP per capita,52265.65416,49686.11546,54343.22651,0,1,0,0,0
+Germany,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,GDP per capita growth,3.626128687,0.641609124,0.353884463,0,1,0,0,0
+Germany,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,"GDP per capita, PPP",62474.364,62875.20522,63097.7108,0,1,0,0,0
+Germany,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,"GDP per capita, PPP",62474.364,67533.05286,69027.09457,0,1,0,0,0
+Germany,GDP per person employed (constant 2021 PPP $),SL.GDP.PCAP.EM.KD,GDP per person employed,124561.4046,123731.8219,123727.6085,0,1,0,0,0
+Germany,"GDP, PPP (constant 2021 international $)",NY.GDP.MKTP.PP.KD,"GDP, PPP",5.20E+12,5.27E+12,5.25E+12,0,1,0,0,0
+Germany,"GDP, PPP (current international $)",NY.GDP.MKTP.PP.CD,"GDP, PPP",5.20E+12,5.66E+12,5.75E+12,0,1,0,0,0
+Germany,GDP: linked series (current LCU),NY.GDP.MKTP.CN.AD,GDP: linked series,3.68E+12,3.95E+12,4.19E+12,0,1,0,0,0
+Germany,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,"Inflation, consumer prices",3.066666667,6.872574386,5.946436677,0,1,0,0,0
+Germany,"Inflation, GDP deflator (annual %)",NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator",2.802929388,6.091856622,6.14291653,0,1,0,0,0
+Germany,"Inflation, GDP deflator: linked series (annual %)",NY.GDP.DEFL.KD.ZG.AD,"Inflation, GDP deflator: linked series",2.802929388,6.091856622,6.14291653,0,1,0,0,0
+Germany,Trade (% of GDP),NE.TRD.GNFS.ZS,Trade,80.15661805,89.06412737,82.79910645,0,1,0,0,0
+Germany,Trade in services (% of GDP),BG.GSR.NFSV.GD.ZS,Trade in services,18.70123899,21.65352325,21.11559009,0,1,0,0,0
+Germany,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,"Foreign direct investment, net",96711985272,1.17E+11,72407214132,0,1,0,0,0
+Germany,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows",2.349165282,1.506606153,0.431214647,0,1,0,0,0
+Germany,"Foreign direct investment, net inflows (BoP, current US$)",BX.KLT.DINV.CD.WD,"Foreign direct investment, net inflows",1.02E+11,62728998896,19515498092,0,1,0,0,0
+Germany,"Foreign direct investment, net outflows (% of GDP)",BM.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net outflows",4.573353851,4.319008164,2.031149245,0,1,0,0,0
+Germany,"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,"Foreign direct investment, net outflows",1.99E+11,1.80E+11,91923800663,0,1,0,0,0
+Germany,Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Gross national expenditure deflator,112.0046893,120.3771064,125.9627584,0,1,0,0,0
+Germany,Gross national expenditure (current US$),NE.DAB.TOTL.CD,Gross national expenditure,4.12E+12,4.06E+12,4.34E+12,0,1,0,0,0
+Germany,Gross national expenditure (current LCU),NE.DAB.TOTL.CN,Gross national expenditure,3.49E+12,3.86E+12,4.02E+12,0,1,0,0,0
+Germany,Gross national expenditure (constant LCU),NE.DAB.TOTL.KN,Gross national expenditure,3.11E+12,3.20E+12,3.19E+12,0,1,0,0,0
+Germany,Gross national expenditure (constant 2015 US$),NE.DAB.TOTL.KD,Gross national expenditure,3.45E+12,3.55E+12,3.54E+12,0,1,0,0,0
+Germany,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,Gross national expenditure,94.84145074,97.50309192,95.99440934,0,1,0,0,0
+Germany,Households and NPISHs Final consumption expenditure (current LCU),NE.CON.PRVT.CN,Households and NPISHs Final consumption expenditure,1.79E+12,1.98E+12,2.09E+12,0,1,0,0,0
+Germany,Households and NPISHs Final consumption expenditure (constant LCU),NE.CON.PRVT.KN,Households and NPISHs Final consumption expenditure,1.64E+12,1.71E+12,1.69E+12,0,1,0,0,0
+Germany,Households and NPISHs Final consumption expenditure (constant 2015 US$),NE.CON.PRVT.KD,Households and NPISHs Final consumption expenditure,1.82E+12,1.89E+12,1.88E+12,0,1,0,0,0
+Germany,Households and NPISHs Final consumption expenditure (current US$),NE.CON.PRVT.CD,Households and NPISHs Final consumption expenditure,2.11E+12,2.08E+12,2.26E+12,0,1,0,0,0
+Germany,Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Households and NPISHs Final consumption expenditure,1.497273057,3.917546101,-0.723888823,0,1,0,0,0
+Germany,Households and NPISHs final consumption expenditure (% of GDP),NE.CON.PRVT.ZS,Households and NPISHs final consumption expenditure,48.56546787,50.05999216,49.92660463,0,1,0,0,0
+Germany,Households and NPISHs Final consumption expenditure per capita (constant 2015 US$),NE.CON.PRVT.PC.KD,Households and NPISHs Final consumption expenditure per capita,21881.89351,22575.79541,22551.77223,0,1,0,0,0
+Germany,Households and NPISHs Final consumption expenditure per capita growth (annual %),NE.CON.PRVT.PC.KD.ZG,Households and NPISHs Final consumption expenditure per capita growth,1.454321339,3.171123638,-0.1064112,0,1,0,0,0
+Germany,"Households and NPISHs Final consumption expenditure, PPP (constant 2021 international $)",NE.CON.PRVT.PP.KD,"Households and NPISHs Final consumption expenditure, PPP",2.40E+12,2.50E+12,2.48E+12,0,1,0,0,0
+Germany,"Households and NPISHs Final consumption expenditure, PPP (current international $)",NE.CON.PRVT.PP.CD,"Households and NPISHs Final consumption expenditure, PPP",2.40E+12,2.71E+12,2.80E+12,0,1,0,0,0
+Germany,Households and NPISHs final consumption expenditure: linked series (current LCU),NE.CON.PRVT.CN.AD,Households and NPISHs final consumption expenditure: linked series,1.79E+12,1.98E+12,2.09E+12,0,1,0,0,0
+Germany,"Imports of goods and services (BoP, current US$)",BM.GSR.GNFS.CD,Imports of goods and services,1.63E+12,1.80E+12,1.78E+12,0,1,0,0,0
+Germany,Imports of goods and services (constant 2015 US$),NE.IMP.GNFS.KD,Imports of goods and services,1.41E+12,1.51E+12,1.50E+12,0,1,0,0,0
+Germany,Imports of goods and services (annual % growth),NE.IMP.GNFS.KD.ZG,Imports of goods and services,8.980000075,6.992108481,-0.626071743,0,1,0,0,0
+Germany,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Imports of goods and services,37.4990344,43.28360965,39.39675789,0,1,0,0,0
+Germany,Imports of goods and services (constant LCU),NE.IMP.GNFS.KN,Imports of goods and services,1.28E+12,1.36E+12,1.36E+12,0,1,0,0,0
+Germany,Imports of goods and services (current LCU),NE.IMP.GNFS.CN,Imports of goods and services,1.38E+12,1.71E+12,1.65E+12,0,1,0,0,0
+Germany,Imports of goods and services (current US$),NE.IMP.GNFS.CD,Imports of goods and services,1.63E+12,1.80E+12,1.78E+12,0,1,0,0,0
+Germany,"Imports of goods, services and primary income (BoP, current US$)",BM.GSR.TOTL.CD,"Imports of goods, services and primary income",1.77E+12,1.98E+12,2.06E+12,0,1,0,0,0
+China,GDP (constant 2015 US$),NY.GDP.MKTP.KD,GDP,1.59E+13,1.63E+13,1.72E+13,1,0,0,0,0
+China,GDP (constant LCU),NY.GDP.MKTP.KN,GDP,1.10E+14,1.13E+14,1.19E+14,1,0,0,0,0
+China,GDP (current LCU),NY.GDP.MKTP.CN,GDP,1.15E+14,1.20E+14,1.26E+14,1,0,0,0,0
+China,GDP (current US$),NY.GDP.MKTP.CD,GDP,1.78E+13,1.79E+13,1.78E+13,1,0,0,0,0
+China,GDP deflator (base year varies by country),NY.GDP.DEFL.ZS,GDP deflator,104.5523266,106.4590234,105.8390127,1,0,0,0,0
+China,GDP deflator: linked series (base year varies by country),NY.GDP.DEFL.ZS.AD,GDP deflator: linked series,104.5523266,106.4590234,105.8390127,1,0,0,0,0
+China,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,GDP growth,8.448469417,2.95066993,5.249557864,1,0,0,0,0
+China,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,GDP per capita,11223.25535,11555.93024,12175.19611,1,0,0,0,0
+China,GDP per capita (constant LCU),NY.GDP.PCAP.KN,GDP per capita,77827.03421,80133.94957,84428.21403,1,0,0,0,0
+China,GDP per capita (current LCU),NY.GDP.PCAP.CN,GDP per capita,81369.97498,85309.82014,89357.98815,1,0,0,0,0
+China,GDP per capita (current US$),NY.GDP.PCAP.CD,GDP per capita,12617.5051,12662.58267,12614.06174,1,0,0,0,0
+China,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,GDP per capita growth,8.351719954,2.964156837,5.358857863,1,0,0,0,0
+China,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,"GDP per capita, PPP",20406.72966,21011.61713,22137.59983,1,0,0,0,0
+China,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,"GDP per capita, PPP",20406.72966,22509.63635,24569.28651,1,0,0,0,0
+China,GDP per person employed (constant 2021 PPP $),SL.GDP.PCAP.EM.KD,GDP per person employed,38653.6718,40548.92627,42291.69881,1,0,0,0,0
+China,"GDP, PPP (constant 2021 international $)",NY.GDP.MKTP.PP.KD,"GDP, PPP",2.88E+13,2.97E+13,3.12E+13,1,0,0,0,0
+China,"GDP, PPP (current international $)",NY.GDP.MKTP.PP.CD,"GDP, PPP",2.88E+13,3.18E+13,3.47E+13,1,0,0,0,0
+China,GDP: linked series (current LCU),NY.GDP.MKTP.CN.AD,GDP: linked series,1.15E+14,1.20E+14,1.26E+14,1,0,0,0,0
+China,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,"Inflation, consumer prices",0.981015136,1.973575557,0.234836829,1,0,0,0,0
+China,"Inflation, GDP deflator (annual %)",NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator",4.552326579,1.823677107,-0.582393794,1,0,0,0,0
+China,"Inflation, GDP deflator: linked series (annual %)",NY.GDP.DEFL.KD.ZG.AD,"Inflation, GDP deflator: linked series",4.552326579,1.823677107,-0.582393794,1,0,0,0,0
+China,Trade (% of GDP),NE.TRD.GNFS.ZS,Trade,37.30199087,38.35148208,37.31677136,1,0,0,0,0
+China,Trade in services (% of GDP),BG.GSR.NFSV.GD.ZS,Trade in services,4.376980703,4.65518874,4.899991756,1,0,0,0,0
+China,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,"Foreign direct investment, net",-1.65E+11,19846371667,1.43E+11,1,0,0,0,0
+China,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows",1.930786223,1.06367353,0.240113517,1,0,0,0,0
+China,"Foreign direct investment, net inflows (BoP, current US$)",BX.KLT.DINV.CD.WD,"Foreign direct investment, net inflows",3.44E+11,1.90E+11,42727679407,1,0,0,0,0
+China,"Foreign direct investment, net outflows (% of GDP)",BM.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net outflows",1.003328449,1.174660069,1.041324581,1,0,0,0,0
+China,"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,"Foreign direct investment, net outflows",1.79E+11,2.10E+11,1.85E+11,1,0,0,0,0
+China,Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Gross national expenditure deflator,104.5215158,106.2508276,106.0653246,1,0,0,0,0
+China,Gross national expenditure (current US$),NE.DAB.TOTL.CD,Gross national expenditure,1.73E+13,1.73E+13,1.74E+13,1,0,0,0,0
+China,Gross national expenditure (current LCU),NE.DAB.TOTL.CN,Gross national expenditure,1.12E+14,1.16E+14,1.23E+14,1,0,0,0,0
+China,Gross national expenditure (constant LCU),NE.DAB.TOTL.KN,Gross national expenditure,1.07E+14,1.10E+14,1.16E+14,1,0,0,0,0
+China,Gross national expenditure (constant 2015 US$),NE.DAB.TOTL.KD,Gross national expenditure,1.51E+13,1.55E+13,1.65E+13,1,0,0,0,0
+China,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,Gross national expenditure,97.06200273,96.58819111,97.716787,1,0,0,0,0
+China,Households and NPISHs Final consumption expenditure (current LCU),NE.CON.PRVT.CN,Households and NPISHs Final consumption expenditure,4.38E+13,4.50E+13,4.93E+13,1,0,0,0,0
+China,Households and NPISHs Final consumption expenditure (current US$),NE.CON.PRVT.CD,Households and NPISHs Final consumption expenditure,6.79E+12,6.69E+12,6.96E+12,1,0,0,0,0
+China,Households and NPISHs final consumption expenditure (% of GDP),NE.CON.PRVT.ZS,Households and NPISHs final consumption expenditure,38.11356525,37.39181085,39.12852426,1,0,0,0,0
+China,"Households and NPISHs Final consumption expenditure, PPP (current international $)",NE.CON.PRVT.PP.CD,"Households and NPISHs Final consumption expenditure, PPP",1.09E+13,1.19E+13,1.35E+13,1,0,0,0,0
+China,Households and NPISHs final consumption expenditure: linked series (current LCU),NE.CON.PRVT.CN.AD,Households and NPISHs final consumption expenditure: linked series,4.38E+13,4.50E+13,4.93E+13,1,0,0,0,0
+China,"Imports of goods and services (BoP, current US$)",BM.GSR.GNFS.CD,Imports of goods and services,3.09E+12,3.14E+12,3.13E+12,1,0,0,0,0
+China,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Imports of goods and services,17.35801703,17.55999902,17.57369904,1,0,0,0,0
+China,Imports of goods and services (current LCU),NE.IMP.GNFS.CN,Imports of goods and services,1.99E+13,2.12E+13,2.22E+13,1,0,0,0,0
+China,Imports of goods and services (current US$),NE.IMP.GNFS.CD,Imports of goods and services,3.09E+12,3.14E+12,3.13E+12,1,0,0,0,0
+China,"Imports of goods, services and primary income (BoP, current US$)",BM.GSR.TOTL.CD,"Imports of goods, services and primary income",3.55E+12,3.57E+12,3.51E+12,1,0,0,0,0
+China,"Interest rate spread (lending rate minus deposit rate, %)",FR.INR.LNDP,Interest rate spread,2.85,2.85,2.85,1,0,0,0,0
+India,GDP (constant 2015 US$),NY.GDP.MKTP.KD,GDP,2.78E+12,2.97E+12,3.22E+12,0,0,1,0,0
+India,GDP (constant LCU),NY.GDP.MKTP.KN,GDP,1.50E+14,1.61E+14,1.74E+14,0,0,1,0,0
+India,GDP (current LCU),NY.GDP.MKTP.CN,GDP,2.36E+14,2.69E+14,2.95E+14,0,0,1,0,0
+India,GDP (current US$),NY.GDP.MKTP.CD,GDP,3.17E+12,3.35E+12,3.57E+12,0,0,1,0,0
+India,GDP deflator (base year varies by country),NY.GDP.DEFL.ZS,GDP deflator,157.0872056,167.6866853,169.9237107,0,0,1,0,0
+India,GDP deflator: linked series (base year varies by country),NY.GDP.DEFL.ZS.AD,GDP deflator: linked series,157.0872056,167.6866853,169.9237107,0,0,1,0,0
+India,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,GDP growth,9.689592492,6.987039326,8.152936311,0,0,1,0,0
+India,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,GDP per capita,1965.309434,2086.076886,2236.312793,0,0,1,0,0
+India,GDP per capita (constant LCU),NY.GDP.PCAP.KN,GDP per capita,106221.2196,112748.4696,120868.4333,0,0,1,0,0
+India,GDP per capita (current LCU),NY.GDP.PCAP.CN,GDP per capita,166859.9457,189064.1715,205384.1269,0,0,1,0,0
+India,GDP per capita (current US$),NY.GDP.PCAP.CD,GDP per capita,2239.613844,2352.613925,2480.792087,0,0,1,0,0
+India,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,GDP per capita growth,8.790934477,6.144958608,7.201839391,0,0,1,0,0
+India,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,"GDP per capita, PPP",8050.018575,8544.688884,9160.063654,0,0,1,0,0
+India,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,"GDP per capita, PPP",8050.018575,9153.880842,10166.24341,0,0,1,0,0
+India,GDP per person employed (constant 2021 PPP $),SL.GDP.PCAP.EM.KD,GDP per person employed,22095.29914,22493.65128,23339.60475,0,0,1,0,0
+India,"GDP, PPP (constant 2021 international $)",NY.GDP.MKTP.PP.KD,"GDP, PPP",1.14E+13,1.22E+13,1.32E+13,0,0,1,0,0
+India,"GDP, PPP (current international $)",NY.GDP.MKTP.PP.CD,"GDP, PPP",1.14E+13,1.30E+13,1.46E+13,0,0,1,0,0
+India,GDP: linked series (current LCU),NY.GDP.MKTP.CN.AD,GDP: linked series,2.36E+14,2.69E+14,2.95E+14,0,0,1,0,0
+India,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,"Inflation, consumer prices",5.131407472,6.699034141,5.649143189,0,0,1,0,0
+India,"Inflation, GDP deflator (annual %)",NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator",8.354907715,6.747513083,1.334050656,0,0,1,0,0
+India,"Inflation, GDP deflator: linked series (annual %)",NY.GDP.DEFL.KD.ZG.AD,"Inflation, GDP deflator: linked series",8.354907715,6.747513083,1.334050656,0,0,1,0,0
+India,Trade (% of GDP),NE.TRD.GNFS.ZS,Trade,45.42308878,49.96531997,45.92185022,0,0,1,0,0
+India,Trade in services (% of GDP),BG.GSR.NFSV.GD.ZS,Trade in services,11.95443976,14.49887633,14.46191766,0,0,1,0,0
+India,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,"Foreign direct investment, net",-27488543123,-35408008686,-14200416754,0,0,1,0,0
+India,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows",1.41217101,1.489211205,0.787065923,0,0,1,0,0
+India,"Foreign direct investment, net inflows (BoP, current US$)",BX.KLT.DINV.CD.WD,"Foreign direct investment, net inflows",44727277563,49940258404,28078983530,0,0,1,0,0
+India,"Foreign direct investment, net outflows (% of GDP)",BM.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net outflows",0.544277281,0.433349562,0.389022165,0,0,1,0,0
+India,"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,"Foreign direct investment, net outflows",17238734439,14532249718,13878566777,0,0,1,0,0
+India,Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Gross national expenditure deflator,155.9191141,168.9326313,174.1070675,0,0,1,0,0
+India,Gross national expenditure (current US$),NE.DAB.TOTL.CD,Gross national expenditure,3.28E+12,3.51E+12,3.71E+12,0,0,1,0,0
+India,Gross national expenditure (current LCU),NE.DAB.TOTL.CN,Gross national expenditure,2.44E+14,2.82E+14,3.07E+14,0,0,1,0,0
+India,Gross national expenditure (constant LCU),NE.DAB.TOTL.KN,Gross national expenditure,1.57E+14,1.67E+14,1.77E+14,0,0,1,0,0
+India,Gross national expenditure (constant 2015 US$),NE.DAB.TOTL.KD,Gross national expenditure,2.93E+12,3.12E+12,3.29E+12,0,0,1,0,0
+India,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,Gross national expenditure,103.54258,104.6619044,104.0529743,0,0,1,0,0
+India,Households and NPISHs Final consumption expenditure (current LCU),NE.CON.PRVT.CN,Households and NPISHs Final consumption expenditure,1.44E+14,1.64E+14,1.78E+14,0,0,1,0,0
+India,Households and NPISHs Final consumption expenditure (constant LCU),NE.CON.PRVT.KN,Households and NPISHs Final consumption expenditure,8.73E+13,9.32E+13,9.70E+13,0,0,1,0,0
+India,Households and NPISHs Final consumption expenditure (constant 2015 US$),NE.CON.PRVT.KD,Households and NPISHs Final consumption expenditure,1.70E+12,1.81E+12,1.89E+12,0,0,1,0,0
+India,Households and NPISHs Final consumption expenditure (current US$),NE.CON.PRVT.CD,Households and NPISHs Final consumption expenditure,1.93E+12,2.04E+12,2.15E+12,0,0,1,0,0
+India,Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Households and NPISHs Final consumption expenditure,11.67675534,6.770640374,4.026132492,0,0,1,0,0
+India,Households and NPISHs final consumption expenditure (% of GDP),NE.CON.PRVT.ZS,Households and NPISHs final consumption expenditure,60.95037963,60.93785235,60.34238606,0,0,1,0,0
+India,Households and NPISHs Final consumption expenditure per capita (constant 2015 US$),NE.CON.PRVT.PC.KD,Households and NPISHs Final consumption expenditure per capita,1201.100469,1272.328884,1311.915192,0,0,1,0,0
+India,Households and NPISHs Final consumption expenditure per capita growth (annual %),NE.CON.PRVT.PC.KD.ZG,Households and NPISHs Final consumption expenditure per capita growth,10.76181703,5.930262903,3.111326685,0,0,1,0,0
+India,"Households and NPISHs Final consumption expenditure, PPP (constant 2021 international $)",NE.CON.PRVT.PP.KD,"Households and NPISHs Final consumption expenditure, PPP",7.39E+12,7.89E+12,8.21E+12,0,0,1,0,0
+India,"Households and NPISHs Final consumption expenditure, PPP (current international $)",NE.CON.PRVT.PP.CD,"Households and NPISHs Final consumption expenditure, PPP",7.39E+12,8.54E+12,9.13E+12,0,0,1,0,0
+India,Households and NPISHs final consumption expenditure: linked series (current LCU),NE.CON.PRVT.CN.AD,Households and NPISHs final consumption expenditure: linked series,1.44E+14,1.64E+14,1.78E+14,0,0,1,0,0
+India,"Imports of goods and services (BoP, current US$)",BM.GSR.GNFS.CD,Imports of goods and services,7.17E+11,9.02E+11,8.60E+11,0,0,1,0,0
+India,Imports of goods and services (constant 2015 US$),NE.IMP.GNFS.KD,Imports of goods and services,6.56E+11,7.26E+11,8.05E+11,0,0,1,0,0
+India,Imports of goods and services (annual % growth),NE.IMP.GNFS.KD.ZG,Imports of goods and services,22.09442246,10.58979485,10.94276103,0,0,1,0,0
+India,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Imports of goods and services,24.02393045,26.76483213,24.07363871,0,0,1,0,0
+India,Imports of goods and services (constant LCU),NE.IMP.GNFS.KN,Imports of goods and services,3.54E+13,3.92E+13,4.35E+13,0,0,1,0,0
+India,Imports of goods and services (current LCU),NE.IMP.GNFS.CN,Imports of goods and services,5.67E+13,7.21E+13,7.11E+13,0,0,1,0,0
+India,Imports of goods and services (current US$),NE.IMP.GNFS.CD,Imports of goods and services,7.61E+11,8.98E+11,8.59E+11,0,0,1,0,0
+India,"Imports of goods, services and primary income (BoP, current US$)",BM.GSR.TOTL.CD,"Imports of goods, services and primary income",7.78E+11,9.71E+11,9.45E+11,0,0,1,0,0
+Japan,GDP (constant 2015 US$),NY.GDP.MKTP.KD,GDP,4.49E+12,4.53E+12,4.61E+12,0,0,0,1,0
+Japan,GDP (constant LCU),NY.GDP.MKTP.KN,GDP,5.43E+14,5.48E+14,5.58E+14,0,0,0,1,0
+Japan,GDP (current LCU),NY.GDP.MKTP.CN,GDP,5.53E+14,5.60E+14,5.91E+14,0,0,0,1,0
+Japan,GDP (current US$),NY.GDP.MKTP.CD,GDP,5.03E+12,4.26E+12,4.20E+12,0,0,0,1,0
+Japan,GDP deflator (base year varies by country),NY.GDP.DEFL.ZS,GDP deflator,101.7389989,102.0787867,105.9506533,0,0,0,1,0
+Japan,GDP deflator: linked series (base year varies by country),NY.GDP.DEFL.ZS.AD,GDP deflator: linked series,101.7389989,102.0787867,105.9506533,0,0,0,1,0
+Japan,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,GDP growth,2.559320239,0.954736938,1.679019523,0,0,0,1,0
+Japan,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,GDP per capita,35701.45427,36202.63927,36990.33011,0,0,0,1,0
+Japan,GDP per capita (constant LCU),NY.GDP.PCAP.KN,GDP per capita,4321447.748,4382113.198,4477458.468,0,0,0,1,0
+Japan,GDP per capita (current LCU),NY.GDP.PCAP.CN,GDP per capita,4396597.678,4473207.986,4743896.499,0,0,0,1,0
+Japan,GDP per capita (current US$),NY.GDP.PCAP.CD,GDP per capita,40058.53733,34017.27181,33766.52683,0,0,0,1,0
+Japan,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,GDP per capita growth,3.032130828,1.403822375,2.175782912,0,0,0,1,0
+Japan,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,"GDP per capita, PPP",44347.65935,44970.22171,45948.67611,0,0,0,1,0
+Japan,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,"GDP per capita, PPP",44347.65935,47366.33689,49885.19791,0,0,0,1,0
+Japan,GDP per person employed (constant 2021 PPP $),SL.GDP.PCAP.EM.KD,GDP per person employed,83526.9639,83812.30236,84888.82491,0,0,0,1,0
+Japan,"GDP, PPP (constant 2021 international $)",NY.GDP.MKTP.PP.KD,"GDP, PPP",5.57E+12,5.63E+12,5.72E+12,0,0,0,1,0
+Japan,"GDP, PPP (current international $)",NY.GDP.MKTP.PP.CD,"GDP, PPP",5.57E+12,5.93E+12,6.21E+12,0,0,0,1,0
+Japan,GDP: linked series (current LCU),NY.GDP.MKTP.CN.AD,GDP: linked series,5.53E+14,5.60E+14,5.91E+14,0,0,0,1,0
+Japan,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,"Inflation, consumer prices",-0.233352779,2.497702782,3.268133659,0,0,0,1,0
+Japan,"Inflation, GDP deflator (annual %)",NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator",-0.190060625,0.333979877,3.793017835,0,0,0,1,0
+Japan,"Inflation, GDP deflator: linked series (annual %)",NY.GDP.DEFL.KD.ZG.AD,"Inflation, GDP deflator: linked series",-0.190060625,0.333979877,3.793017835,0,0,0,1,0
+Japan,Trade (% of GDP),NE.TRD.GNFS.ZS,Trade,36.77148329,46.84373214,45.16264848,0,0,0,1,0
+Japan,Trade in services (% of GDP),BG.GSR.NFSV.GD.ZS,Trade in services,7.553455263,8.999118541,10.34785306,0,0,0,1,0
+Japan,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,"Foreign direct investment, net",1.75E+11,1.27E+11,1.62E+11,0,0,0,1,0
+Japan,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows",0.695725962,1.127819293,0.475297449,0,0,0,1,0
+Japan,"Foreign direct investment, net inflows (BoP, current US$)",BX.KLT.DINV.CD.WD,"Foreign direct investment, net inflows",35027163876,48004621741,19983856530,0,0,0,1,0
+Japan,"Foreign direct investment, net outflows (% of GDP)",BM.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net outflows",4.164997692,4.108185939,4.33035119,0,0,0,1,0
+Japan,"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,"Foreign direct investment, net outflows",2.10E+11,1.75E+11,1.82E+11,0,0,0,1,0
+Japan,Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Gross national expenditure deflator,102.4608291,105.5753952,108.3416963,0,0,0,1,0
+Japan,Gross national expenditure (current US$),NE.DAB.TOTL.CD,Gross national expenditure,5.06E+12,4.42E+12,4.27E+12,0,0,0,1,0
+Japan,Gross national expenditure (current LCU),NE.DAB.TOTL.CN,Gross national expenditure,5.55E+14,5.81E+14,6.00E+14,0,0,0,1,0
+Japan,Gross national expenditure (constant LCU),NE.DAB.TOTL.KN,Gross national expenditure,5.42E+14,5.50E+14,5.54E+14,0,0,0,1,0
+Japan,Gross national expenditure (constant 2015 US$),NE.DAB.TOTL.KD,Gross national expenditure,4.48E+12,4.54E+12,4.57E+12,0,0,0,1,0
+Japan,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,Gross national expenditure,100.52053,103.7603038,101.5462318,0,0,0,1,0
+Japan,"Imports of goods and services (BoP, current US$)",BM.GSR.GNFS.CD,Imports of goods and services,9.42E+11,1.08E+12,9.90E+11,0,0,0,1,0
+Japan,Imports of goods and services (constant 2015 US$),NE.IMP.GNFS.KD,Imports of goods and services,8.39E+11,9.05E+11,8.92E+11,0,0,0,1,0
+Japan,Imports of goods and services (annual % growth),NE.IMP.GNFS.KD.ZG,Imports of goods and services,5.142160374,7.885840298,-1.421333878,0,0,0,1,0
+Japan,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Imports of goods and services,18.64600665,25.30200902,23.35210391,0,0,0,1,0
+Japan,Imports of goods and services (constant LCU),NE.IMP.GNFS.KN,Imports of goods and services,1.02E+14,1.10E+14,1.08E+14,0,0,0,1,0
+Japan,Imports of goods and services (current LCU),NE.IMP.GNFS.CN,Imports of goods and services,1.03E+14,1.42E+14,1.38E+14,0,0,0,1,0
+Japan,Imports of goods and services (current US$),NE.IMP.GNFS.CD,Imports of goods and services,9.39E+11,1.08E+12,9.82E+11,0,0,0,1,0
+Japan,"Imports of goods, services and primary income (BoP, current US$)",BM.GSR.TOTL.CD,"Imports of goods, services and primary income",1.05E+12,1.19E+12,1.14E+12,0,0,0,1,0
+China,"Gross PSD, Central Gov., All maturities, Debt securities, Nominal Value, % of GDP",DP.DOD.DLDS.CR.CG.Z1,Central Gov,19.8367429419.6046075519.8003979220.23368724,19.8400213520.2481099320.88744525..,21.4500708721.5165710322.664549923.81106543,1,0,0,0,0
+China,"Gross PSD, Central Gov., All maturities, Debt securities, Nominal Value, National Currency",DP.DOD.DLDS.CR.CG,Central Gov,2.10E+132.14E+132.22E+132.33E+13,2.32E+132.39E+132.50E+13..,2.61E+132.66E+132.83E+133.00E+13,1,0,0,0,0
+China,"Gross PSD, Central Gov., All maturities, Debt securities, Nominal Value, US$",DP.DOD.DLDS.CR.CG.CD,Central Gov,3.20E+123.31E+123.43E+123.65E+12,3.66E+123.57E+123.52E+12..,3.81E+123.66E+123.87E+124.20E+12,1,0,0,0,0
+China,"Gross PSD, Central Gov., Long-term, With payment due in more than one year, Debt securities, Nominal Value, % of GDP",DP.DOD.DLDS.CR.M1.CG.Z1,Central Gov,16.5574743416.528484416.1371628215.48923464,15.6687449215.8698123216.45258399..,17.7388871517.5287150618.0163740218.77672407,1,0,0,0,0
+China,"Gross PSD, Central Gov., Long-term, With payment due in more than one year, Debt securities, Nominal Value, National Currency",DP.DOD.DLDS.CR.M1.CG,Central Gov,1.75E+131.80E+131.81E+131.78E+13,1.83E+131.87E+131.97E+13..,2.16E+132.16E+132.25E+132.37E+13,1,0,0,0,0
+China,"Gross PSD, Central Gov., Long-term, With payment due in more than one year, Debt securities, Nominal Value, US$",DP.DOD.DLDS.CR.M1.CG.CD,Central Gov,2.67E+122.79E+122.79E+122.79E+12,2.89E+122.80E+122.77E+12..,3.15E+122.98E+123.08E+123.31E+12,1,0,0,0,0
+China,"Gross PSD, Central Gov., Long-term, With payment due in one year or less, Debt securities, Nominal Value, % of GDP",DP.DOD.DLDS.CR.L1.CG.Z1,Central Gov,2.7907683092.7970999543.1643773763.837067884,3.6245847263.8372448073.485697825..,3.0509454983.4420325663.8579186073.678142377,1,0,0,0,0
+China,"Gross PSD, Central Gov., Long-term, With payment due in one year or less, Debt securities, Nominal Value, National Currency",DP.DOD.DLDS.CR.L1.CG,Central Gov,2.95E+123.05E+123.54E+124.41E+12,4.24E+124.53E+124.17E+12..,3.72E+124.25E+124.81E+124.64E+12,1,0,0,0,0
+China,"Gross PSD, Central Gov., Long-term, With payment due in one year or less, Debt securities, Nominal Value, US$",DP.DOD.DLDS.CR.L1.CG.CD,Central Gov,4.50E+114.73E+115.48E+116.92E+11,6.69E+116.76E+115.88E+11..,5.41E+115.85E+116.59E+116.49E+11,1,0,0,0,0
+China,"Gross PSD, Central Gov., Short-term, Debt securities, Nominal Value, % of GDP",DP.DOD.DSDS.CR.CG.Z1,Central Gov,0.4885002910.2790231970.498857730.907384718,0.546691710.541052810.949163432..,0.6602382260.545823410.790257281.356198984,1,0,0,0,0
+China,"Gross PSD, Central Gov., Short-term, Debt securities, Nominal Value, National Currency",DP.DOD.DSDS.CR.CG,Central Gov,5.17E+113.05E+115.58E+111.04E+12,6.40E+116.38E+111.14E+12..,8.05E+116.74E+119.85E+111.71E+12,1,0,0,0,0
+China,"Gross PSD, Central Gov., Short-term, Debt securities, Nominal Value, US$",DP.DOD.DSDS.CR.CG.CD,Central Gov,7874639703047175215588863632136061.64E+11,1.01E+11953621902821.60E+11..,1.17E+11928198559291.35E+112.39E+11,1,0,0,0,0
+China,"Gross PSD, Central Gov.-D1, All maturities, Debt securities + loans, Nominal Value, % of GDP",DP.DOD.DLD1.CR.CG.Z1,Central Gov,19.8524400119.6196255419.8149561320.24795758,19.8540338820.2623474820.90215318..,21.4641830821.5305831222.6781058823.82431327,1,0,0,0,0
+China,"Gross PSD, Central Gov.-D1, All maturities, Debt securities + loans, Nominal Value, US$",DP.DOD.DLD1.CR.CG.CD,Central Gov,3.20E+123.32E+123.43E+123.65E+12,3.66E+123.57E+123.52E+12..,3.81E+123.66E+123.87E+124.20E+12,1,0,0,0,0
+Germany,"Gross PSD, Central Gov., All maturities, Debt Securities, Market value, % of GDP",DP.DOD.DLDS.CR.MV.CG.Z1,Central Gov,47.1236811346.6755384246.6109145746.47794346,43.4539934540.1758017237.6128138435.92981524,37.2731677936.7192898236.1857103837.61727849,0,1,0,0,0
+Germany,"Gross PSD, Central Gov., All maturities, Debt Securities, Market value, National Currency",DP.DOD.DLDS.CR.MV.CG,Central Gov,1.63E+121.66E+121.68E+121.71E+12,1.63E+121.54E+121.46E+121.42E+12,1.50E+121.50E+121.50E+121.57E+12,0,1,0,0,0
+Germany,"Gross PSD, Central Gov., All maturities, Debt Securities, Market value, US$",DP.DOD.DLDS.CR.MV.CG.CD,Central Gov,1.91E+121.97E+121.95E+121.94E+12,1.81E+121.60E+121.43E+121.52E+12,1.63E+121.63E+121.59E+121.74E+12,0,1,0,0,0
+Germany,"Gross PSD, Central Gov., All maturities, Debt securities, Nominal Value, % of GDP",DP.DOD.DLDS.CR.CG.Z1,Central Gov,39.9618268140.0852137540.187393340.17541143,39.8319724539.7621081938.9364355238.91939755,39.6786464839.7384659540.259532739.5504593,0,1,0,0,0
+Germany,"Gross PSD, Central Gov., All maturities, Debt securities, Nominal Value, National Currency",DP.DOD.DLDS.CR.CG,Central Gov,1.38E+121.42E+121.45E+121.48E+12,1.50E+121.52E+121.51E+121.54E+12,1.60E+121.62E+121.66E+121.66E+12,0,1,0,0,0
+Germany,"Gross PSD, Central Gov., All maturities, Debt securities, Nominal Value, US$",DP.DOD.DLDS.CR.CG.CD,Central Gov,1.62E+121.69E+121.68E+121.67E+12,1.66E+121.58E+121.48E+121.64E+12,1.74E+121.76E+121.76E+121.83E+12,0,1,0,0,0
+Germany,"Gross PSD, Central Gov., Short-term, Debt securities, Nominal Value, % of GDP",DP.DOD.DSDS.CR.CG.Z1,Central Gov,4.8494051334.6527122614.7326225234.798867981,4.1312085453.85946673.727018243.717629324,3.4848421043.6597608513.868130183.414049471,0,1,0,0,0
+Germany,"Gross PSD, Central Gov., Short-term, Debt securities, Nominal Value, National Currency",DP.DOD.DSDS.CR.CG,Central Gov,1.67E+111.65E+111.71E+111.76E+11,1.55E+111.48E+111.45E+111.47E+11,1.40E+111.49E+111.60E+111.43E+11,0,1,0,0,0
+Germany,"Gross PSD, Central Gov., Short-term, Debt securities, Nominal Value, US$",DP.DOD.DSDS.CR.CG.CD,Central Gov,1.96E+111.97E+111.98E+112.00E+11,1.72E+111.53E+111.41E+111.57E+11,1.53E+111.62E+111.69E+111.58E+11,0,1,0,0,0
+Germany,"Gross PSD, Central Gov.-D1, All maturities, Debt securities + loans, Nominal Value, % of GDP",DP.DOD.DLD1.CR.CG.Z1,Central Gov,44.6886405944.8118801344.8519864845.29823278,44.5378904144.6746101644.6812600244.58745671,44.442248244.0133687444.4260778743.95311752,0,1,0,0,0
+Germany,"Gross PSD, Central Gov.-D1, All maturities, Debt securities + loans, Nominal Value, US$",DP.DOD.DLD1.CR.CG.CD,Central Gov,1.81E+121.89E+121.88E+121.89E+12,1.86E+121.78E+121.69E+121.88E+12,1.94E+121.95E+121.95E+122.03E+12,0,1,0,0,0
+Germany,"Gross PSD, Central Gov.-D2, All maturities, D1+ SDRs + currency and deposits, Nominal Value, % of GDP",DP.DOD.DLD2.CR.CG.Z1,Central Gov,45.0522934445.1874354145.2355287345.78892011,44.9635230545.1478379745.2713071345.02547652,44.8233751944.3893032844.8643910844.35655389,0,1,0,0,0
+Germany,"Gross PSD, Central Gov.-D2, All maturities, D1+ SDRs + currency and deposits, Nominal Value, US$",DP.DOD.DLD2.CR.CG.CD,Central Gov,1.82E+121.91E+121.89E+121.91E+12,1.87E+121.79E+121.72E+121.90E+12,1.96E+121.97E+121.97E+122.05E+12,0,1,0,0,0
+Germany,"Gross PSD, Central Gov.-D2A, All maturities, D1+ currency and deposits, Maastricht debt, % of GDP",DP.DOD.DLD2A.CR.CG.Z1,Central Gov,45.0522934445.1874354145.2355287345.78892011,44.9635230545.1478379745.2713071345.02547652,44.8233751944.3893032844.8643910844.35655389,0,1,0,0,0
+Germany,"Gross PSD, Central Gov.-D2A, All maturities, D1+ currency and deposits, Maastricht debt, US$",DP.DOD.DLD2A.CR.CG.CD,Central Gov,1.82E+121.91E+121.89E+121.91E+12,1.87E+121.79E+121.72E+121.90E+12,1.96E+121.97E+121.97E+122.05E+12,0,1,0,0,0
+Germany,"Gross PSD, General Gov., All maturities, Debt Securities, Market value, % of GDP",DP.DOD.DLDS.CR.MV.GG.Z1,General Gov,60.6465492359.7779903559.6194517859.04421645,55.1803776450.9672099947.3806059945.37152396,46.5425683945.6897202344.903412946.58919377,0,1,0,0,0
+Germany,"Gross PSD, General Gov., All maturities, Debt Securities, Market value, National Currency",DP.DOD.DLDS.CR.MV.GG,General Gov,2.09E+122.12E+122.15E+122.17E+12,2.07E+121.95E+121.84E+121.79E+12,1.87E+121.86E+121.86E+121.95E+12,0,1,0,0,0
+Germany,"Gross PSD, General Gov., All maturities, Debt Securities, Market value, US$",DP.DOD.DLDS.CR.MV.GG.CD,General Gov,2.46E+122.53E+122.49E+122.46E+12,2.30E+122.03E+121.80E+121.91E+12,2.04E+122.03E+121.97E+122.15E+12,0,1,0,0,0
+Germany,"Gross PSD, General Gov., All maturities, Debt securities, Nominal Value, % of GDP",DP.DOD.DLDS.CR.GG.Z1,General Gov,52.9292981252.6979978452.726633852.38154373,51.873076751.5595292250.0434792749.80069205,50.3634574750.101952750.5042369949.56575426,0,1,0,0,0
+Germany,"Gross PSD, General Gov., All maturities, Debt securities, Nominal Value, National Currency",DP.DOD.DLDS.CR.GG,General Gov,1.83E+121.87E+121.90E+121.93E+12,1.95E+121.97E+121.95E+121.97E+12,2.03E+122.04E+122.09E+122.07E+12,0,1,0,0,0
+Germany,"Gross PSD, General Gov., All maturities, Debt securities, Nominal Value, US$",DP.DOD.DLDS.CR.GG.CD,General Gov,2.14E+122.23E+122.21E+122.18E+12,2.16E+122.05E+121.90E+122.10E+12,2.20E+122.22E+122.21E+122.29E+12,0,1,0,0,0
+Germany,"Gross PSD, General Gov., Long-term, With payment due in more than one year, Debt securities, Nominal Value, % of GDP",DP.DOD.DLDS.CR.M1.GG.Z1,General Gov,41.387974641.7506072141.4046138741.44809186,41.148528540.3019164640.2740155640.12457866,41.0456560140.9359963641.1219657340.58803251,0,1,0,0,0
+Germany,"Gross PSD, General Gov., Long-term, With payment due in more than one year, Debt securities, Nominal Value, National Currency",DP.DOD.DLDS.CR.M1.GG,General Gov,1.43E+121.48E+121.50E+121.52E+12,1.55E+121.54E+121.57E+121.59E+12,1.65E+121.67E+121.70E+121.70E+12,0,1,0,0,0
+Germany,"Gross PSD, General Gov., Long-term, With payment due in more than one year, Debt securities, Nominal Value, US$",DP.DOD.DLDS.CR.M1.GG.CD,General Gov,1.68E+121.76E+121.73E+121.73E+12,1.72E+121.60E+121.53E+121.69E+12,1.80E+121.82E+121.80E+121.88E+12,0,1,0,0,0
+Germany,"Gross PSD, General Gov., Long-term, With payment due in one year or less, Debt securities, Nominal Value, % of GDP",DP.DOD.DLDS.CR.L1.GG.Z1,General Gov,6.0386781795.8076960455.9933110125.617995146,6.1222399967.0279220315.9182512665.872967103,5.7084125635.4078023465.4041278675.474586843,0,1,0,0,0
+Germany,"Gross PSD, General Gov., Long-term, With payment due in one year or less, Debt securities, Nominal Value, National Currency",DP.DOD.DLDS.CR.L1.GG,General Gov,2.09E+112.06E+112.17E+112.07E+11,2.30E+112.69E+112.30E+112.32E+11,2.30E+112.21E+112.23E+112.29E+11,0,1,0,0,0
+Germany,"Gross PSD, General Gov., Long-term, With payment due in one year or less, Debt securities, Nominal Value, US$",DP.DOD.DLDS.CR.L1.GG.CD,General Gov,2.45E+112.45E+112.51E+112.34E+11,2.55E+112.79E+112.24E+112.48E+11,2.50E+112.40E+112.37E+112.53E+11,0,1,0,0,0
+Germany,"Gross PSD, General Gov., Short-term, Debt securities, Nominal Value, % of GDP",DP.DOD.DSDS.CR.GG.Z1,General Gov,5.5026453355.1396945845.3287089265.315456723,4.6023082074.2296907313.8512124433.803146289,3.6093888933.7581539943.9781433893.503134908,0,1,0,0,0
+Germany,"Gross PSD, General Gov., Short-term, Debt securities, Nominal Value, National Currency",DP.DOD.DSDS.CR.GG,General Gov,1.90E+111.83E+111.92E+111.95E+11,1.73E+111.62E+111.50E+111.50E+11,1.45E+111.53E+111.64E+111.47E+11,0,1,0,0,0
+Germany,"Gross PSD, General Gov., Short-term, Debt securities, Nominal Value, US$",DP.DOD.DSDS.CR.GG.CD,General Gov,2.23E+112.17E+112.23E+112.21E+11,1.92E+111.68E+111.46E+111.60E+11,1.58E+111.67E+111.74E+111.62E+11,0,1,0,0,0
+Germany,"Gross PSD, General Gov.-D1, All maturities, Debt securities + loans, Nominal Value, % of GDP",DP.DOD.DLD1.CR.GG.Z1,General Gov,68.4393737567.8913021167.728999167.58614169,66.2836563665.9803699465.118417264.5593112,64.1617938563.22160163.3578868562.47425476,0,1,0,0,0
+Germany,"Gross PSD, General Gov.-D1, All maturities, Debt securities + loans, Nominal Value, US$",DP.DOD.DLD1.CR.GG.CD,General Gov,2.77E+122.87E+122.83E+122.81E+12,2.76E+122.62E+122.47E+122.72E+12,2.81E+122.80E+122.78E+122.89E+12,0,1,0,0,0
+Germany,"Gross PSD, General Gov.-D2, All maturities, D1+ SDRs + currency and deposits, Nominal Value, % of GDP",DP.DOD.DLD2.CR.GG.Z1,General Gov,68.803026668.2668573868.1125413668.07682902,66.70928966.4535977665.708464364.99733101,64.5429208363.5975355563.7962000662.87769113,0,1,0,0,0
+Germany,"Gross PSD, General Gov.-D2, All maturities, D1+ SDRs + currency and deposits, Nominal Value, US$",DP.DOD.DLD2.CR.GG.CD,General Gov,2.79E+122.88E+122.85E+122.83E+12,2.78E+122.64E+122.49E+122.74E+12,2.82E+122.82E+122.79E+122.91E+12,0,1,0,0,0
+Germany,"Gross PSD, General Gov.-D2A, All maturities, D1+ currency and deposits, Maastricht debt, % of GDP",DP.DOD.DLD2A.CR.GG.Z1,General Gov,68.803026668.2668573868.1125413668.07682902,66.70928966.4535977665.708464364.99733101,64.5429208363.5975355563.7962000662.87769113,0,1,0,0,0
+Germany,"Gross PSD, General Gov.-D2A, All maturities, D1+ currency and deposits, Maastricht debt, US$",DP.DOD.DLD2A.CR.GG.CD,General Gov,2.79E+122.88E+122.85E+122.83E+12,2.78E+122.64E+122.49E+122.74E+12,2.82E+122.82E+122.79E+122.91E+12,0,1,0,0,0
+Japan,"Gross PSD, Central Gov., All maturities, Debt Securities, Market value, % of GDP",DP.DOD.DLDS.CR.MV.CG.Z1,Central Gov,202.8261956200.9780701200.2414723199.2554265,201.1812131201.194407199.975132195.7052378,198.7163231198.0859769190.5834053190.7442754,0,0,0,1,0
+Japan,"Gross PSD, Central Gov., All maturities, Debt Securities, Market value, National Currency",DP.DOD.DLDS.CR.MV.CG,Central Gov,1.09E+151.10E+151.10E+151.10E+15,1.12E+151.12E+151.12E+151.10E+15,1.13E+151.14E+151.11E+151.13E+15,0,0,0,1,0
+Japan,"Gross PSD, Central Gov., All maturities, Debt Securities, Market value, US$",DP.DOD.DLDS.CR.MV.CG.CD,Central Gov,9.87E+129.97E+129.86E+129.65E+12,9.12E+128.19E+127.71E+128.27E+12,8.45E+127.87E+127.45E+127.96E+12,0,0,0,1,0
+Japan,"Gross PSD, Central Gov., All maturities, Debt securities, Nominal Value, % of GDP",DP.DOD.DLDS.CR.CG.Z1,Central Gov,202.8261956200.9780701200.2414723199.2554265,201.1812131201.194407199.975132195.7052378,198.7163231198.0859769190.5834053190.7442754,0,0,0,1,0
+Japan,"Gross PSD, Central Gov., All maturities, Debt securities, Nominal Value, National Currency",DP.DOD.DLDS.CR.CG,Central Gov,1.09E+151.10E+151.10E+151.10E+15,1.12E+151.12E+151.12E+151.10E+15,1.13E+151.14E+151.11E+151.13E+15,0,0,0,1,0
+Japan,"Gross PSD, Central Gov., All maturities, Debt securities, Nominal Value, US$",DP.DOD.DLDS.CR.CG.CD,Central Gov,9.87E+129.97E+129.86E+129.65E+12,9.12E+128.19E+127.71E+128.27E+12,8.45E+127.87E+127.45E+127.96E+12,0,0,0,1,0
+Japan,"Gross PSD, Central Gov., Short-term, Debt securities, Nominal Value, % of GDP",DP.DOD.DSDS.CR.CG.Z1,Central Gov,30.253407728.6427926126.9411395525.62077776,28.0022409728.7733217526.642330626.08302141,26.406700625.9680836824.1757504723.78709289,0,0,0,1,0
+Japan,"Gross PSD, Central Gov., Short-term, Debt securities, Nominal Value, National Currency",DP.DOD.DSDS.CR.CG,Central Gov,1.63E+141.57E+141.49E+141.42E+14,1.55E+141.60E+141.49E+141.46E+14,1.50E+141.49E+141.41E+141.41E+14,0,0,0,1,0
+Japan,"Gross PSD, Central Gov., Short-term, Debt securities, Nominal Value, US$",DP.DOD.DSDS.CR.CG.CD,Central Gov,1.47E+121.42E+121.33E+121.24E+12,1.27E+121.17E+121.03E+121.10E+12,1.12E+121.03E+129.46E+119.92E+11,0,0,0,1,0
+Japan,"Gross PSD, Central Gov.-D1, All maturities, Debt securities + loans, Nominal Value, % of GDP",DP.DOD.DLD1.CR.CG.Z1,Central Gov,212.5575574210.2925949209.1966103208.2448949,211.0606647210.6523409209.0941478205.4848298,209.0857969207.7880542199.865039200.4205182,0,0,0,1,0
+Japan,"Gross PSD, Central Gov.-D1, All maturities, Debt securities + loans, Nominal Value, US$",DP.DOD.DLD1.CR.CG.CD,Central Gov,1.03E+131.04E+131.03E+131.01E+13,9.56E+128.58E+128.06E+128.68E+12,8.89E+128.25E+127.82E+128.36E+12,0,0,0,1,0
+Japan,"Gross PSD, Financial Public Corp., All maturities, Debt Securities, Market value, % of GDP",DP.DOD.DLDS.CR.MV.FC.Z1,Financial Public Corp,38.547487837.349007635.8470034636.06467773,34.2609682533.54302132.0616302631.70039215,31.7840269431.1057556129.1236087728.46322244,0,0,0,1,0
+Japan,"Gross PSD, Financial Public Corp., All maturities, Debt Securities, Market value, National Currency",DP.DOD.DLDS.CR.MV.FC,Financial Public Corp,2.08E+142.05E+141.98E+141.99E+14,1.90E+141.87E+141.79E+141.78E+14,1.80E+141.79E+141.70E+141.68E+14,0,0,0,1,0
+Japan,"Gross PSD, Financial Public Corp., All maturities, Debt Securities, Market value, US$",DP.DOD.DLDS.CR.MV.FC.CD,Financial Public Corp,1.88E+121.85E+121.77E+121.75E+12,1.55E+121.37E+121.24E+121.34E+12,1.35E+121.24E+121.14E+121.19E+12,0,0,0,1,0
+Japan,"Gross PSD, Financial Public Corp., All maturities, Debt securities, Nominal Value, % of GDP",DP.DOD.DLDS.CR.FC.Z1,Financial Public Corp,36.7643928235.6100259134.1554820234.42334337,33.1464539832.8691173931.655674531.84611762,31.4289396130.7076098929.5479284528.72278779,0,0,0,1,0
+Japan,"Gross PSD, Financial Public Corp., All maturities, Debt securities, Nominal Value, National Currency",DP.DOD.DLDS.CR.FC,Financial Public Corp,1.98E+141.95E+141.88E+141.90E+14,1.84E+141.83E+141.77E+141.78E+14,1.78E+141.77E+141.73E+141.70E+14,0,0,0,1,0
+Japan,"Gross PSD, Financial Public Corp., All maturities, Debt securities, Nominal Value, US$",DP.DOD.DLDS.CR.FC.CD,Financial Public Corp,1.79E+121.77E+121.68E+121.67E+12,1.50E+121.34E+121.22E+121.35E+12,1.34E+121.22E+121.16E+121.20E+12,0,0,0,1,0
+Japan,"Gross PSD, Financial Public Corp., Short-term, Debt securities, Nominal Value, % of GDP",DP.DOD.DSDS.CR.FC.Z1,Financial Public Corp,1.9287923881.8951395390.6704075820.668145327,0000,0000,0,0,0,1,0
+Japan,"Gross PSD, Financial Public Corp., Short-term, Debt securities, Nominal Value, National Currency",DP.DOD.DSDS.CR.FC,Financial Public Corp,1.04E+131.04E+133.70E+123.70E+12,0000,0000,0,0,0,1,0
+Japan,"Gross PSD, Financial Public Corp., Short-term, Debt securities, Nominal Value, US$",DP.DOD.DSDS.CR.FC.CD,Financial Public Corp,93876242096940461538463302028415732355310393,0000,0000,0,0,0,1,0
+Japan,"Gross PSD, General Gov., All maturities, Debt Securities, Market value, % of GDP",DP.DOD.DLDS.CR.MV.GG.Z1,General Gov,208.2314209206.0127246205.0436501204.2632709,205.7635259205.6470577204.1024804199.9410354,202.5251517201.4714497193.3249553192.9794703,0,0,0,1,0
+Japan,"Gross PSD, General Gov., All maturities, Debt Securities, Market value, National Currency",DP.DOD.DLDS.CR.MV.GG,General Gov,1.12E+151.13E+151.13E+151.13E+15,1.14E+151.14E+151.14E+151.12E+15,1.15E+151.16E+151.13E+151.14E+15,0,0,0,1,0
+Japan,"Gross PSD, General Gov., All maturities, Debt Securities, Market value, US$",DP.DOD.DLDS.CR.MV.GG.CD,General Gov,1.01E+131.02E+131.01E+139.89E+12,9.32E+128.37E+127.86E+128.45E+12,8.61E+128.00E+127.56E+128.05E+12,0,0,0,1,0
+Japan,"Gross PSD, General Gov., All maturities, Debt securities, Nominal Value, % of GDP",DP.DOD.DLDS.CR.GG.Z1,General Gov,197.8410614195.6223646194.9023588194.59065,198.9097562201.2851131201.1372033200.3779442,199.7782533198.4344283195.4845029194.0780953,0,0,0,1,0
+Japan,"Gross PSD, General Gov., All maturities, Debt securities, Nominal Value, National Currency",DP.DOD.DLDS.CR.GG,General Gov,1.07E+151.07E+151.07E+151.08E+15,1.10E+151.12E+151.12E+151.12E+15,1.13E+151.14E+151.14E+151.15E+15,0,0,0,1,0
+Japan,"Gross PSD, General Gov., All maturities, Debt securities, Nominal Value, US$",DP.DOD.DLDS.CR.GG.CD,General Gov,9.63E+129.71E+129.60E+129.42E+12,9.01E+128.19E+127.75E+128.47E+12,8.49E+127.88E+127.65E+128.10E+12,0,0,0,1,0
+Japan,"Gross PSD, General Gov., Short-term, Debt securities, Nominal Value, % of GDP",DP.DOD.DSDS.CR.GG.Z1,General Gov,30.2532035328.6425920126.9409944125.62063311,28.0022409728.7733217526.642330626.08302141,26.406700625.9680836824.1757504723.78709289,0,0,0,1,0
+Japan,"Gross PSD, General Gov., Short-term, Debt securities, Nominal Value, National Currency",DP.DOD.DSDS.CR.GG,General Gov,1.63E+141.57E+141.48E+141.42E+14,1.55E+141.60E+141.49E+141.46E+14,1.50E+141.49E+141.41E+141.41E+14,0,0,0,1,0
+Japan,"Gross PSD, General Gov., Short-term, Debt securities, Nominal Value, US$",DP.DOD.DSDS.CR.GG.CD,General Gov,1.47E+121.42E+121.33E+121.24E+12,1.27E+121.17E+121.03E+121.10E+12,1.12E+121.03E+129.46E+119.92E+11,0,0,0,1,0
+Japan,"Gross PSD, General Gov.-D1, All maturities, Debt securities + loans, Nominal Value, % of GDP",DP.DOD.DLD1.CR.GG.Z1,General Gov,225.9640575223.6488963221.8223265221.5637743,226.6783259229.0773713227.7853609227.6480359,227.3481412225.4959787221.2754742220.0046595,0,0,0,1,0
+Japan,"Gross PSD, General Gov.-D1, All maturities, Debt securities + loans, Nominal Value, US$",DP.DOD.DLD1.CR.GG.CD,General Gov,1.10E+131.11E+131.09E+131.07E+13,1.03E+139.33E+128.78E+129.62E+12,9.66E+128.95E+128.65E+129.18E+12,0,0,0,1,0
+Japan,"Gross PSD, Nonfinancial Public Corp., All maturities, Debt Securities, Market value, % of GDP",DP.DOD.DLDS.CR.MV.NF.Z1,Nonfinancial Public Corp,2.3180550272.2463716052.288834222.306225108,2.2654343162.2139285282.2070281162.198531327,2.1338381152.1161029482.0449813082.001140033,0,0,0,1,0
+Japan,"Gross PSD, Nonfinancial Public Corp., All maturities, Debt Securities, Market value, National Currency",DP.DOD.DLDS.CR.MV.NF,Nonfinancial Public Corp,1.25E+131.23E+131.26E+131.28E+13,1.26E+131.23E+131.23E+131.23E+13,1.21E+131.22E+131.20E+131.18E+13,0,0,0,1,0
+Japan,"Gross PSD, Nonfinancial Public Corp., All maturities, Debt Securities, Market value, US$",DP.DOD.DLDS.CR.MV.NF.CD,Nonfinancial Public Corp,1.13E+111.11E+111.13E+111.12E+11,1.03E+11901244236268504628989992897851489,90684746779840302319167997992505483468395462,0,0,0,1,0
+Japan,"Gross PSD, Nonfinancial Public Corp., All maturities, Debt securities, Nominal Value, % of GDP",DP.DOD.DLDS.CR.NF.Z1,Nonfinancial Public Corp,2.2452991242.171292562.2144150422.233539691,2.2204635422.1928926382.2027788662.234837807,2.1405545062.1171110882.0945308962.037885323,0,0,0,1,0
+Japan,"Gross PSD, Nonfinancial Public Corp., All maturities, Debt securities, Nominal Value, National Currency",DP.DOD.DLDS.CR.NF,Nonfinancial Public Corp,1.21E+131.19E+131.22E+131.24E+13,1.23E+131.22E+131.23E+131.25E+13,1.21E+131.22E+131.22E+131.21E+13,0,0,0,1,0
+Japan,"Gross PSD, Nonfinancial Public Corp., All maturities, Debt securities, Nominal Value, US$",DP.DOD.DLDS.CR.NF.CD,Nonfinancial Public Corp,1.09E+111.08E+111.09E+111.08E+11,1.01E+11892680963198488254801794431963815,90970182799840702650478191782655285001057008,0,0,0,1,0
+United States,"Gross PSD, Central Gov., All maturities, Debt securities, Nominal Value, % of GDP",DP.DOD.DLDS.CR.CG.Z1,Central Gov,99.0517182496.8315745595.0351665595.33846465,95.732883293.4444884792.6020097491.69921638,91.6140957991.9961722193.7439191594.66489091,0,0,0,0,1
+United States,"Gross PSD, Central Gov., All maturities, Debt securities, Nominal Value, National Currency",DP.DOD.DLDS.CR.CG,Central Gov,2.14E+132.17E+132.19E+132.26E+13,2.33E+132.33E+132.36E+132.39E+13,2.43E+132.48E+132.56E+132.62E+13,0,0,0,0,1
+United States,"Gross PSD, Central Gov., All maturities, Debt securities, Nominal Value, US$",DP.DOD.DLDS.CR.CG.CD,Central Gov,2.14E+132.17E+132.19E+132.26E+13,2.33E+132.33E+132.36E+132.39E+13,2.43E+132.48E+132.56E+132.62E+13,0,0,0,0,1
+United States,"Gross PSD, Central Gov., Long-term, With payment due in more than one year, Debt securities, Nominal Value, % of GDP",DP.DOD.DLDS.CR.M1.CG.Z1,Central Gov,77.4130224877.7778109778.897469479.42728233,79.5730212779.3007859178.3267202477.49687119,76.2800932675.4241790774.5222729374.19733696,0,0,0,0,1
+United States,"Gross PSD, Central Gov., Long-term, With payment due in more than one year, Debt securities, Nominal Value, National Currency",DP.DOD.DLDS.CR.M1.CG,Central Gov,1.67E+131.74E+131.82E+131.88E+13,1.93E+131.98E+132.00E+132.02E+13,2.02E+132.03E+132.04E+132.06E+13,0,0,0,0,1
+United States,"Gross PSD, Central Gov., Long-term, With payment due in more than one year, Debt securities, Nominal Value, US$",DP.DOD.DLDS.CR.M1.CG.CD,Central Gov,1.67E+131.74E+131.82E+131.88E+13,1.93E+131.98E+132.00E+132.02E+13,2.02E+132.03E+132.04E+132.06E+13,0,0,0,0,1
+United States,"Gross PSD, Central Gov., Short-term, Debt securities, Nominal Value, % of GDP",DP.DOD.DSDS.CR.CG.Z1,Central Gov,21.6386957519.0537635816.1376971515.91118232,16.1598619314.1437025614.2752895114.20234519,15.3340025316.5719931519.2216462220.46755394,0,0,0,0,1
+United States,"Gross PSD, Central Gov., Short-term, Debt securities, Nominal Value, National Currency",DP.DOD.DSDS.CR.CG,Central Gov,4.67E+124.27E+123.71E+123.77E+12,3.93E+123.52E+123.64E+123.70E+12,4.07E+124.47E+125.26E+125.67E+12,0,0,0,0,1
+United States,"Gross PSD, Central Gov., Short-term, Debt securities, Nominal Value, US$",DP.DOD.DSDS.CR.CG.CD,Central Gov,4.67E+124.27E+123.71E+123.77E+12,3.93E+123.52E+123.64E+123.70E+12,4.07E+124.47E+125.26E+125.67E+12,0,0,0,0,1
+United States,"Gross PSD, Central Gov.-D1, All maturities, Debt securities + loans, Nominal Value, % of GDP",DP.DOD.DLD1.CR.CG.Z1,Central Gov,111.0841989108.4345362106.2675141106.8545927,107.1323832104.6759808103.7757787103.1750742,102.7217453103.0386865104.7773749106.2968216,0,0,0,0,1
+United States,"Gross PSD, Central Gov.-D1, All maturities, Debt securities + loans, Nominal Value, US$",DP.DOD.DLD1.CR.CG.CD,Central Gov,2.40E+132.43E+132.45E+132.53E+13,2.60E+132.61E+132.65E+132.69E+13,2.72E+132.78E+132.87E+132.95E+13,0,0,0,0,1
+United States,"Gross PSD, Central Gov.-D2, All maturities, D1+ SDRs + currency and deposits, Nominal Value, % of GDP",DP.DOD.DLD2.CR.CG.Z1,Central Gov,111.5504567108.8846615107.1911082107.7480724,107.9948698105.493116104.5522685103.9598178,103.4985796103.7976012105.5210295107.0424154,0,0,0,0,1
+United States,"Gross PSD, Central Gov.-D2, All maturities, D1+ SDRs + currency and deposits, Nominal Value, US$",DP.DOD.DLD2.CR.CG.CD,Central Gov,2.41E+132.44E+132.47E+132.55E+13,2.62E+132.63E+132.67E+132.71E+13,2.75E+132.80E+132.89E+132.97E+13,0,0,0,0,1
+United States,"Gross PSD, Central Gov.-D2A, All maturities, D1+ currency and deposits, Maastricht debt, % of GDP",DP.DOD.DLD2A.CR.CG.Z1,Central Gov,111.3184404108.6600692106.4877597107.0692226,107.3415014104.8807645103.9763127103.3724493,102.9160774103.2306585104.9690092106.4865933,0,0,0,0,1
+United States,"Gross PSD, Central Gov.-D2A, All maturities, D1+ currency and deposits, Maastricht debt, US$",DP.DOD.DLD2A.CR.CG.CD,Central Gov,2.40E+132.44E+132.45E+132.54E+13,2.61E+132.61E+132.65E+132.69E+13,2.73E+132.78E+132.87E+132.95E+13,0,0,0,0,1
+United States,"Gross PSD, Central Gov.-D3, All maturities, D2+other accounts payable, Nominal Value, % of GDP",DP.DOD.DLD3.CR.CG.Z1,Central Gov,115.4794003112.4733811110.3102051110.3862713,110.3708249107.6792542106.5820322105.9499188,105.458702105.7425253107.4690703108.9478249,0,0,0,0,1
+United States,"Gross PSD, Central Gov.-D3, All maturities, D2+other accounts payable, Nominal Value, US$",DP.DOD.DLD3.CR.CG.CD,Central Gov,2.49E+132.52E+132.54E+132.61E+13,2.68E+132.68E+132.72E+132.76E+13,2.80E+132.85E+132.94E+133.02E+13,0,0,0,0,1
+United States,"Gross PSD, Central Gov.-D4, All maturities, D3+insurance, pensions, and standardized guarantees, Nominal Value, % of GDP",DP.DOD.DLD4.CR.CG.Z1,Central Gov,124.8896833121.56687119.3251487118.5648238,118.4048717115.5264733114.1283083112.8984251,112.5052462112.6006112114.1230206114.8870502,0,0,0,0,1
+United States,"Gross PSD, Central Gov.-D4, All maturities, D3+insurance, pensions, and standardized guarantees, Nominal Value, US$",DP.DOD.DLD4.CR.CG.CD,Central Gov,2.69E+132.73E+132.75E+132.81E+13,2.88E+132.88E+132.91E+132.94E+13,2.98E+133.03E+133.12E+133.19E+13,0,0,0,0,1
+United States,"Gross PSD, General Gov., All maturities, Debt securities, Nominal Value, % of GDP",DP.DOD.DLDS.CR.GG.Z1,General Gov,109.7762152105.8438981103.7206805103.5940487,103.7891253101.1196512100.049227598.77609509,98.2763979798.47072618100.1185718100.6705197,0,0,0,0,1
+United States,"Gross PSD, General Gov., All maturities, Debt securities, Nominal Value, National Currency",DP.DOD.DLDS.CR.GG,General Gov,2.37E+132.37E+132.39E+132.45E+13,2.52E+132.52E+132.55E+132.57E+13,2.61E+132.65E+132.74E+132.79E+13,0,0,0,0,1
+United States,"Gross PSD, General Gov., All maturities, Debt securities, Nominal Value, US$",DP.DOD.DLDS.CR.GG.CD,General Gov,2.37E+132.37E+132.39E+132.45E+13,2.52E+132.52E+132.55E+132.57E+13,2.61E+132.65E+132.74E+132.79E+13,0,0,0,0,1
+United States,"Gross PSD, General Gov., Long-term, With payment due in more than one year, Debt securities, Nominal Value, % of GDP",DP.DOD.DLDS.CR.M1.GG.Z1,General Gov,87.9375171886.6258466787.4489513287.54385752,87.5177810886.8823519885.6762508984.47594417,82.8501509781.8114548580.8003262780.10598805,0,0,0,0,1
+United States,"Gross PSD, General Gov., Long-term, With payment due in more than one year, Debt securities, Nominal Value, National Currency",DP.DOD.DLDS.CR.M1.GG,General Gov,1.90E+131.94E+132.01E+132.07E+13,2.13E+132.16E+132.19E+132.20E+13,2.20E+132.20E+132.21E+132.22E+13,0,0,0,0,1
+United States,"Gross PSD, General Gov., Long-term, With payment due in more than one year, Debt securities, Nominal Value, US$",DP.DOD.DLDS.CR.M1.GG.CD,General Gov,1.90E+131.94E+132.01E+132.07E+13,2.13E+132.16E+132.19E+132.20E+13,2.20E+132.20E+132.21E+132.22E+13,0,0,0,0,1
+United States,"Gross PSD, General Gov., Short-term, Debt securities, Nominal Value, % of GDP",DP.DOD.DSDS.CR.GG.Z1,General Gov,21.8386980419.2180514516.2717291316.05019114,16.2713441814.2372992714.3729766114.30015092,15.42624716.6592713319.3182454920.56453166,0,0,0,0,1
+United States,"Gross PSD, General Gov., Short-term, Debt securities, Nominal Value, National Currency",DP.DOD.DSDS.CR.GG,General Gov,4.71E+124.31E+123.74E+123.80E+12,3.95E+123.55E+123.67E+123.72E+12,4.09E+124.49E+125.29E+125.70E+12,0,0,0,0,1
+United States,"Gross PSD, General Gov., Short-term, Debt securities, Nominal Value, US$",DP.DOD.DSDS.CR.GG.CD,General Gov,4.71E+124.31E+123.74E+123.80E+12,3.95E+123.55E+123.67E+123.72E+12,4.09E+124.49E+125.29E+125.70E+12,0,0,0,0,1
+United States,"Gross PSD, General Gov.-D1, All maturities, Debt securities + loans, Nominal Value, % of GDP",DP.DOD.DLD1.CR.GG.Z1,General Gov,121.2446063116.8995679114.4008404114.646928,114.7020503111.9166743110.7950286109.8680998,109.0139613109.1774687110.8078613111.9723049,0,0,0,0,1
+United States,"Gross PSD, General Gov.-D1, All maturities, Debt securities + loans, Nominal Value, US$",DP.DOD.DLD1.CR.GG.CD,General Gov,2.62E+132.62E+132.63E+132.71E+13,2.79E+132.79E+132.83E+132.86E+13,2.89E+132.94E+133.03E+133.10E+13,0,0,0,0,1
+United States,"Gross PSD, General Gov.-D2, All maturities, D1+ SDRs + currency and deposits, Nominal Value, % of GDP",DP.DOD.DLD2.CR.GG.Z1,General Gov,121.7108642117.3496933115.3244345115.5404077,115.5645369112.7338096111.5715185110.6528434,109.7907955109.9363833111.551516112.7178987,0,0,0,0,1
+United States,"Gross PSD, General Gov.-D2, All maturities, D1+ SDRs + currency and deposits, Nominal Value, US$",DP.DOD.DLD2.CR.GG.CD,General Gov,2.63E+132.63E+132.65E+132.74E+13,2.81E+132.81E+132.85E+132.88E+13,2.91E+132.96E+133.05E+133.13E+13,0,0,0,0,1
+United States,"Gross PSD, General Gov.-D2A, All maturities, D1+ currency and deposits, Maastricht debt, % of GDP",DP.DOD.DLD2A.CR.GG.Z1,General Gov,121.4788478117.125101114.6210861114.8615579,114.9111685112.121458110.9955626110.065475,109.2082933109.3694406110.9994956112.1620766,0,0,0,0,1
+United States,"Gross PSD, General Gov.-D2A, All maturities, D1+ currency and deposits, Maastricht debt, US$",DP.DOD.DLD2A.CR.GG.CD,General Gov,2.62E+132.63E+132.64E+132.72E+13,2.79E+132.79E+132.83E+132.86E+13,2.90E+132.95E+133.04E+133.11E+13,0,0,0,0,1
+United States,"Gross PSD, General Gov.-D3, All maturities, D2+other accounts payable, Nominal Value, % of GDP",DP.DOD.DLD3.CR.GG.Z1,General Gov,130.8286953125.9928205123.4344341123.0911213,122.7920049119.7203895118.3506253117.3654809,116.447541116.5668646118.1771088119.3023786,0,0,0,0,1
+United States,"Gross PSD, General Gov.-D3, All maturities, D2+other accounts payable, Nominal Value, US$",DP.DOD.DLD3.CR.GG.CD,General Gov,2.82E+132.83E+132.84E+132.91E+13,2.98E+132.98E+133.02E+133.05E+13,3.09E+133.14E+133.23E+133.31E+13,0,0,0,0,1
+United States,"Gross PSD, General Gov.-D4, All maturities, D3+insurance, pensions, and standardized guarantees, Nominal Value, US$",DP.DOD.DLD4.CR.GG.CD,General Gov,3.42E+133.40E+133.43E+133.47E+13,3.53E+133.55E+133.58E+133.57E+13,3.60E+133.65E+133.76E+133.79E+13,0,0,0,0,1
+United States,"Gross PSD, General Gov.-D4, All maturities, D3+insurance, pensions, and standardized guarantees, Nominal Value, % of GDP",DP.DOD.DLD4.CR.GG.Z1,General Gov,158.3490224151.7404465149.1618286146.3505784,145.3101081142.3723101140.4399665137.0681321,135.8579997135.5178609137.3662861136.747869,0,0,0,0,1
