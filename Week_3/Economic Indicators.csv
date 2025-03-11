@@ -1,0 +1,376 @@
+Country Name,Country Code,Series Name,Series Code,Series_type,2021 [YR2021],2022 [YR2022],2023 [YR2023]
+United States,USA,GDP (constant 2015 US$),NY.GDP.MKTP.KD,GDP,2.09E+13,2.14E+13,2.21E+13
+United States,USA,GDP (constant LCU),NY.GDP.MKTP.KN,GDP,2.09E+13,2.14E+13,2.21E+13
+United States,USA,GDP (current LCU),NY.GDP.MKTP.CN,GDP,2.37E+13,2.60E+13,2.77E+13
+United States,USA,GDP (current US$),NY.GDP.MKTP.CD,GDP,2.37E+13,2.60E+13,2.77E+13
+United States,USA,GDP deflator (base year varies by country),NY.GDP.DEFL.ZS,GDP,113.2103304,121.2816392,125.6458273
+United States,USA,GDP deflator: linked series (base year varies by country),NY.GDP.DEFL.ZS.AD,GDP,113.2103304,121.2816392,125.6458273
+United States,USA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,GDP,6.055052933,2.51237532,2.887556009
+United States,USA,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,GDP,62996.28938,64342.11794,65875.17788
+United States,USA,GDP per capita (constant LCU),NY.GDP.PCAP.KN,GDP,62996.28938,64342.11794,65875.17788
+United States,USA,GDP per capita (current LCU),NY.GDP.PCAP.CN,GDP,71318.30736,78035.17536,82769.41221
+United States,USA,GDP per capita (current US$),NY.GDP.PCAP.CD,GDP,71318.30736,78035.17536,82769.41221
+United States,USA,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,GDP,5.888314265,2.13636163,2.382669381
+United States,USA,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,GDP,71318.30736,72841.92431,74577.50654
+United States,USA,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,GDP,71318.30736,78035.17536,82769.41221
+United States,USA,GDP per person employed (constant 2021 PPP $),SL.GDP.PCAP.EM.KD,GDP,149677.5556,148984.3277,151285.9913
+United States,USA,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,GDP,..,..,..
+United States,USA,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,GDP,..,..,..
+United States,USA,"GDP, PPP (constant 2021 international $)",NY.GDP.MKTP.PP.KD,GDP,2.37E+13,2.43E+13,2.50E+13
+United States,USA,"GDP, PPP (current international $)",NY.GDP.MKTP.PP.CD,GDP,2.37E+13,2.60E+13,2.77E+13
+United States,USA,GDP: linked series (current LCU),NY.GDP.MKTP.CN.AD,GDP,2.37E+13,2.60E+13,2.77E+13
+United States,USA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,Inflation,4.697858864,8.002799821,4.116338384
+United States,USA,"Inflation, GDP deflator (annual %)",NY.GDP.DEFL.KD.ZG,Inflation,4.565985503,7.129480854,3.598391354
+United States,USA,"Inflation, GDP deflator: linked series (annual %)",NY.GDP.DEFL.KD.ZG.AD,Inflation,4.565985503,7.129480854,3.598391354
+United States,USA,Trade (% of GDP),NE.TRD.GNFS.ZS,Trade,25.21365603,26.89168983,24.89936314
+United States,USA,Trade in services (% of GDP),BG.GSR.NFSV.GD.ZS,Trade,5.805359034,6.394293236,6.402390357
+United States,USA,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,Foreign direct investment,-1.34E+11,-20472000000,1.05E+11
+United States,USA,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,Foreign direct investment,2.009212298,1.572590774,1.258207357
+United States,USA,"Foreign direct investment, net inflows (BoP, current US$)",BX.KLT.DINV.CD.WD,Foreign direct investment,4.76E+11,4.09E+11,3.49E+11
+United States,USA,"Foreign direct investment, net outflows (% of GDP)",BM.KLT.DINV.WD.GD.ZS,Foreign direct investment,1.443991093,1.493873182,1.638067771
+United States,USA,"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Foreign direct investment,3.42E+11,3.89E+11,4.54E+11
+United States,USA,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,Government expenditure,5.428299904,..,..
+United States,USA,"Government expenditure on education, total (% of government expenditure)",SE.XPD.TOTL.GB.ZS,Government expenditure,..,..,..
+United States,USA,"Government expenditure per student, primary (% of GDP per capita)",SE.XPD.PRIM.PC.ZS,Government expenditure,..,..,..
+United States,USA,"Government expenditure per student, secondary (% of GDP per capita)",SE.XPD.SECO.PC.ZS,Government expenditure,..,..,..
+United States,USA,"Government expenditure per student, tertiary (% of GDP per capita)",SE.XPD.TERT.PC.ZS,Government expenditure,..,..,..
+United States,USA,Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Gross national expenditure,112.778323,119.9373267,124.4389885
+United States,USA,Gross national expenditure (current US$),NE.DAB.TOTL.CD,Gross national expenditure,2.45E+13,2.70E+13,2.85E+13
+United States,USA,Gross national expenditure (current LCU),NE.DAB.TOTL.CN,Gross national expenditure,2.45E+13,2.70E+13,2.85E+13
+United States,USA,Gross national expenditure (constant LCU),NE.DAB.TOTL.KN,Gross national expenditure,2.18E+13,2.25E+13,2.29E+13
+United States,USA,Gross national expenditure (constant 2015 US$),NE.DAB.TOTL.KD,Gross national expenditure,2.18E+13,2.25E+13,2.29E+13
+United States,USA,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,Gross national expenditure,103.6317039,103.6872302,102.876337
+United States,USA,Households and NPISHs Final consumption expenditure (current LCU),NE.CON.PRVT.CN,Households and NPISHs Final consumption expenditure,1.61E+13,1.77E+13,1.88E+13
+United States,USA,Households and NPISHs Final consumption expenditure (constant LCU),NE.CON.PRVT.KN,Households and NPISHs Final consumption expenditure,1.44E+13,1.48E+13,1.52E+13
+United States,USA,Households and NPISHs Final consumption expenditure (constant 2015 US$),NE.CON.PRVT.KD,Households and NPISHs Final consumption expenditure,1.44E+13,1.48E+13,1.52E+13
+United States,USA,Households and NPISHs Final consumption expenditure (current US$),NE.CON.PRVT.CD,Households and NPISHs Final consumption expenditure,1.61E+13,1.77E+13,1.88E+13
+United States,USA,Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Households and NPISHs Final consumption expenditure,8.771860138,3.036132793,2.530192584
+United States,USA,Households and NPISHs final consumption expenditure (% of GDP),NE.CON.PRVT.ZS,Households and NPISHs Final consumption expenditure,68.04538931,68.02366203,67.90147034
+United States,USA,Households and NPISHs Final consumption expenditure per capita (constant 2015 US$),NE.CON.PRVT.PC.KD,Households and NPISHs Final consumption expenditure,43330.52173,44482.33277,45384.01617
+United States,USA,Households and NPISHs Final consumption expenditure per capita growth (annual %),NE.CON.PRVT.PC.KD.ZG,Households and NPISHs Final consumption expenditure,8.600850134,2.65819797,2.027059598
+United States,USA,"Households and NPISHs Final consumption expenditure, PPP (constant 2021 international $)",NE.CON.PRVT.PP.KD,Households and NPISHs Final consumption expenditure,1.61E+13,1.66E+13,1.70E+13
+United States,USA,"Households and NPISHs Final consumption expenditure, PPP (current international $)",NE.CON.PRVT.PP.CD,Households and NPISHs Final consumption expenditure,1.61E+13,1.77E+13,1.88E+13
+United States,USA,Households and NPISHs final consumption expenditure: linked series (current LCU),NE.CON.PRVT.CN.AD,Households and NPISHs Final consumption expenditure,1.61E+13,1.77E+13,1.88E+13
+United States,USA,ICT goods imports (% total goods imports),TM.VAL.ICTG.ZS.UN,ICT goods imports,14,12.98,..
+United States,USA,"Imports of goods and services (BoP, current US$)",BM.GSR.GNFS.CD,Imports of goods and services,3.42E+12,3.98E+12,3.86E+12
+United States,USA,Imports of goods and services (constant 2015 US$),NE.IMP.GNFS.KD,Imports of goods and services,3.26E+12,3.54E+12,3.50E+12
+United States,USA,Imports of goods and services (annual % growth),NE.IMP.GNFS.KD.ZG,Imports of goods and services,14.67092666,8.593012129,-1.172116348
+United States,USA,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Imports of goods and services,14.42267783,15.28946191,13.88785186
+United States,USA,Imports of goods and services (constant LCU),NE.IMP.GNFS.KN,Imports of goods and services,3.26E+12,3.54E+12,3.50E+12
+United States,USA,Imports of goods and services (current LCU),NE.IMP.GNFS.CN,Imports of goods and services,3.42E+12,3.98E+12,3.85E+12
+United States,USA,Imports of goods and services (current US$),NE.IMP.GNFS.CD,Imports of goods and services,3.42E+12,3.98E+12,3.85E+12
+United States,USA,"Imports of goods, services and primary income (BoP, current US$)",BM.GSR.TOTL.CD,"Imports of goods, services and primary income",4.35E+12,5.05E+12,5.17E+12
+United States,USA,Interest payments (% of expense),GC.XPN.INTP.ZS,Interest payments,7.88793828,11.50750007,14.27355948
+United States,USA,Interest payments (% of revenue),GC.XPN.INTP.RV.ZS,Interest payments,12.99928208,14.40483819,19.91046667
+United States,USA,Interest payments (current LCU),GC.XPN.INTP.CN,Interest payments,5.75E+11,7.26E+11,9.48E+11
+United States,USA,"Interest rate spread (lending rate minus deposit rate, %)",FR.INR.LNDP,Interest rate spread,..,..,..
+United States,USA,"International tourism, expenditures (current US$)",ST.INT.XPND.CD,"International tourism, expenditures",..,..,..
+United States,USA,"International tourism, expenditures (% of total imports)",ST.INT.XPND.MP.ZS,"International tourism, expenditures",..,..,..
+United States,USA,"International tourism, expenditures for passenger transport items (current US$)",ST.INT.TRNX.CD,"International tourism, expenditures for passenger transport items",..,..,..
+United States,USA,"International tourism, expenditures for travel items (current US$)",ST.INT.TVLX.CD,"International tourism, expenditures for travel items",..,..,..
+United States,USA,Other expense (% of expense),GC.XPN.OTHR.ZS,Other expense,13.322287,5.842579096,7.541347665
+United States,USA,Other expense (current LCU),GC.XPN.OTHR.CN,Other expense,9.70E+11,3.68E+11,5.01E+11
+United States,USA,Out-of-pocket expenditure (% of current health expenditure),SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure,10.70016861,..,..
+United States,USA,Out-of-pocket expenditure per capita (current US$),SH.XPD.OOPC.PC.CD,Out-of-pocket expenditure per capita,1285.330047,..,..
+United States,USA,"Out-of-pocket expenditure per capita, PPP (current international $)",SH.XPD.OOPC.PP.CD,"Out-of-pocket expenditure per capita, PPP",1285.330047,1335.44944,..
+Germany,DEU,GDP (constant 2015 US$),NY.GDP.MKTP.KD,GDP,3.65E+12,3.70E+12,3.69E+12
+Germany,DEU,GDP (constant LCU),NY.GDP.MKTP.KN,GDP,3.29E+12,3.34E+12,3.33E+12
+Germany,DEU,GDP (current LCU),NY.GDP.MKTP.CN,GDP,3.68E+12,3.95E+12,4.19E+12
+Germany,DEU,GDP (current US$),NY.GDP.MKTP.CD,GDP,4.35E+12,4.16E+12,4.53E+12
+Germany,DEU,GDP deflator (base year varies by country),NY.GDP.DEFL.ZS,GDP deflator,111.6881196,118.4919997,125.7708644
+Germany,DEU,GDP deflator: linked series (base year varies by country),NY.GDP.DEFL.ZS.AD,GDP deflator: linked series,111.6881196,118.4919997,125.7708644
+Germany,DEU,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,GDP growth,3.669999862,1.369731055,-0.26643841
+Germany,DEU,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,GDP per capita,43898.77132,44180.42984,44336.77752
+Germany,DEU,GDP per capita (constant LCU),NY.GDP.PCAP.KN,GDP per capita,39565.80558,39819.6634,39960.579
+Germany,DEU,GDP per capita (current LCU),NY.GDP.PCAP.CN,GDP per capita,44190.30426,47183.11544,50258.76561
+Germany,DEU,GDP per capita (current US$),NY.GDP.PCAP.CD,GDP per capita,52265.65416,49686.11546,54343.22651
+Germany,DEU,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,GDP per capita growth,3.626128687,0.641609124,0.353884463
+Germany,DEU,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,"GDP per capita, PPP",62474.364,62875.20522,63097.7108
+Germany,DEU,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,"GDP per capita, PPP",62474.364,67533.05286,69027.09457
+Germany,DEU,GDP per person employed (constant 2021 PPP $),SL.GDP.PCAP.EM.KD,GDP per person employed,124561.4046,123731.8219,123727.6085
+Germany,DEU,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,GDP per unit of energy use,..,..,..
+Germany,DEU,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,GDP per unit of energy use,..,..,..
+Germany,DEU,"GDP, PPP (constant 2021 international $)",NY.GDP.MKTP.PP.KD,"GDP, PPP",5.20E+12,5.27E+12,5.25E+12
+Germany,DEU,"GDP, PPP (current international $)",NY.GDP.MKTP.PP.CD,"GDP, PPP",5.20E+12,5.66E+12,5.75E+12
+Germany,DEU,GDP: linked series (current LCU),NY.GDP.MKTP.CN.AD,GDP: linked series,3.68E+12,3.95E+12,4.19E+12
+Germany,DEU,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,"Inflation, consumer prices",3.066666667,6.872574386,5.946436677
+Germany,DEU,"Inflation, GDP deflator (annual %)",NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator",2.802929388,6.091856622,6.14291653
+Germany,DEU,"Inflation, GDP deflator: linked series (annual %)",NY.GDP.DEFL.KD.ZG.AD,"Inflation, GDP deflator: linked series",2.802929388,6.091856622,6.14291653
+Germany,DEU,Trade (% of GDP),NE.TRD.GNFS.ZS,Trade,80.15661805,89.06412737,82.79910645
+Germany,DEU,Trade in services (% of GDP),BG.GSR.NFSV.GD.ZS,Trade in services,18.70123899,21.65352325,21.11559009
+Germany,DEU,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,"Foreign direct investment, net",96711985272,1.17E+11,72407214132
+Germany,DEU,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows",2.349165282,1.506606153,0.431214647
+Germany,DEU,"Foreign direct investment, net inflows (BoP, current US$)",BX.KLT.DINV.CD.WD,"Foreign direct investment, net inflows",1.02E+11,62728998896,19515498092
+Germany,DEU,"Foreign direct investment, net outflows (% of GDP)",BM.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net outflows",4.573353851,4.319008164,2.031149245
+Germany,DEU,"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,"Foreign direct investment, net outflows",1.99E+11,1.80E+11,91923800663
+Germany,DEU,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,"Government expenditure on education, total",5.454889774,4.543890476,..
+Germany,DEU,"Government expenditure on education, total (% of government expenditure)",SE.XPD.TOTL.GB.ZS,"Government expenditure on education, total",9.0661726,9.190701485,..
+Germany,DEU,"Government expenditure per student, primary (% of GDP per capita)",SE.XPD.PRIM.PC.ZS,"Government expenditure per student, primary",..,..,..
+Germany,DEU,"Government expenditure per student, secondary (% of GDP per capita)",SE.XPD.SECO.PC.ZS,"Government expenditure per student, secondary",..,..,..
+Germany,DEU,"Government expenditure per student, tertiary (% of GDP per capita)",SE.XPD.TERT.PC.ZS,"Government expenditure per student, tertiary",..,..,..
+Germany,DEU,Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Gross national expenditure deflator,112.0046893,120.3771064,125.9627584
+Germany,DEU,Gross national expenditure (current US$),NE.DAB.TOTL.CD,Gross national expenditure,4.12E+12,4.06E+12,4.34E+12
+Germany,DEU,Gross national expenditure (current LCU),NE.DAB.TOTL.CN,Gross national expenditure,3.49E+12,3.86E+12,4.02E+12
+Germany,DEU,Gross national expenditure (constant LCU),NE.DAB.TOTL.KN,Gross national expenditure,3.11E+12,3.20E+12,3.19E+12
+Germany,DEU,Gross national expenditure (constant 2015 US$),NE.DAB.TOTL.KD,Gross national expenditure,3.45E+12,3.55E+12,3.54E+12
+Germany,DEU,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,Gross national expenditure,94.84145074,97.50309192,95.99440934
+Germany,DEU,Households and NPISHs Final consumption expenditure (current LCU),NE.CON.PRVT.CN,Households and NPISHs Final consumption expenditure,1.79E+12,1.98E+12,2.09E+12
+Germany,DEU,Households and NPISHs Final consumption expenditure (constant LCU),NE.CON.PRVT.KN,Households and NPISHs Final consumption expenditure,1.64E+12,1.71E+12,1.69E+12
+Germany,DEU,Households and NPISHs Final consumption expenditure (constant 2015 US$),NE.CON.PRVT.KD,Households and NPISHs Final consumption expenditure,1.82E+12,1.89E+12,1.88E+12
+Germany,DEU,Households and NPISHs Final consumption expenditure (current US$),NE.CON.PRVT.CD,Households and NPISHs Final consumption expenditure,2.11E+12,2.08E+12,2.26E+12
+Germany,DEU,Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Households and NPISHs Final consumption expenditure,1.497273057,3.917546101,-0.723888823
+Germany,DEU,Households and NPISHs final consumption expenditure (% of GDP),NE.CON.PRVT.ZS,Households and NPISHs final consumption expenditure,48.56546787,50.05999216,49.92660463
+Germany,DEU,Households and NPISHs Final consumption expenditure per capita (constant 2015 US$),NE.CON.PRVT.PC.KD,Households and NPISHs Final consumption expenditure per capita,21881.89351,22575.79541,22551.77223
+Germany,DEU,Households and NPISHs Final consumption expenditure per capita growth (annual %),NE.CON.PRVT.PC.KD.ZG,Households and NPISHs Final consumption expenditure per capita growth,1.454321339,3.171123638,-0.1064112
+Germany,DEU,"Households and NPISHs Final consumption expenditure, PPP (constant 2021 international $)",NE.CON.PRVT.PP.KD,"Households and NPISHs Final consumption expenditure, PPP",2.40E+12,2.50E+12,2.48E+12
+Germany,DEU,"Households and NPISHs Final consumption expenditure, PPP (current international $)",NE.CON.PRVT.PP.CD,"Households and NPISHs Final consumption expenditure, PPP",2.40E+12,2.71E+12,2.80E+12
+Germany,DEU,Households and NPISHs final consumption expenditure: linked series (current LCU),NE.CON.PRVT.CN.AD,Households and NPISHs final consumption expenditure: linked series,1.79E+12,1.98E+12,2.09E+12
+Germany,DEU,ICT goods imports (% total goods imports),TM.VAL.ICTG.ZS.UN,ICT goods imports,8.53,7.48,..
+Germany,DEU,"Imports of goods and services (BoP, current US$)",BM.GSR.GNFS.CD,Imports of goods and services,1.63E+12,1.80E+12,1.78E+12
+Germany,DEU,Imports of goods and services (constant 2015 US$),NE.IMP.GNFS.KD,Imports of goods and services,1.41E+12,1.51E+12,1.50E+12
+Germany,DEU,Imports of goods and services (annual % growth),NE.IMP.GNFS.KD.ZG,Imports of goods and services,8.980000075,6.992108481,-0.626071743
+Germany,DEU,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Imports of goods and services,37.4990344,43.28360965,39.39675789
+Germany,DEU,Imports of goods and services (constant LCU),NE.IMP.GNFS.KN,Imports of goods and services,1.28E+12,1.36E+12,1.36E+12
+Germany,DEU,Imports of goods and services (current LCU),NE.IMP.GNFS.CN,Imports of goods and services,1.38E+12,1.71E+12,1.65E+12
+Germany,DEU,Imports of goods and services (current US$),NE.IMP.GNFS.CD,Imports of goods and services,1.63E+12,1.80E+12,1.78E+12
+Germany,DEU,"Imports of goods, services and primary income (BoP, current US$)",BM.GSR.TOTL.CD,"Imports of goods, services and primary income",1.77E+12,1.98E+12,2.06E+12
+Germany,DEU,Interest payments (% of expense),GC.XPN.INTP.ZS,Interest payments,0.865111732,1.341976444,..
+Germany,DEU,Interest payments (% of revenue),GC.XPN.INTP.RV.ZS,Interest payments,0.976158361,1.476652696,..
+Germany,DEU,Interest payments (current LCU),GC.XPN.INTP.CN,Interest payments,10407000000,16690000000,..
+Germany,DEU,"Interest rate spread (lending rate minus deposit rate, %)",FR.INR.LNDP,Interest rate spread,..,..,..
+Germany,DEU,"International tourism, expenditures (current US$)",ST.INT.XPND.CD,"International tourism, expenditures",..,..,..
+Germany,DEU,"International tourism, expenditures (% of total imports)",ST.INT.XPND.MP.ZS,"International tourism, expenditures",..,..,..
+Germany,DEU,"International tourism, expenditures for passenger transport items (current US$)",ST.INT.TRNX.CD,"International tourism, expenditures for passenger transport items",..,..,..
+Germany,DEU,"International tourism, expenditures for travel items (current US$)",ST.INT.TVLX.CD,"International tourism, expenditures for travel items",..,..,..
+Germany,DEU,Other expense (% of expense),GC.XPN.OTHR.ZS,Other expense,5.50880491,7.925000826,..
+Germany,DEU,Other expense (current LCU),GC.XPN.OTHR.CN,Other expense,66269050071,98562284275,..
+Germany,DEU,Out-of-pocket expenditure (% of current health expenditure),SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure,12.16129494,..,..
+Germany,DEU,Out-of-pocket expenditure per capita (current US$),SH.XPD.OOPC.PC.CD,Out-of-pocket expenditure per capita,805.8079241,..,..
+Germany,DEU,"Out-of-pocket expenditure per capita, PPP (current international $)",SH.XPD.OOPC.PP.CD,"Out-of-pocket expenditure per capita, PPP",916.2058495,899.6585593,..
+China,CHN,GDP (constant 2015 US$),NY.GDP.MKTP.KD,GDP,1.59E+13,1.63E+13,1.72E+13
+China,CHN,GDP (constant LCU),NY.GDP.MKTP.KN,GDP,1.10E+14,1.13E+14,1.19E+14
+China,CHN,GDP (current LCU),NY.GDP.MKTP.CN,GDP,1.15E+14,1.20E+14,1.26E+14
+China,CHN,GDP (current US$),NY.GDP.MKTP.CD,GDP,1.78E+13,1.79E+13,1.78E+13
+China,CHN,GDP deflator (base year varies by country),NY.GDP.DEFL.ZS,GDP deflator,104.5523266,106.4590234,105.8390127
+China,CHN,GDP deflator: linked series (base year varies by country),NY.GDP.DEFL.ZS.AD,GDP deflator: linked series,104.5523266,106.4590234,105.8390127
+China,CHN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,GDP growth,8.448469417,2.95066993,5.249557864
+China,CHN,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,GDP per capita,11223.25535,11555.93024,12175.19611
+China,CHN,GDP per capita (constant LCU),NY.GDP.PCAP.KN,GDP per capita,77827.03421,80133.94957,84428.21403
+China,CHN,GDP per capita (current LCU),NY.GDP.PCAP.CN,GDP per capita,81369.97498,85309.82014,89357.98815
+China,CHN,GDP per capita (current US$),NY.GDP.PCAP.CD,GDP per capita,12617.5051,12662.58267,12614.06174
+China,CHN,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,GDP per capita growth,8.351719954,2.964156837,5.358857863
+China,CHN,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,"GDP per capita, PPP",20406.72966,21011.61713,22137.59983
+China,CHN,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,"GDP per capita, PPP",20406.72966,22509.63635,24569.28651
+China,CHN,GDP per person employed (constant 2021 PPP $),SL.GDP.PCAP.EM.KD,GDP per person employed,38653.6718,40548.92627,42291.69881
+China,CHN,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,GDP per unit of energy use,..,..,..
+China,CHN,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,GDP per unit of energy use,..,..,..
+China,CHN,"GDP, PPP (constant 2021 international $)",NY.GDP.MKTP.PP.KD,"GDP, PPP",2.88E+13,2.97E+13,3.12E+13
+China,CHN,"GDP, PPP (current international $)",NY.GDP.MKTP.PP.CD,"GDP, PPP",2.88E+13,3.18E+13,3.47E+13
+China,CHN,GDP: linked series (current LCU),NY.GDP.MKTP.CN.AD,GDP: linked series,1.15E+14,1.20E+14,1.26E+14
+China,CHN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,"Inflation, consumer prices",0.981015136,1.973575557,0.234836829
+China,CHN,"Inflation, GDP deflator (annual %)",NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator",4.552326579,1.823677107,-0.582393794
+China,CHN,"Inflation, GDP deflator: linked series (annual %)",NY.GDP.DEFL.KD.ZG.AD,"Inflation, GDP deflator: linked series",4.552326579,1.823677107,-0.582393794
+China,CHN,Trade (% of GDP),NE.TRD.GNFS.ZS,Trade,37.30199087,38.35148208,37.31677136
+China,CHN,Trade in services (% of GDP),BG.GSR.NFSV.GD.ZS,Trade in services,4.376980703,4.65518874,4.899991756
+China,CHN,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,"Foreign direct investment, net",-1.65E+11,19846371667,1.43E+11
+China,CHN,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows",1.930786223,1.06367353,0.240113517
+China,CHN,"Foreign direct investment, net inflows (BoP, current US$)",BX.KLT.DINV.CD.WD,"Foreign direct investment, net inflows",3.44E+11,1.90E+11,42727679407
+China,CHN,"Foreign direct investment, net outflows (% of GDP)",BM.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net outflows",1.003328449,1.174660069,1.041324581
+China,CHN,"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,"Foreign direct investment, net outflows",1.79E+11,2.10E+11,1.85E+11
+China,CHN,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,"Government expenditure on education, total",3.988325119,4.023569584,..
+China,CHN,"Government expenditure on education, total (% of government expenditure)",SE.XPD.TOTL.GB.ZS,"Government expenditure on education, total",10.85031796,10.50490284,..
+China,CHN,"Government expenditure per student, primary (% of GDP per capita)",SE.XPD.PRIM.PC.ZS,"Government expenditure per student, primary",..,..,..
+China,CHN,"Government expenditure per student, secondary (% of GDP per capita)",SE.XPD.SECO.PC.ZS,"Government expenditure per student, secondary",..,..,..
+China,CHN,"Government expenditure per student, tertiary (% of GDP per capita)",SE.XPD.TERT.PC.ZS,"Government expenditure per student, tertiary",..,..,..
+China,CHN,Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Gross national expenditure deflator,104.5215158,106.2508276,106.0653246
+China,CHN,Gross national expenditure (current US$),NE.DAB.TOTL.CD,Gross national expenditure,1.73E+13,1.73E+13,1.74E+13
+China,CHN,Gross national expenditure (current LCU),NE.DAB.TOTL.CN,Gross national expenditure,1.12E+14,1.16E+14,1.23E+14
+China,CHN,Gross national expenditure (constant LCU),NE.DAB.TOTL.KN,Gross national expenditure,1.07E+14,1.10E+14,1.16E+14
+China,CHN,Gross national expenditure (constant 2015 US$),NE.DAB.TOTL.KD,Gross national expenditure,1.51E+13,1.55E+13,1.65E+13
+China,CHN,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,Gross national expenditure,97.06200273,96.58819111,97.716787
+China,CHN,Households and NPISHs Final consumption expenditure (current LCU),NE.CON.PRVT.CN,Households and NPISHs Final consumption expenditure,4.38E+13,4.50E+13,4.93E+13
+China,CHN,Households and NPISHs Final consumption expenditure (constant LCU),NE.CON.PRVT.KN,Households and NPISHs Final consumption expenditure,4.35E+13,4.38E+13,..
+China,CHN,Households and NPISHs Final consumption expenditure (constant 2015 US$),NE.CON.PRVT.KD,Households and NPISHs Final consumption expenditure,6.29E+12,6.34E+12,..
+China,CHN,Households and NPISHs Final consumption expenditure (current US$),NE.CON.PRVT.CD,Households and NPISHs Final consumption expenditure,6.79E+12,6.69E+12,6.96E+12
+China,CHN,Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Households and NPISHs Final consumption expenditure,12.2279168,0.843032913,..
+China,CHN,Households and NPISHs final consumption expenditure (% of GDP),NE.CON.PRVT.ZS,Households and NPISHs final consumption expenditure,38.11356525,37.39181085,39.12852426
+China,CHN,Households and NPISHs Final consumption expenditure per capita (constant 2015 US$),NE.CON.PRVT.PC.KD,Households and NPISHs Final consumption expenditure per capita,4453.205874,4491.336169,..
+China,CHN,Households and NPISHs Final consumption expenditure per capita growth (annual %),NE.CON.PRVT.PC.KD.ZG,Households and NPISHs Final consumption expenditure per capita growth,12.12779561,0.856243713,..
+China,CHN,"Households and NPISHs Final consumption expenditure, PPP (constant 2021 international $)",NE.CON.PRVT.PP.KD,"Households and NPISHs Final consumption expenditure, PPP",1.09E+13,1.10E+13,..
+China,CHN,"Households and NPISHs Final consumption expenditure, PPP (current international $)",NE.CON.PRVT.PP.CD,"Households and NPISHs Final consumption expenditure, PPP",1.09E+13,1.19E+13,1.35E+13
+China,CHN,Households and NPISHs final consumption expenditure: linked series (current LCU),NE.CON.PRVT.CN.AD,Households and NPISHs final consumption expenditure: linked series,4.38E+13,4.50E+13,4.93E+13
+China,CHN,ICT goods imports (% total goods imports),TM.VAL.ICTG.ZS.UN,ICT goods imports,23.71,22.14,..
+China,CHN,"Imports of goods and services (BoP, current US$)",BM.GSR.GNFS.CD,Imports of goods and services,3.09E+12,3.14E+12,3.13E+12
+China,CHN,Imports of goods and services (constant 2015 US$),NE.IMP.GNFS.KD,Imports of goods and services,..,..,..
+China,CHN,Imports of goods and services (annual % growth),NE.IMP.GNFS.KD.ZG,Imports of goods and services,..,..,..
+China,CHN,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Imports of goods and services,17.35801703,17.55999902,17.57369904
+China,CHN,Imports of goods and services (constant LCU),NE.IMP.GNFS.KN,Imports of goods and services,..,..,..
+China,CHN,Imports of goods and services (current LCU),NE.IMP.GNFS.CN,Imports of goods and services,1.99E+13,2.12E+13,2.22E+13
+China,CHN,Imports of goods and services (current US$),NE.IMP.GNFS.CD,Imports of goods and services,3.09E+12,3.14E+12,3.13E+12
+China,CHN,"Imports of goods, services and primary income (BoP, current US$)",BM.GSR.TOTL.CD,"Imports of goods, services and primary income",3.55E+12,3.57E+12,3.51E+12
+China,CHN,Interest payments (% of expense),GC.XPN.INTP.ZS,Interest payments,..,..,..
+China,CHN,Interest payments (% of revenue),GC.XPN.INTP.RV.ZS,Interest payments,3.441940425,..,..
+China,CHN,Interest payments (current LCU),GC.XPN.INTP.CN,Interest payments,5.91E+11,..,..
+China,CHN,"Interest rate spread (lending rate minus deposit rate, %)",FR.INR.LNDP,Interest rate spread,2.85,2.85,2.85
+China,CHN,"International tourism, expenditures (current US$)",ST.INT.XPND.CD,"International tourism, expenditures",..,..,..
+China,CHN,"International tourism, expenditures (% of total imports)",ST.INT.XPND.MP.ZS,"International tourism, expenditures",..,..,..
+China,CHN,"International tourism, expenditures for passenger transport items (current US$)",ST.INT.TRNX.CD,"International tourism, expenditures for passenger transport items",..,..,..
+China,CHN,"International tourism, expenditures for travel items (current US$)",ST.INT.TVLX.CD,"International tourism, expenditures for travel items",..,..,..
+China,CHN,Other expense (% of expense),GC.XPN.OTHR.ZS,Other expense,..,..,..
+China,CHN,Other expense (current LCU),GC.XPN.OTHR.CN,Other expense,..,..,..
+China,CHN,Out-of-pocket expenditure (% of current health expenditure),SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure,34.39476395,..,..
+China,CHN,Out-of-pocket expenditure per capita (current US$),SH.XPD.OOPC.PC.CD,Out-of-pocket expenditure per capita,230.6219123,..,..
+China,CHN,"Out-of-pocket expenditure per capita, PPP (current international $)",SH.XPD.OOPC.PP.CD,"Out-of-pocket expenditure per capita, PPP",355.1835694,..,..
+India,IND,GDP (constant 2015 US$),NY.GDP.MKTP.KD,GDP,2.78E+12,2.97E+12,3.22E+12
+India,IND,GDP (constant LCU),NY.GDP.MKTP.KN,GDP,1.50E+14,1.61E+14,1.74E+14
+India,IND,GDP (current LCU),NY.GDP.MKTP.CN,GDP,2.36E+14,2.69E+14,2.95E+14
+India,IND,GDP (current US$),NY.GDP.MKTP.CD,GDP,3.17E+12,3.35E+12,3.57E+12
+India,IND,GDP deflator (base year varies by country),NY.GDP.DEFL.ZS,GDP deflator,157.0872056,167.6866853,169.9237107
+India,IND,GDP deflator: linked series (base year varies by country),NY.GDP.DEFL.ZS.AD,GDP deflator: linked series,157.0872056,167.6866853,169.9237107
+India,IND,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,GDP growth,9.689592492,6.987039326,8.152936311
+India,IND,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,GDP per capita,1965.309434,2086.076886,2236.312793
+India,IND,GDP per capita (constant LCU),NY.GDP.PCAP.KN,GDP per capita,106221.2196,112748.4696,120868.4333
+India,IND,GDP per capita (current LCU),NY.GDP.PCAP.CN,GDP per capita,166859.9457,189064.1715,205384.1269
+India,IND,GDP per capita (current US$),NY.GDP.PCAP.CD,GDP per capita,2239.613844,2352.613925,2480.792087
+India,IND,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,GDP per capita growth,8.790934477,6.144958608,7.201839391
+India,IND,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,"GDP per capita, PPP",8050.018575,8544.688884,9160.063654
+India,IND,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,"GDP per capita, PPP",8050.018575,9153.880842,10166.24341
+India,IND,GDP per person employed (constant 2021 PPP $),SL.GDP.PCAP.EM.KD,GDP per person employed,22095.29914,22493.65128,23339.60475
+India,IND,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,GDP per unit of energy use,..,..,..
+India,IND,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,GDP per unit of energy use,..,..,..
+India,IND,"GDP, PPP (constant 2021 international $)",NY.GDP.MKTP.PP.KD,"GDP, PPP",1.14E+13,1.22E+13,1.32E+13
+India,IND,"GDP, PPP (current international $)",NY.GDP.MKTP.PP.CD,"GDP, PPP",1.14E+13,1.30E+13,1.46E+13
+India,IND,GDP: linked series (current LCU),NY.GDP.MKTP.CN.AD,GDP: linked series,2.36E+14,2.69E+14,2.95E+14
+India,IND,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,"Inflation, consumer prices",5.131407472,6.699034141,5.649143189
+India,IND,"Inflation, GDP deflator (annual %)",NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator",8.354907715,6.747513083,1.334050656
+India,IND,"Inflation, GDP deflator: linked series (annual %)",NY.GDP.DEFL.KD.ZG.AD,"Inflation, GDP deflator: linked series",8.354907715,6.747513083,1.334050656
+India,IND,Trade (% of GDP),NE.TRD.GNFS.ZS,Trade,45.42308878,49.96531997,45.92185022
+India,IND,Trade in services (% of GDP),BG.GSR.NFSV.GD.ZS,Trade in services,11.95443976,14.49887633,14.46191766
+India,IND,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,"Foreign direct investment, net",-27488543123,-35408008686,-14200416754
+India,IND,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows",1.41217101,1.489211205,0.787065923
+India,IND,"Foreign direct investment, net inflows (BoP, current US$)",BX.KLT.DINV.CD.WD,"Foreign direct investment, net inflows",44727277563,49940258404,28078983530
+India,IND,"Foreign direct investment, net outflows (% of GDP)",BM.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net outflows",0.544277281,0.433349562,0.389022165
+India,IND,"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,"Foreign direct investment, net outflows",17238734439,14532249718,13878566777
+India,IND,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,"Government expenditure on education, total",4.635141373,4.120728493,..
+India,IND,"Government expenditure on education, total (% of government expenditure)",SE.XPD.TOTL.GB.ZS,"Government expenditure on education, total",14.64736176,14.15547466,..
+India,IND,"Government expenditure per student, primary (% of GDP per capita)",SE.XPD.PRIM.PC.ZS,"Government expenditure per student, primary",..,..,..
+India,IND,"Government expenditure per student, secondary (% of GDP per capita)",SE.XPD.SECO.PC.ZS,"Government expenditure per student, secondary",..,..,..
+India,IND,"Government expenditure per student, tertiary (% of GDP per capita)",SE.XPD.TERT.PC.ZS,"Government expenditure per student, tertiary",..,..,..
+India,IND,Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Gross national expenditure deflator,155.9191141,168.9326313,174.1070675
+India,IND,Gross national expenditure (current US$),NE.DAB.TOTL.CD,Gross national expenditure,3.28E+12,3.51E+12,3.71E+12
+India,IND,Gross national expenditure (current LCU),NE.DAB.TOTL.CN,Gross national expenditure,2.44E+14,2.82E+14,3.07E+14
+India,IND,Gross national expenditure (constant LCU),NE.DAB.TOTL.KN,Gross national expenditure,1.57E+14,1.67E+14,1.77E+14
+India,IND,Gross national expenditure (constant 2015 US$),NE.DAB.TOTL.KD,Gross national expenditure,2.93E+12,3.12E+12,3.29E+12
+India,IND,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,Gross national expenditure,103.54258,104.6619044,104.0529743
+India,IND,Households and NPISHs Final consumption expenditure (current LCU),NE.CON.PRVT.CN,Households and NPISHs Final consumption expenditure,1.44E+14,1.64E+14,1.78E+14
+India,IND,Households and NPISHs Final consumption expenditure (constant LCU),NE.CON.PRVT.KN,Households and NPISHs Final consumption expenditure,8.73E+13,9.32E+13,9.70E+13
+India,IND,Households and NPISHs Final consumption expenditure (constant 2015 US$),NE.CON.PRVT.KD,Households and NPISHs Final consumption expenditure,1.70E+12,1.81E+12,1.89E+12
+India,IND,Households and NPISHs Final consumption expenditure (current US$),NE.CON.PRVT.CD,Households and NPISHs Final consumption expenditure,1.93E+12,2.04E+12,2.15E+12
+India,IND,Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Households and NPISHs Final consumption expenditure,11.67675534,6.770640374,4.026132492
+India,IND,Households and NPISHs final consumption expenditure (% of GDP),NE.CON.PRVT.ZS,Households and NPISHs final consumption expenditure,60.95037963,60.93785235,60.34238606
+India,IND,Households and NPISHs Final consumption expenditure per capita (constant 2015 US$),NE.CON.PRVT.PC.KD,Households and NPISHs Final consumption expenditure per capita,1201.100469,1272.328884,1311.915192
+India,IND,Households and NPISHs Final consumption expenditure per capita growth (annual %),NE.CON.PRVT.PC.KD.ZG,Households and NPISHs Final consumption expenditure per capita growth,10.76181703,5.930262903,3.111326685
+India,IND,"Households and NPISHs Final consumption expenditure, PPP (constant 2021 international $)",NE.CON.PRVT.PP.KD,"Households and NPISHs Final consumption expenditure, PPP",7.39E+12,7.89E+12,8.21E+12
+India,IND,"Households and NPISHs Final consumption expenditure, PPP (current international $)",NE.CON.PRVT.PP.CD,"Households and NPISHs Final consumption expenditure, PPP",7.39E+12,8.54E+12,9.13E+12
+India,IND,Households and NPISHs final consumption expenditure: linked series (current LCU),NE.CON.PRVT.CN.AD,Households and NPISHs final consumption expenditure: linked series,1.44E+14,1.64E+14,1.78E+14
+India,IND,ICT goods imports (% total goods imports),TM.VAL.ICTG.ZS.UN,ICT goods imports,9.39,7.64,..
+India,IND,"Imports of goods and services (BoP, current US$)",BM.GSR.GNFS.CD,Imports of goods and services,7.17E+11,9.02E+11,8.60E+11
+India,IND,Imports of goods and services (constant 2015 US$),NE.IMP.GNFS.KD,Imports of goods and services,6.56E+11,7.26E+11,8.05E+11
+India,IND,Imports of goods and services (annual % growth),NE.IMP.GNFS.KD.ZG,Imports of goods and services,22.09442246,10.58979485,10.94276103
+India,IND,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Imports of goods and services,24.02393045,26.76483213,24.07363871
+India,IND,Imports of goods and services (constant LCU),NE.IMP.GNFS.KN,Imports of goods and services,3.54E+13,3.92E+13,4.35E+13
+India,IND,Imports of goods and services (current LCU),NE.IMP.GNFS.CN,Imports of goods and services,5.67E+13,7.21E+13,7.11E+13
+India,IND,Imports of goods and services (current US$),NE.IMP.GNFS.CD,Imports of goods and services,7.61E+11,8.98E+11,8.59E+11
+India,IND,"Imports of goods, services and primary income (BoP, current US$)",BM.GSR.TOTL.CD,"Imports of goods, services and primary income",7.78E+11,9.71E+11,9.45E+11
+India,IND,Interest payments (% of expense),GC.XPN.INTP.ZS,Interest payments,..,23.22659299,..
+India,IND,Interest payments (% of revenue),GC.XPN.INTP.RV.ZS,Interest payments,..,33.97619976,..
+India,IND,Interest payments (current LCU),GC.XPN.INTP.CN,Interest payments,..,8.33E+12,..
+India,IND,"Interest rate spread (lending rate minus deposit rate, %)",FR.INR.LNDP,Interest rate spread,..,..,..
+India,IND,"International tourism, expenditures (current US$)",ST.INT.XPND.CD,"International tourism, expenditures",..,..,..
+India,IND,"International tourism, expenditures (% of total imports)",ST.INT.XPND.MP.ZS,"International tourism, expenditures",..,..,..
+India,IND,"International tourism, expenditures for passenger transport items (current US$)",ST.INT.TRNX.CD,"International tourism, expenditures for passenger transport items",..,..,..
+India,IND,"International tourism, expenditures for travel items (current US$)",ST.INT.TVLX.CD,"International tourism, expenditures for travel items",..,..,..
+India,IND,Other expense (% of expense),GC.XPN.OTHR.ZS,Other expense,..,15.70414856,..
+India,IND,Other expense (current LCU),GC.XPN.OTHR.CN,Other expense,..,5.63E+12,..
+India,IND,Out-of-pocket expenditure (% of current health expenditure),SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure,49.82,..,..
+India,IND,Out-of-pocket expenditure per capita (current US$),SH.XPD.OOPC.PC.CD,Out-of-pocket expenditure per capita,37,..,..
+India,IND,"Out-of-pocket expenditure per capita, PPP (current international $)",SH.XPD.OOPC.PP.CD,"Out-of-pocket expenditure per capita, PPP",117,..,..
+Japan,JPN,GDP (constant 2015 US$),NY.GDP.MKTP.KD,GDP,4.49E+12,4.53E+12,4.61E+12
+Japan,JPN,GDP (constant LCU),NY.GDP.MKTP.KN,GDP,5.43E+14,5.48E+14,5.58E+14
+Japan,JPN,GDP (current LCU),NY.GDP.MKTP.CN,GDP,5.53E+14,5.60E+14,5.91E+14
+Japan,JPN,GDP (current US$),NY.GDP.MKTP.CD,GDP,5.03E+12,4.26E+12,4.20E+12
+Japan,JPN,GDP deflator (base year varies by country),NY.GDP.DEFL.ZS,GDP deflator,101.7389989,102.0787867,105.9506533
+Japan,JPN,GDP deflator: linked series (base year varies by country),NY.GDP.DEFL.ZS.AD,GDP deflator: linked series,101.7389989,102.0787867,105.9506533
+Japan,JPN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,GDP growth,2.559320239,0.954736938,1.679019523
+Japan,JPN,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,GDP per capita,35701.45427,36202.63927,36990.33011
+Japan,JPN,GDP per capita (constant LCU),NY.GDP.PCAP.KN,GDP per capita,4321447.748,4382113.198,4477458.468
+Japan,JPN,GDP per capita (current LCU),NY.GDP.PCAP.CN,GDP per capita,4396597.678,4473207.986,4743896.499
+Japan,JPN,GDP per capita (current US$),NY.GDP.PCAP.CD,GDP per capita,40058.53733,34017.27181,33766.52683
+Japan,JPN,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,GDP per capita growth,3.032130828,1.403822375,2.175782912
+Japan,JPN,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,"GDP per capita, PPP",44347.65935,44970.22171,45948.67611
+Japan,JPN,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,"GDP per capita, PPP",44347.65935,47366.33689,49885.19791
+Japan,JPN,GDP per person employed (constant 2021 PPP $),SL.GDP.PCAP.EM.KD,GDP per person employed,83526.9639,83812.30236,84888.82491
+Japan,JPN,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,GDP per unit of energy use,..,..,..
+Japan,JPN,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,GDP per unit of energy use,..,..,..
+Japan,JPN,"GDP, PPP (constant 2021 international $)",NY.GDP.MKTP.PP.KD,"GDP, PPP",5.57E+12,5.63E+12,5.72E+12
+Japan,JPN,"GDP, PPP (current international $)",NY.GDP.MKTP.PP.CD,"GDP, PPP",5.57E+12,5.93E+12,6.21E+12
+Japan,JPN,GDP: linked series (current LCU),NY.GDP.MKTP.CN.AD,GDP: linked series,5.53E+14,5.60E+14,5.91E+14
+Japan,JPN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,"Inflation, consumer prices",-0.233352779,2.497702782,3.268133659
+Japan,JPN,"Inflation, GDP deflator (annual %)",NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator",-0.190060625,0.333979877,3.793017835
+Japan,JPN,"Inflation, GDP deflator: linked series (annual %)",NY.GDP.DEFL.KD.ZG.AD,"Inflation, GDP deflator: linked series",-0.190060625,0.333979877,3.793017835
+Japan,JPN,Trade (% of GDP),NE.TRD.GNFS.ZS,Trade,36.77148329,46.84373214,45.16264848
+Japan,JPN,Trade in services (% of GDP),BG.GSR.NFSV.GD.ZS,Trade in services,7.553455263,8.999118541,10.34785306
+Japan,JPN,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,"Foreign direct investment, net",1.75E+11,1.27E+11,1.62E+11
+Japan,JPN,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows",0.695725962,1.127819293,0.475297449
+Japan,JPN,"Foreign direct investment, net inflows (BoP, current US$)",BX.KLT.DINV.CD.WD,"Foreign direct investment, net inflows",35027163876,48004621741,19983856530
+Japan,JPN,"Foreign direct investment, net outflows (% of GDP)",BM.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net outflows",4.164997692,4.108185939,4.33035119
+Japan,JPN,"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,"Foreign direct investment, net outflows",2.10E+11,1.75E+11,1.82E+11
+Japan,JPN,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,"Government expenditure on education, total",3.335639954,3.237621307,..
+Japan,JPN,"Government expenditure on education, total (% of government expenditure)",SE.XPD.TOTL.GB.ZS,"Government expenditure on education, total",7.410834312,7.521291256,..
+Japan,JPN,"Government expenditure per student, primary (% of GDP per capita)",SE.XPD.PRIM.PC.ZS,"Government expenditure per student, primary",..,..,..
+Japan,JPN,"Government expenditure per student, secondary (% of GDP per capita)",SE.XPD.SECO.PC.ZS,"Government expenditure per student, secondary",..,..,..
+Japan,JPN,"Government expenditure per student, tertiary (% of GDP per capita)",SE.XPD.TERT.PC.ZS,"Government expenditure per student, tertiary",..,..,..
+Japan,JPN,Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Gross national expenditure deflator,102.4608291,105.5753952,108.3416963
+Japan,JPN,Gross national expenditure (current US$),NE.DAB.TOTL.CD,Gross national expenditure,5.06E+12,4.42E+12,4.27E+12
+Japan,JPN,Gross national expenditure (current LCU),NE.DAB.TOTL.CN,Gross national expenditure,5.55E+14,5.81E+14,6.00E+14
+Japan,JPN,Gross national expenditure (constant LCU),NE.DAB.TOTL.KN,Gross national expenditure,5.42E+14,5.50E+14,5.54E+14
+Japan,JPN,Gross national expenditure (constant 2015 US$),NE.DAB.TOTL.KD,Gross national expenditure,4.48E+12,4.54E+12,4.57E+12
+Japan,JPN,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,Gross national expenditure,100.52053,103.7603038,101.5462318
+Japan,JPN,Households and NPISHs Final consumption expenditure (current LCU),NE.CON.PRVT.CN,Households and NPISHs Final consumption expenditure,2.96E+14,3.11E+14,..
+Japan,JPN,Households and NPISHs Final consumption expenditure (constant LCU),NE.CON.PRVT.KN,Households and NPISHs Final consumption expenditure,2.90E+14,2.96E+14,..
+Japan,JPN,Households and NPISHs Final consumption expenditure (constant 2015 US$),NE.CON.PRVT.KD,Households and NPISHs Final consumption expenditure,2.39E+12,2.44E+12,..
+Japan,JPN,Households and NPISHs Final consumption expenditure (current US$),NE.CON.PRVT.CD,Households and NPISHs Final consumption expenditure,2.70E+12,2.37E+12,..
+Japan,JPN,Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Households and NPISHs Final consumption expenditure,0.78303478,2.154621602,..
+Japan,JPN,Households and NPISHs final consumption expenditure (% of GDP),NE.CON.PRVT.ZS,Households and NPISHs final consumption expenditure,53.53661083,55.57564532,..
+Japan,JPN,Households and NPISHs Final consumption expenditure per capita (constant 2015 US$),NE.CON.PRVT.PC.KD,Households and NPISHs Final consumption expenditure per capita,19037.61167,19534.31145,..
+Japan,JPN,Households and NPISHs Final consumption expenditure per capita growth (annual %),NE.CON.PRVT.PC.KD.ZG,Households and NPISHs Final consumption expenditure per capita growth,1.247656483,2.609044587,..
+Japan,JPN,"Households and NPISHs Final consumption expenditure, PPP (constant 2021 international $)",NE.CON.PRVT.PP.KD,"Households and NPISHs Final consumption expenditure, PPP",2.70E+12,2.76E+12,..
+Japan,JPN,"Households and NPISHs Final consumption expenditure, PPP (current international $)",NE.CON.PRVT.PP.CD,"Households and NPISHs Final consumption expenditure, PPP",2.70E+12,3.02E+12,..
+Japan,JPN,Households and NPISHs final consumption expenditure: linked series (current LCU),NE.CON.PRVT.CN.AD,Households and NPISHs final consumption expenditure: linked series,2.96E+14,3.11E+14,..
+Japan,JPN,ICT goods imports (% total goods imports),TM.VAL.ICTG.ZS.UN,ICT goods imports,13.08,11.27,..
+Japan,JPN,"Imports of goods and services (BoP, current US$)",BM.GSR.GNFS.CD,Imports of goods and services,9.42E+11,1.08E+12,9.90E+11
+Japan,JPN,Imports of goods and services (constant 2015 US$),NE.IMP.GNFS.KD,Imports of goods and services,8.39E+11,9.05E+11,8.92E+11
+Japan,JPN,Imports of goods and services (annual % growth),NE.IMP.GNFS.KD.ZG,Imports of goods and services,5.142160374,7.885840298,-1.421333878
+Japan,JPN,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Imports of goods and services,18.64600665,25.30200902,23.35210391
+Japan,JPN,Imports of goods and services (constant LCU),NE.IMP.GNFS.KN,Imports of goods and services,1.02E+14,1.10E+14,1.08E+14
+Japan,JPN,Imports of goods and services (current LCU),NE.IMP.GNFS.CN,Imports of goods and services,1.03E+14,1.42E+14,1.38E+14
+Japan,JPN,Imports of goods and services (current US$),NE.IMP.GNFS.CD,Imports of goods and services,9.39E+11,1.08E+12,9.82E+11
+Japan,JPN,"Imports of goods, services and primary income (BoP, current US$)",BM.GSR.TOTL.CD,"Imports of goods, services and primary income",1.05E+12,1.19E+12,1.14E+12
+Japan,JPN,Interest payments (% of expense),GC.XPN.INTP.ZS,Interest payments,6.156772123,6.260537365,..
+Japan,JPN,Interest payments (% of revenue),GC.XPN.INTP.RV.ZS,Interest payments,..,..,..
+Japan,JPN,Interest payments (current LCU),GC.XPN.INTP.CN,Interest payments,7.36E+12,7.34E+12,..
+Japan,JPN,"Interest rate spread (lending rate minus deposit rate, %)",FR.INR.LNDP,Interest rate spread,..,..,..
+Japan,JPN,"International tourism, expenditures (current US$)",ST.INT.XPND.CD,"International tourism, expenditures",..,..,..
+Japan,JPN,"International tourism, expenditures (% of total imports)",ST.INT.XPND.MP.ZS,"International tourism, expenditures",..,..,..
+Japan,JPN,"International tourism, expenditures for passenger transport items (current US$)",ST.INT.TRNX.CD,"International tourism, expenditures for passenger transport items",..,..,..
+Japan,JPN,"International tourism, expenditures for travel items (current US$)",ST.INT.TVLX.CD,"International tourism, expenditures for travel items",..,..,..
+Japan,JPN,Other expense (% of expense),GC.XPN.OTHR.ZS,Other expense,11.25521574,12.07349775,..
+Japan,JPN,Other expense (current LCU),GC.XPN.OTHR.CN,Other expense,1.35E+13,1.42E+13,..
+Japan,JPN,Out-of-pocket expenditure (% of current health expenditure),SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure,12.03,..,..
+Japan,JPN,Out-of-pocket expenditure per capita (current US$),SH.XPD.OOPC.PC.CD,Out-of-pocket expenditure per capita,523,..,..
+Japan,JPN,"Out-of-pocket expenditure per capita, PPP (current international $)",SH.XPD.OOPC.PP.CD,"Out-of-pocket expenditure per capita, PPP",562,..,..
+,,,,,,,
+,,,,,,,
+,,,,,,,
+Data from database: World Development Indicators,,,,,,,
+Last Updated: 01/28/2025,,,,,,,
